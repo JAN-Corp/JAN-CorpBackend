@@ -1,0 +1,57 @@
+{% extends "layouts/base.html" %}
+{% set project = "Home" %}
+
+{% block body %}
+    <!-- Start of body content specific to page -->
+    <div class="px-5 py-5 mx-auto">
+        <h1 class="text-white"><strong>SoCal Real Estate</strong></h1>
+        <div class="row">
+            <div class="col-4">
+                <div class="card">
+                    <img class="card-img-top" src="{{ url_for('static', filename='assets/sandiego.jpg') }}" alt="Formula 1" height="250">
+                    <div class="card-body">
+                    <h5 class="card-title">About</h5>
+                    <p class="card-text">
+                        <ol>
+                            <li>SoCal Real Estate is a group that strives to provide comprehensive real estate solutions tailored to meet the diverse needs of clients across Southern California.</li>
+                            <li>We are committed to delivering unparalleled expertise, personalized service, and innovative strategies to help our clients achieve their property goals with confidence and peace of mind.</li>
+                            <li>Our team of experienced professionals is dedicated to exceeding expectations, fostering long-term relationships, and contributing positively to the communities we serve.</li>
+                        </ol>
+                    </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img class="card-img-top" src="{{ url_for('static', filename='assets/nitin.jpeg') }}" alt="Porsche" height="250">
+                    <div class="card-body">
+                    <h5 class="card-title">Leader: Nitin Balaji</h5>
+                    <p class="card-text">
+                        <ol>
+                            <li>Nitin Balaji leads the SoCal Real Estate Group with a vision for excellence and a commitment to client satisfaction.</li>
+                            <li>With a wealth of experience in the real estate industry and a passion for helping individuals and families find their perfect home or investment property, Nitin brings a unique blend of expertise, integrity, and innovation to every transaction.</li>
+                            <li>Under his leadership, the SoCal Real Estate Group continues to thrive as a trusted partner in the dynamic Southern California real estate market, dedicated to delivering exceptional results and building lasting relationships based on trust, transparency, and professionalism.</li>
+                        </ol>
+                    </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card">
+                    <img class="card-img-top" src="{{ url_for('static', filename='assets/zillow.jpeg') }}" alt="Backend and Persistence" height="250">
+                    <div class="card-body">
+                    <h5 class="card-title">Inspiration</h5>
+                    <p class="card-text">
+                        <ol>
+                            <li>The inspiration of SoCal Real Estate Group is rooted in the pioneering spirit of Zillow, a transformative force in the real estate industry.</li>
+                            <li>Drawing from Zillow's innovative approach to technology, data analytics, and user experience, SoCal Real Estate Group seeks to redefine the standard of excellence in the Southern California real estate market.</li>
+                            <li>Just as Zillow revolutionized the way people search for homes, SoCal Real Estate Group aspires to revolutionize the way people experience real estate, guided by a shared dedication to innovation, integrity, and customer-centric service.</li>
+                        </ol>
+                    </p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+{% endblock %}
