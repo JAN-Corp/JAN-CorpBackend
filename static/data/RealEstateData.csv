@@ -1,0 +1,803 @@
+address,city,state,zipcode,latitude,longitude,price,bathrooms,bedrooms,livingArea,homeType,PriceEstimate,RentEstimate,imgSrc
+"10644 Bellagio Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.080402,-118.44406,195000000,20,7,,Single Family,186955300,730387,https://photos.zillowstatic.com/fp/ac43a635192aa51507ed6454056d3c37-p_e.jpg
+"19 Del Mar, Newport Coast, CA 92657",Newport Coast,CA,92657,33.579117,-117.833084,89000000,8,5,14958,Single Family,78081100,145896,https://photos.zillowstatic.com/fp/3034c1d317dd879f9a9068736e706166-p_e.jpg
+"1028 Ridgedale Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.08456,-118.42676,85000000,18,12,24325,Single Family,,,https://photos.zillowstatic.com/fp/5cc3439fa0519c43246a373e26315888-p_e.jpg
+"1210 Benedict Canyon Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.088654,-118.42405,75000000,16,11,27150,Single Family,73546400,257068,https://photos.zillowstatic.com/fp/6207e369a416378bb8fc58e2afdd243b-p_e.jpg
+"912 Benedict Canyon Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.080776,-118.41729,72500000,15,7,17005,Single Family,61592000,271420,https://photos.zillowstatic.com/fp/dddb92ad49aeb2e21727c916f99b79c5-p_e.jpg
+"6 Midsummer, Newport Beach, CA 92657",Newport Beach,CA,92657,33.582565,-117.82734,69800000,13,7,15500,Single Family,35910300,112062,https://photos.zillowstatic.com/fp/3b545f85930e760a01950fc6e82c1a42-p_e.jpg
+"1220 W Bay Ave, Newport Beach, CA 92661",Newport Beach,CA,92661,33.60714,-117.91654,68000000,8,6,12749,Single Family,,27589,https://photos.zillowstatic.com/fp/634fdc32a54253f589709cfcadaefb58-p_e.jpg
+"28026 Sea Lane Dr, Malibu, CA 90265",Malibu,CA,90265,34.022305,-118.78263,67500000,5,4,3795,Single Family,,54351,https://photos.zillowstatic.com/fp/5ec4fd5e5187b21749c2a4595a75218f-p_e.jpg
+"1005 N Alpine Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.09128,-118.40844,65000000,6,4,4351,Single Family,10762400,40201,https://photos.zillowstatic.com/fp/a65f89f92f6710f634e0f6934bc24e32-p_e.jpg
+"10979 Chalon Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.084206,-118.460014,65000000,24,12,32000,Single Family,62502800,243024,https://photos.zillowstatic.com/fp/e61450ea4cd0c3079201abdf771f70d1-p_e.jpg
+"20 Harbor Is, Newport Beach, CA 92660",Newport Beach,CA,92660,33.61083,-117.90368,64000000,5,6,3600,Single Family,,,https://photos.zillowstatic.com/fp/75d280eb7f7658ff83cfd9b9736b4c9a-p_e.jpg
+"31 High Water, Newport Coast, CA 92657",Newport Coast,CA,92657,33.57914,-117.82889,62900000,12,7,15000,Single Family,54307800,165013,https://photos.zillowstatic.com/fp/4a54ba196e1d05bd33132b2781e869f0-p_e.jpg
+"1108 Wallace Rdg, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.09969,-118.39609,62000000,14,7,18169,Single Family,53709800,229876,https://photos.zillowstatic.com/fp/bec6da814a686f894d9d9d29e8daf4dc-p_e.jpg
+"46 Deep Sea, Newport Coast, CA 92657",Newport Coast,CA,92657,33.577866,-117.82945,58888000,10,6,14000,Single Family,55471900,163334,https://photos.zillowstatic.com/fp/b1700497f9be8217d2f377abbde739f8-p_e.jpg
+"41800 E Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.049816,-118.95642,57500000,7,5,8206,Single Family,12454100,48315,https://photos.zillowstatic.com/fp/159d5417bb0e4ee2ae4a21808a518d6f-p_e.jpg
+"7 Strand Beach Dr, Dana Point, CA 92629",Dana Point,CA,92629,33.46488,-117.71484,55000000,8,6,9630,Single Family,48254000,157217,https://photos.zillowstatic.com/fp/8194486eff6e67ee71daeb951a5ea298-p_e.jpg
+"28 Tide Watch, Newport Beach, CA 92657",Newport Beach,CA,92657,33.584064,-117.82259,55000000,8,6,10900,Single Family,48102400,156292,https://photos.zillowstatic.com/fp/94d7f6e4e4a63da2367fc469002b96b8-p_e.jpg
+"3 Del Mar, Newport Coast, CA 92657",Newport Coast,CA,92657,33.58111,-117.833176,53895000,11,7,11765,Single Family,51638500,154971,https://photos.zillowstatic.com/fp/ede644e4a2ec7b6fdbb9ebb9e2a03134-p_e.jpg
+"362 Copa De Oro Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.08211,-118.440414,53000000,5,6,11664,Single Family,47387500,204537,https://photos.zillowstatic.com/fp/729a03998dd39f5a45d8ee1d3a11d0d1-p_e.jpg
+"677 Nimes Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.08882,-118.43947,49990000,11,6,20000,Single Family,,190863,https://photos.zillowstatic.com/fp/5af766054e292cdfc02a9043207d386f-p_e.jpg
+"28034 Sea Lane Dr, Malibu, CA 90265",Malibu,CA,90265,34.02232,-118.783134,47500000,4,3,5507,Single Family,41527700,163850,https://photos.zillowstatic.com/fp/7201255ec6891743c320eb157fe89032-p_e.jpg
+"320 Saint Pierre Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.084564,-118.436325,46000000,11,8,0,Single Family,44340200,171264,https://photos.zillowstatic.com/fp/82a9dbb4799446d2324717e36c9eb8bf-p_e.jpg
+"1006 N Crescent Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.085426,-118.41486,45000000,9,10,8484,Single Family,38019200,165652,https://photos.zillowstatic.com/fp/34e74e4c5c664ec520e8fa94c057ca13-p_e.jpg
+"1006 N Roxbury Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.081753,-118.42131,45000000,10,5,20422,Single Family,42984500,167319,https://photos.zillowstatic.com/fp/a1f03fb0fd4f44cc1def0ae98f2e530f-p_e.jpg
+"642 Siena Way, Los Angeles, CA 90077",Los Angeles,CA,90077,34.0831,-118.445946,45000000,7,5,11000,Single Family,44862700,90503,https://photos.zillowstatic.com/fp/c15080cb7060607d7c526ff50295bd2b-p_e.jpg
+3 The Point,Coronado,CA,92118,32.62977,-117.13114,43000000.0,11.0,7.0,11715.0,Single Family,,45000.0,https://photos.zillowstatic.com/fp/f9d578ce74e88e5a426d2ad48405b4ea-p_e.jpg
+"33602 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.042118,-118.90748,42500000,8,6,6451,Single Family,36815700,143187,https://photos.zillowstatic.com/fp/f198db735ccbeeb2385b12be744ed43f-p_e.jpg
+"63 Monarch Bay Dr, Dana Point, CA 92629",Dana Point,CA,92629,33.48445,-117.72967,42000000,6,4,7717,Single Family,37520800,114829,https://photos.zillowstatic.com/fp/b4eabc624db8ddb378879fa09fe6956b-p_e.jpg
+"13 Old Ranch Rd, Laguna Niguel, CA 92677",Laguna Niguel,CA,92677,33.49451,-117.68707,39995000,10,6,15188,Single Family,35069300,105291,https://photos.zillowstatic.com/fp/00abc03f9492b544efa8266e945a0252-p_e.jpg
+"20462 SW Birch St, Newport Beach, CA 92660",Newport Beach,CA,92660,33.655483,-117.87909,39950000,9,5,12000,Single Family,10403200,32585,https://photos.zillowstatic.com/fp/e856d04bc21046016c795b105fca87c9-p_e.jpg
+"755 Sarbonne Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.084747,-118.451454,39900000,10,6,15000,Single Family,,135031,https://photos.zillowstatic.com/fp/59d9f41ad5c160bfdfdc423768eadc74-p_e.jpg
+"21 Strand Beach Dr, Dana Point, CA 92629",Dana Point,CA,92629,33.4659,-117.71549,39500000,9,5,10576,Single Family,35067200,105022,https://photos.zillowstatic.com/fp/65dfe1716e56fc5c6afbb318f205371e-p_e.jpg
+"16 Lagunita Dr, Laguna Beach, CA 92651",Laguna Beach,CA,92651,33.51868,-117.76174,38000000,8,5,8718,Single Family,,44124,https://photos.zillowstatic.com/fp/dbb482240ee36f9ce667b92df62ca27b-p_e.jpg
+"642 Perugia Way, Los Angeles, CA 90077",Los Angeles,CA,90077,34.081383,-118.44928,37995000,9,5,14438,Single Family,34387200,143910,https://photos.zillowstatic.com/fp/77bf03929bb8ec12c28bc3a7be5f16a4-p_e.jpg
+"11 Montage Way, Laguna Beach, CA 92651",Laguna Beach,CA,92651,33.515034,-117.75868,37700000,8,5,9305,Single Family,,85414,https://photos.zillowstatic.com/fp/0df10670d357e0a7a3f61552ab2fa700-p_e.jpg
+"21 Spinnaker, Newport Coast, CA 92657",Newport Coast,CA,92657,33.5844,-117.826164,35000000,8,5,11700,Single Family,,,https://photos.zillowstatic.com/fp/5585b666092702c9d3b1b51f08b5a893-p_e.jpg
+"14 Channel Vis, Newport Coast, CA 92657",Newport Coast,CA,92657,33.590073,-117.838425,34950000,12,7,14196,Single Family,33596700,101682,https://photos.zillowstatic.com/fp/3610fb156a451d2254a6a58b700621b6-p_e.jpg
+1547 El Camino Del Teatro,La Jolla,CA,92037,32.829933,-117.25997,34750000.0,11.0,5.0,11239.0,Single Family,33402100.0,106316.0,https://photos.zillowstatic.com/fp/eff371ebb44171106c75b8e4a2eb7f4c-p_e.jpg
+"6 Inspiration Poin, Laguna Niguel, CA 92677",Laguna Niguel,CA,92677,33.50018,-117.68854,33800000,15,9,20580,Single Family,32220800,97199,https://photos.zillowstatic.com/fp/0856a43c322efa62ed78f24f67ef77df-p_e.jpg
+"18 Swimmers Poin, Newport Coast, CA 92657",Newport Coast,CA,92657,33.580666,-117.82153,31500000,11,6,11494,Single Family,,,https://photos.zillowstatic.com/fp/3aa601805fc98c0d3765f799caf07ba6-p_e.jpg
+"15 Camel Point Dr, Laguna Beach, CA 92651",Laguna Beach,CA,92651,33.50726,-117.75043,30000000,5,4,5100,Single Family,26497100,85899,https://photos.zillowstatic.com/fp/caf7643ff90ba5d845d546f7bcc747cd-p_e.jpg
+"1005 Laurel Way, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.08591,-118.414,30000000,13,10,15404,Single Family,26699700,115223,https://photos.zillowstatic.com/fp/f5bfebaaacaab831a6ed7dcfd292ff8a-p_e.jpg
+"10702 Levico Way, Los Angeles, CA 90077",Los Angeles,CA,90077,34.097416,-118.451294,29995000,9,6,12586,Single Family,26572400,116658,https://photos.zillowstatic.com/fp/7e6a458a01a25fe14e0bee7befd9d97d-p_e.jpg
+"1940 Bel Air Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.10434,-118.45118,29950000,15,8,17013,Single Family,26658600,112392,https://photos.zillowstatic.com/fp/ccb8cab61c0c11414c919be59f25e1c8-p_e.jpg
+"31555 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.039875,-118.86182,29900000,13,7,12000,Single Family,26976700,114046,https://photos.zillowstatic.com/fp/643ac00a47ee5cc173b4cbddf33f5f61-p_e.jpg
+"9463 Sunset Blvd, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.087082,-118.40212,28900000,6,5,7029,Single Family,28054700,90516,https://photos.zillowstatic.com/fp/9f8e93f525b39c8003f67a1ae79c37b3-p_e.jpg
+"6889 Dume Dr, Malibu, CA 90265",Malibu,CA,90265,34.012924,-118.80738,28500000,8,6,8500,Single Family,27463300,107565,https://photos.zillowstatic.com/fp/3119e81ccfcba8f45a50f9ca8c33128c-p_e.jpg
+"11809 Ellice St, Malibu, CA 90265",Malibu,CA,90265,34.05322,-118.9586,28500000,12,6,16489,Single Family,25765500,100906,https://photos.zillowstatic.com/fp/e6e58394289759d69bfc052eaceb4475-p_e.jpg
+"38 Linda Isle, Newport Beach, CA 92660",Newport Beach,CA,92660,33.61285,-117.90438,27900000,5,4,5900,Single Family,,,https://photos.zillowstatic.com/fp/1ba0fc3799936f4c70735284809e0e46-p_e.jpg
+"32554 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.039104,-118.88407,26495000,5,4,5232,Single Family,25466900,98880,https://photos.zillowstatic.com/fp/1072e9ee215f4928b451540210a685b0-p_e.jpg
+"801 Tarcuto Way, Los Angeles, CA 90077",Los Angeles,CA,90077,34.083324,-118.45614,24995000,7,7,7473,Single Family,21877900,93382,https://photos.zillowstatic.com/fp/0f222fc7c3cd6910a360acc787fd4845-p_e.jpg
+"31401 Mar Vista Ave, Laguna Beach, CA 92651",Laguna Beach,CA,92651,33.506886,-117.74048,24995000,8,5,12730,Single Family,23917200,71605,https://photos.zillowstatic.com/fp/c7c30fb63ab97438fee5538192cfd251-p_e.jpg
+"1013 N Roxbury Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.08191,-118.42225,24950000,8,6,10039,Single Family,24759000,88447,https://photos.zillowstatic.com/fp/617d29c82b9b51bdede629efa1583d59-p_e.jpg
+"32357 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.04107,-118.87828,24950000,9,5,9975,Single Family,24220700,93931,https://photos.zillowstatic.com/fp/852968e5677c65ff3e8a31981c60ab34-p_e.jpg
+"2938 Sandy Ln, Del Mar, CA 92014",Del Mar,CA,92014,32.973175,-117.269554,24900000,6,4,4349,Single Family,28501800,92309,https://photos.zillowstatic.com/fp/907a2bd0dba8317cf1eb2fe30e13d79d-p_e.jpg
+"722 N Camden Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.076378,-118.41356,24500000,10,7,11446,Single Family,23644200,92183,https://photos.zillowstatic.com/fp/81ffccf88347f7a9a244b0fe15d2ede4-p_e.jpg
+"917 Loma Vista Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.09335,-118.39916,23999000,13,7,11360,Single Family,22846400,87692,https://photos.zillowstatic.com/fp/ff300ec094e721bbb11cc8a1e1c9a215-p_e.jpg
+"402 Doheny Rd, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.090427,-118.39711,23995000,5,5,6594,Single Family,21672300,92124,https://photos.zillowstatic.com/fp/801ac269d5e054a33f717432f1f85ce9-p_e.jpg
+"1251 Shadow Hill Way, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.093212,-118.41479,23995000,7,5,9000,Single Family,23736400,78666,https://photos.zillowstatic.com/fp/eafac245ca77bf2f6253bcafb3c7c982-p_e.jpg
+"1033 Somera Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.08954,-118.45875,23888000,7,6,12000,Single Family,22787700,91006,https://photos.zillowstatic.com/fp/8deb1e6f4da38e16596d95692b1fbe22-p_e.jpg
+7310 Vista Del Mar Ave,La Jolla,CA,92037,32.83613,-117.28068,23800000.0,6.0,5.0,4900.0,Single Family,23500900.0,75358.0,https://photos.zillowstatic.com/fp/35c50555f634e596a602913ab0437717-p_e.jpg
+"5385 Linea Del Cielo, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.009407,-117.21392,23500000,9,7,12800,Single Family,23933500,76142,https://photos.zillowstatic.com/fp/b7cac2c72c821268976cf2765a721ce7-p_e.jpg
+"10710 Chalon Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.082603,-118.4493,23500000,12,8,,Single Family,23311100,91592,https://photos.zillowstatic.com/fp/cfffcaee5aa9118bb8114025428342ac-p_e.jpg
+"74 Golden Eagle, Irvine, CA 92603",Irvine,CA,92603,33.620014,-117.79266,22900000,9,4,12225,Single Family,22530300,68220,https://photos.zillowstatic.com/fp/72090418f6964d1fbf9675784f2da7b8-p_e.jpg
+"5228 Chelsea St, La Jolla, CA 92037",La Jolla,CA,92037,32.807457,-117.26379,22500000,8,5,7581,Single Family,24279100,77632,https://photos.zillowstatic.com/fp/784d826bd6b35bf0caa838fe9eaddfd0-p_e.jpg
+1890 Spindrift Dr,La Jolla,CA,92037,32.85159,-117.26182,22500000.0,7.0,5.0,5129.0,Single Family,22308900.0,24075.0,https://photos.zillowstatic.com/fp/ff25b8b587aee25a914596b597f30cfb-p_e.jpg
+"634 Stone Canyon Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.084267,-118.44355,22000000,5,7,7106,Single Family,,40930,https://photos.zillowstatic.com/fp/3e0072d5462fd93358a7efec9ff36e50-p_e.jpg
+"1061 Loma Vista Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.097084,-118.399025,21995000,8,6,8800,Single Family,,52605,https://photos.zillowstatic.com/fp/d6c63d6a49c4d6b6867e3b9796bc6c39-p_e.jpg
+2112 Ocean Front,Del Mar,CA,92014,32.967194,-117.26859,21950000.0,4.0,4.0,2000.0,Single Family,21874300.0,70128.0,https://photos.zillowstatic.com/fp/f1216c8e13fbd006d42285d76d0eabc8-p_e.jpg
+"303 Vista De La Playa, La Jolla, CA 92037",La Jolla,CA,92037,32.834255,-117.2812,21750000,7,6,5098,Single Family,20036900,65936,https://photos.zillowstatic.com/fp/11693379cd61537150b586f87243a0c1-p_e.jpg
+"5305 Carlsbad Blvd, Carlsbad, CA 92008",Carlsbad,CA,92008,33.1293,-117.33404,20000000,9,5,10000,Single Family,19402700,76070,https://photos.zillowstatic.com/fp/a84876a91bb29d84c5937a3b8e1ede57-p_e.jpg
+"722 N Elm Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.084435,-118.40323,19999500,9,7,9063,Single Family,18255700,77536,https://photos.zillowstatic.com/fp/0b01457994568104b8282f40765b2c61-p_e.jpg
+"1024 Summit Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.085426,-118.41992,19950000,9,7,12000,Single Family,19592700,76542,https://photos.zillowstatic.com/fp/d33b7a721cb5e546223dcae3683973d0-p_e.jpg
+"1160 San Ysidro Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.092945,-118.42039,18950000,9,6,9000,Single Family,17141600,67004,https://photos.zillowstatic.com/fp/a4253aec40e72a615240edd5100a91e5-p_e.jpg
+"1469 Bel Air Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.09737,-118.4464,18900000,12,7,12573,Single Family,,83227,https://photos.zillowstatic.com/fp/6c0a0519f973189b66dafc0ce21b9506-p_e.jpg
+"9438 La Jolla Farms Rd, La Jolla, CA 92037",La Jolla,CA,92037,32.876846,-117.24611,18450000,7,5,7509,Single Family,20397100,65035,https://photos.zillowstatic.com/fp/16fe687818e1eaedc52230f536494f00-p_e.jpg
+"10651 Chalon Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.084232,-118.44724,18400000,8,9,9183,Single Family,,,https://photos.zillowstatic.com/fp/96638c43fbdead28460f1d254bb20b78-p_e.jpg
+"6251 La Jolla Scenic Dr S, La Jolla, CA 92037",La Jolla,CA,92037,32.827564,-117.253334,18375000,9,6,9000,Single Family,19335300,62500,https://photos.zillowstatic.com/fp/6de840be04056eae83fb15d41a9e53c3-p_e.jpg
+"614 N Beverly Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.075657,-118.40827,18250000,5,6,5269,Single Family,16905400,71463,https://photos.zillowstatic.com/fp/e979cf84b59b597a00be9721ad0b11ad-p_e.jpg
+"626 Foothill Rd, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.080883,-118.40173,17750000,7,5,6962,Single Family,17650400,74174,https://photos.zillowstatic.com/fp/5a5b34e0bfa3b0760551737f6ade4749-p_e.jpg
+"1714 Stone Canyon Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.104378,-118.459526,17680000,13,8,17415,Single Family,,73238,https://photos.zillowstatic.com/fp/5621245d4d395bb95524cf1866fd1c30-p_e.jpg
+"618 N Arden Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.083275,-118.39499,17500000,10,8,8471,Single Family,15799400,70265,https://photos.zillowstatic.com/fp/53e4db3250c8a7195b0b32855dc911b2-p_e.jpg
+5740 La Jolla Corona Dr,La Jolla,CA,92037,32.81686,-117.26554,17500000.0,8.0,5.0,8810.0,Single Family,17238000.0,54617.0,https://photos.zillowstatic.com/fp/680473e3e3be6bd3b7ebd3064db20160-p_e.jpg
+"5410 Calumet Ave, La Jolla, CA 92037",La Jolla,CA,92037,32.810394,-117.26922,17400000,6,5,5534,Single Family,13359900,43537,https://photos.zillowstatic.com/fp/0934f150fcf959b999c1712e189b76d8-p_e.jpg
+"8436 Westway Dr, La Jolla, CA 92037",La Jolla,CA,92037,32.85942,-117.25042,17400000,10,7,8078,Single Family,19015900,61516,https://photos.zillowstatic.com/fp/18b43e3ba93a5af8e4b7e8721776ec6a-p_e.jpg
+"701 1st St, San Diego, CA 92118",San Diego,CA,92118,32.701077,-117.17631,17250000,8,7,9130,Single Family,18084400,59584,https://photos.zillowstatic.com/fp/7fdb92c7e07061840a1bead5cdd0ae97-p_e.jpg
+"9860 La Jolla Farms Rd, La Jolla, CA 92037",La Jolla,CA,92037,32.88467,-117.24978,17250000,6,7,11449,Single Family,17143800,55430,https://photos.zillowstatic.com/fp/909bc70bce32c8765d3d3a84cc6c2a18-p_e.jpg
+"11782 Southampton Ct, Beverly Hills, CA 90077",Beverly Hills,CA,90077,34.110115,-118.47428,17250000,12,8,13377,Single Family,15750000,66754,https://photos.zillowstatic.com/fp/e6c9d0228c2167d2689cbe83d7e500ed-p_e.jpg
+"5731 Lago Lindo, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.02594,-117.2099,17000000,9,7,11418,Single Family,17075100,54850,https://photos.zillowstatic.com/fp/458399c4a81f408fee9f7b24dfd7615c-p_e.jpg
+"2681 Idle Hour Ln, La Jolla, CA 92037",La Jolla,CA,92037,32.88241,-117.246284,17000000,14,9,14252,Single Family,18822300,59993,https://photos.zillowstatic.com/fp/d3bc51905ce920931efc2ea0f2c7602b-p_e.jpg
+355 Bellaire St,Del Mar,CA,92014,32.96435,-117.26341,16995000.0,5.0,5.0,4194.0,Single Family,,,https://photos.zillowstatic.com/fp/71a91c8aca45e13a6925641eb92c2a70-p_e.jpg
+16634 36 Los Morros,Rancho Santa Fe,CA,92091,33.017548,-117.23575,16950000.0,8.0,6.0,10261.0,Single Family,15578400.0,56096.0,https://photos.zillowstatic.com/fp/41e9b69d5db64859edafe0d1693b2440-p_e.jpg
+"15250 Las Planideras, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.99054,-117.22242,16750000,9,7,8928,Single Family,17484100,55721,https://photos.zillowstatic.com/fp/b261efb87aff2d18633db793fe65c57d-p_e.jpg
+"6395 Clubhouse Dr, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.97483,-117.184555,16595000,8,6,11622,Single Family,18176100,58029,https://photos.zillowstatic.com/fp/86daf0c847c77679d1f808191063dc38-p_e.jpg
+"6424 La Valle Plateada, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.024124,-117.19423,16500000,12,7,18223,Single Family,17357400,57893,https://photos.zillowstatic.com/fp/6a2fba65441f46240a397e41aa326a7d-p_e.jpg
+"5801 Lago Lindo ,, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.0264,-117.2091,16400000,7,6,10361,Single Family,16418400,49060,https://photos.zillowstatic.com/fp/f4b7e4c68c152ca6dbc2dabb222a8f13-p_e.jpg
+"532 Neptune Ave, Encinitas, CA 92024",Encinitas,CA,92024,33.058273,-117.30207,16250000,6,5,6329,Single Family,17027600,54279,https://photos.zillowstatic.com/fp/d07dca72a1fc0809cc96c3af06b6bc38-p_e.jpg
+"1144 Isabella Ave, Coronado, CA 92118",Coronado,CA,92118,32.68463,-117.18392,15927400,7,8,7446,Single Family,14254000,45667,https://photos.zillowstatic.com/fp/a6841c2aca51adec59e748d8c1570828-p_e.jpg
+7404 Hillside Dr,La Jolla,CA,92037,32.843422,-117.25566,15900000.0,5.0,5.0,4863.0,Single Family,15902600.0,30464.0,https://photos.zillowstatic.com/fp/815aad0f1da99a50bd369267d58e92e5-p_e.jpg
+"4537 La Orilla, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.01057,-117.234634,15880000,12,7,9692,Single Family,,36750,https://photos.zillowstatic.com/fp/efa806ab5c8980ba70d9c2c0eaa61387-p_e.jpg
+"7505 Hillside Dr, La Jolla, CA 92037",La Jolla,CA,92037,32.844913,-117.2568,15800000,6,5,10285,Single Family,17188300,54966,https://photos.zillowstatic.com/fp/a72b48a7672d4cc1a100f48e986618bd-p_e.jpg
+"5940 Ladys Secret Dr, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.98292,-117.193825,15500000,12,7,10353,Single Family,16679900,53114,https://photos.zillowstatic.com/fp/a944361d2a98d6b07d935781bb693a29-p_e.jpg
+18220 Via De Fortuna,Rancho Santa Fe,CA,92091,33.043034,-117.2106,13995000.0,8.0,7.0,10500.0,Single Family,,4140.0,https://photos.zillowstatic.com/fp/00d512b6afab84d4564046d37f9c5661-p_e.jpg
+"2055 Seaview Ave, Del Mar, CA 92014",Del Mar,CA,92014,32.967148,-117.263435,13995000,5,4,5525,Single Family,15157100,49269,https://photos.zillowstatic.com/fp/498581de9148617b456648742ec5891a-p_e.jpg
+"11075 W Sunset Blvd, Los Angeles, CA 90049",Los Angeles,CA,90049,34.07468,-118.45798,13995000,7,5,8572,Single Family,,48922,https://photos.zillowstatic.com/fp/628e003a219e3cae8663ce25c8588506-p_e.jpg
+"1021 Muirlands Dr, La Jolla, CA 92037",La Jolla,CA,92037,32.82654,-117.26765,13500000,10,8,10168,Single Family,14095500,44922,https://photos.zillowstatic.com/fp/6ffe585c3724dd022461bd23af9e0e43-p_e.jpg
+"1401 Bel Air Rd, Los Angeles, CA 90077",Los Angeles,CA,90077,34.09601,-118.44576,12990000,9,7,7509,Single Family,11929700,49825,https://photos.zillowstatic.com/fp/1ef3ff9c0881fe984c62e60d314321e3-p_e.jpg
+7451 Hillside Dr,La Jolla,CA,92037,32.844547,-117.25563,12900000.0,6.0,6.0,9022.0,Single Family,12584400.0,37731.0,https://photos.zillowstatic.com/fp/b5ede4f062749d69004ca0ce696aaa25-p_e.jpg
+2900 Nichols St,San Diego,CA,92106,32.71144,-117.23719,12875000.0,6.0,5.0,4951.0,Single Family,11709400.0,40027.0,https://photos.zillowstatic.com/fp/739febb6e3ac86751d50d0802faeb298-p_e.jpg
+"516 Stratford Ct, Del Mar, CA 92014",Del Mar,CA,92014,32.948753,-117.263794,12500000,7,4,6532,Single Family,14959200,48630,https://photos.zillowstatic.com/fp/b6a26184f4b3a7f5bc7f47b9689bcd7a-p_e.jpg
+"7447 Hillside Dr, La Jolla, CA 92037",La Jolla,CA,92037,32.844482,-117.2553,12000000,6,5,8175,Single Family,12454600,39596,https://photos.zillowstatic.com/fp/7a1d0973f12c3703991648465835793a-p_e.jpg
+"16701 Camino Sierra Del Sur, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.99601,-117.18184,11588000,13,10,12881,Single Family,12764300,40747,https://photos.zillowstatic.com/fp/e29169960e2af681fa8225c767cd2f04-p_e.jpg
+"2188 Heather Ln, Del Mar, CA 92014",Del Mar,CA,92014,32.969227,-117.262856,11500000,7,4,6115,Single Family,12888000,41196,https://photos.zillowstatic.com/fp/29407a492db38d54ac265a9707638c08-p_e.jpg
+"18104 Via Roswitha, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.045517,-117.201416,11500000,8,8,15105,Single Family,12424100,39728,https://photos.zillowstatic.com/fp/9499cac6096885b65ab4fbe59b38f1cd-p_e.jpg
+17176 Calle Serena,Rancho Santa Fe,CA,92067,32.998615,-117.17315,11295000.0,7.0,5.0,11372.0,Single Family,11744400.0,39266.0,https://photos.zillowstatic.com/fp/7c2b1b6d64c3c940593475878eba99ef-p_e.jpg
+"5956 San Elijo Ave, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.03355,-117.20554,11000000,11,6,12903,Single Family,10897600,34845,https://photos.zillowstatic.com/fp/e837a1836f2e17efb7ed0308fac9079d-p_e.jpg
+1718 Valdes Dr,La Jolla,CA,92037,32.845043,-117.26126,10995000.0,7.0,4.0,6380.0,Single Family,10868800.0,34809.0,https://photos.zillowstatic.com/fp/b553753615bd810a18181d3e6dab53c9-p_e.jpg
+1796 Soledad Ave,La Jolla,CA,92037,32.846268,-117.261,10900000.0,9.0,6.0,7770.0,Single Family,10739600.0,34388.0,https://photos.zillowstatic.com/fp/dfc6d7e767268b9e3cd6f206653d3774-p_e.jpg
+"1640 La Jolla Rancho Rd, La Jolla, CA 92037",La Jolla,CA,92037,32.825996,-117.257645,10750000,10,8,13575,Single Family,12699100,41304,https://photos.zillowstatic.com/fp/be6586f96ada12c0a67e960636ad6899-p_e.jpg
+1930 Balboa Ave,Del Mar,CA,92014,32.965942,-117.26289,10695000.0,7.0,6.0,5478.0,Single Family,,,https://photos.zillowstatic.com/fp/8bd4504d246c18e569bd926c4c2bcac8-p_e.jpg
+"910 Stratford Ct, Del Mar, CA 92014",Del Mar,CA,92014,32.9531,-117.264725,10500000,6,5,4869,Single Family,10774200,35766,https://photos.zillowstatic.com/fp/ad5db0212ae80d19b7d480f5689c7028-p_e.jpg
+"2506 Ruette Nicole, La Jolla, CA 92037",La Jolla,CA,92037,32.861614,-117.2497,10300000,9,6,8927,Single Family,12484700,40683,https://photos.zillowstatic.com/fp/7108db5d22a02fb2589f99d0ca7f9395-p_e.jpg
+"1330 Inspiration Dr, La Jolla, CA 92037",La Jolla,CA,92037,32.82582,-117.26334,10000000,11,5,12017,Single Family,12205000,40170,https://photos.zillowstatic.com/fp/9b6295ebe5fd3615f33b5dbd3f3f90f9-p_e.jpg
+6115 Mimulus,Rancho Santa Fe,CA,92067,33.027954,-117.20116,9995000.0,11.0,6.0,10375.0,Single Family,9422500.0,29936.0,https://photos.zillowstatic.com/fp/0be124d0732384176e807c0f25965678-p_e.jpg
+7413 Fairway Rd,La Jolla,CA,92037,32.841522,-117.26348,9980000.0,5.0,3.0,5042.0,Single Family,9853800.0,31306.0,https://photos.zillowstatic.com/fp/beba29382cca8c5e80486828f077506b-p_e.jpg
+16580 Las Cuestas,Rancho Santa Fe,CA,92067,33.014797,-117.18537,9850000.0,10.0,7.0,9261.0,Single Family,,,https://photos.zillowstatic.com/fp/8c38b9781e6ab58238ae6d73ecd3ffd1-p_e.jpg
+4434 Los Pinos,Rancho Santa Fe,CA,92067,33.023647,-117.23757,9775000.0,10.0,7.0,11301.0,Single Family,,34992.0,https://photos.zillowstatic.com/fp/adfa1072598e03810ddbd690e4d6e872-p_e.jpg
+4314 Vista De La Tierra,Del Mar,CA,92014,32.98698,-117.24094,9750000.0,8.0,7.0,8763.0,Single Family,9741100.0,33817.0,https://photos.zillowstatic.com/fp/1da436f86e82ffec4cace8d53a8bd793-p_e.jpg
+"1023 Stratford Ct, Del Mar, CA 92014",Del Mar,CA,92014,32.954456,-117.26479,9750000,6,5,4436,Single Family,10760000,34332,https://photos.zillowstatic.com/fp/78e1a1e64456409a09ea31ea18c6b0cd-p_e.jpg
+1095 Hoover St,Carlsbad,CA,92008,33.148197,-117.32999,9700000.0,7.0,6.0,7250.0,Single Family,8959500.0,28336.0,https://photos.zillowstatic.com/fp/f4f25dae62deb7152d7b82ad87eb3f5b-p_e.jpg
+"7059 El Vuelo Del Este, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.028725,-117.180466,9650000,10,8,15647,Single Family,10414200,33758,https://photos.zillowstatic.com/fp/49753a7a48fea5d44eab3c0da0481cfb-p_e.jpg
+"16627 Los Morros, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.01499,-117.235825,9500000,10,8,16327,Single Family,12019900,37429,https://photos.zillowstatic.com/fp/55429fc0479e8cf5857dcd04abd9e37e-p_e.jpg
+"15815 Bella Siena, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.999237,-117.1982,9250000,10,7,17244,Single Family,10521900,33724,https://photos.zillowstatic.com/fp/666a29e9a34bca66a095964ea7b250e4-p_e.jpg
+"5757 Linea Del Cielo, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.017036,-117.21046,9000000,12,6,15425,Single Family,9845300,31449,https://photos.zillowstatic.com/fp/382552f9096bf6cf81fe7da8a1fefa46-p_e.jpg
+889 Sunset Cliffs Blvd,San Diego,CA,92107,32.723553,-117.25673,8999000.0,8.0,5.0,7516.0,Single Family,8260500.0,27851.0,https://photos.zillowstatic.com/fp/7fdd4fffe5ec0eb199c3256904159791-p_e.jpg
+"36852 Calle De Lobo, Murrieta, CA 92562",Murrieta,CA,92562,33.58996,-117.30396,8975000,10,7,15977,Single Family,,8347,https://photos.zillowstatic.com/fp/741fd577f3756067b2869e96036b2052-p_e.jpg
+2722 Camino Del Mar,Del Mar,CA,92014,32.971294,-117.26866,8800000.0,5.0,4.0,3341.0,Single Family,8620400.0,27546.0,https://photos.zillowstatic.com/fp/12c5e9d22b0bc6cc7051b3227bce43ed-p_e.jpg
+"2116 Balboa Ave, Del Mar, CA 92014",Del Mar,CA,92014,32.9678,-117.26305,8750000,5,5,5600,Single Family,9664400,30830,https://photos.zillowstatic.com/fp/b6680f1d28d21366a07de8e59f3cbfd8-p_e.jpg
+13980 Millards Ranch Ln,Poway,CA,92064,32.967514,-117.007576,8750000.0,5.0,6.0,5673.0,Single Family,7957100.0,27291.0,https://photos.zillowstatic.com/fp/fac15f1c594c825fbd3d5cab22a7593a-p_e.jpg
+"107 Via De La Valle, Del Mar, CA 92014",Del Mar,CA,92014,32.979954,-117.2677,8650000,5,4,4880,Single Family,7987500,25456,https://photos.zillowstatic.com/fp/7e9e098d3a95a874a33fad6904d106a0-p_e.jpg
+5316 Calumet Ave,La Jolla,CA,92037,32.80816,-117.26767,8570000.0,4.0,4.0,3668.0,Single Family,,,https://photos.zillowstatic.com/fp/5c665980a755e517664a04cce2862262-p_e.jpg
+"8441 Whale Watch Way, La Jolla, CA 92037",La Jolla,CA,92037,32.8601,-117.24844,8550000,7,5,8121,Single Family,9276700,29669,https://photos.zillowstatic.com/fp/eacf05669b0fd5650b7d37933d32494b-p_e.jpg
+225 Via Del Norte,La Jolla,CA,92037,32.822323,-117.27907,8450000.0,5.0,4.0,3495.0,Single Family,7866500.0,26677.0,https://photos.zillowstatic.com/fp/a0007db4f127c12ee0daeb5f06eeed23-p_e.jpg
+"2008 Seaview Ave, Del Mar, CA 92014",Del Mar,CA,92014,32.966522,-117.26453,8350000,6,5,5903,Single Family,9699300,31935,https://photos.zillowstatic.com/fp/fcbae911c64a6fa352fc42755955177d-p_e.jpg
+"16902 Via Cuesta Verde, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.99785,-117.17932,8050000,8,5,14912,Single Family,8499800,27014,https://photos.zillowstatic.com/fp/16468a039d11e83195142dfd6efb113a-p_e.jpg
+"6405 Primero Izquierdo, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.045437,-117.19682,8000000,11,7,13900,Single Family,8312700,26572,https://photos.zillowstatic.com/fp/07caf2fc221a9ce17a188ffe3542d376-p_e.jpg
+2497 Ocean St B,Carlsbad,CA,92008,33.16263,-117.35704,7999000.0,5.0,3.0,4643.0,Single Family,7273100.0,26903.0,https://photos.zillowstatic.com/fp/6931ff03ce517623da73fe8d5d8a85ed-p_e.jpg
+16636 El Zorro Vis,Rancho Santa Fe,CA,92067,33.014946,-117.19397,7995000.0,8.0,5.0,9932.0,Single Family,7288300.0,28195.0,https://photos.zillowstatic.com/fp/44761cb40308a37410a503945ab83f15-p_e.jpg
+"610 N Rexford Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.07774,-118.40324,7959000,3,3,2892,Single Family,7998000,22273,https://photos.zillowstatic.com/fp/47331cc0a6459e22b6270b2e742d660d-p_e.jpg
+4722 La Noria,Rancho Santa Fe,CA,92067,33.029053,-117.23404,7950000.0,9.0,7.0,8976.0,Single Family,7279800.0,25052.0,https://photos.zillowstatic.com/fp/9cad64f656b5f8313958c8bc171d4838-p_e.jpg
+28428 Highway 78,Ramona,CA,92065,33.0865,-116.711525,7950000.0,3.0,3.0,3800.0,Single Family,,,https://photos.zillowstatic.com/fp/d794134ea1dd51c47d6bf1291aa777b7-p_e.jpg
+"1293 Monte Cielo Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.100616,-118.407715,7900000,6,4,7200,Single Family,7272500,31986,https://photos.zillowstatic.com/fp/82420396f0170c8585f7e5180d076875-p_e.jpg
+"16715 Camino Sierra Del Sur, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.99546,-117.18108,7900000,14,10,16322,Single Family,19080000,61273,https://photos.zillowstatic.com/fp/8a1c79860704f615a1b53a4d24e1b489-p_e.jpg
+4532 Rancho Del Mar Trl,San Diego,CA,92130,32.971153,-117.22249,7880000.0,7.0,6.0,12130.0,Single Family,,28766.0,https://photos.zillowstatic.com/fp/001ebee4a96df5ca0ee508894333bf41-p_e.jpg
+1815 Monterey Ave,Coronado,CA,92118,32.683666,-117.16932,7795000.0,5.0,5.0,4791.0,Single Family,7169700.0,22978.0,https://photos.zillowstatic.com/fp/5f30efa298a196452ff915c162d9a416-p_e.jpg
+"150 10th St, Del Mar, CA 92014",Del Mar,CA,92014,32.954178,-117.265434,7750000,7,5,4437,Single Family,7886400,25921,https://photos.zillowstatic.com/fp/e416df483caa1d7e6d6d971ce4644bce-p_e.jpg
+"13598 Nogales Dr, Del Mar, CA 92014",Del Mar,CA,92014,32.945236,-117.25569,7637500,7,6,8005,Single Family,9438600,30731,https://photos.zillowstatic.com/fp/b0426c7c74b54d08f6ac29298d2043df-p_e.jpg
+"1761 Colgate Cir, La Jolla, CA 92037",La Jolla,CA,92037,32.823837,-117.25257,7500000,10,8,8228,Single Family,7708500,24515,https://photos.zillowstatic.com/fp/a00b5f85cffbec7399a9393fa2ecb9dc-p_e.jpg
+1928 Balboa Ave,Del Mar,CA,92014,32.965923,-117.2633,7495000.0,5.0,4.0,4739.0,Single Family,6946800.0,23771.0,https://photos.zillowstatic.com/fp/3e14e12c119f8ed29f8f8b08cfba2ef4-p_e.jpg
+"6404 La Jolla Scenic Dr S, La Jolla, CA 92037",La Jolla,CA,92037,32.8314,-117.253006,7460925,9,5,8700,Single Family,8803600,29277,https://photos.zillowstatic.com/fp/376681f2899925f63658b941a6d52d20-p_e.jpg
+"2052 Via Casa Alta, La Jolla, CA 92037",La Jolla,CA,92037,32.83996,-117.251625,7400000,7,6,10766,Single Family,8647600,28011,https://photos.zillowstatic.com/fp/d0abde448036110c53c2b3e9378b8bdf-p_e.jpg
+3470 Bayside Walk,San Diego,CA,92109,32.777897,-117.25189,7395000.0,5.0,5.0,4295.0,Single Family,7327400.0,23470.0,https://photos.zillowstatic.com/fp/eb37c7717f2cc62dbba61cab24eadc97-p_e.jpg
+"17261 Circa Oriente, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.993443,-117.173256,7050000,18,12,18515,Single Family,8969300,29144,https://photos.zillowstatic.com/fp/293144a90ac7909648f51eb6b8083f5c-p_e.jpg
+5115 Gordon Ln,San Diego,CA,92109,32.810463,-117.24487,7000000.0,6.0,6.0,5179.0,Single Family,6918900.0,22000.0,https://photos.zillowstatic.com/fp/69c45c098d8268489bc8ab61d20ecfa5-p_e.jpg
+"1030 Della Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.086323,-118.41944,6995000,8,5,5647,Single Family,6258300,24408,https://photos.zillowstatic.com/fp/366c668d55c556c66b37cbac64fa2dae-p_e.jpg
+7209 Romero Dr,La Jolla,CA,92037,32.83931,-117.25801,6950000.0,6.0,6.0,5308.0,Single Family,6513800.0,21952.0,https://photos.zillowstatic.com/fp/b041a5398ae9e302281aaed205792180-p_e.jpg
+2500 6th Ave UNIT 1105 1106,San Diego,CA,92103,32.731724,-117.15985,6950000.0,4.0,4.0,5853.0,Condo,6835000.0,21552.0,https://photos.zillowstatic.com/fp/db240799eeabb52a6070b402b9b3b954-p_e.jpg
+"623 N Rexford Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.078804,-118.404816,6950000,2,3,1814,Single Family,6691400,26104,https://photos.zillowstatic.com/fp/f5227106907af8a77d2063b230d19615-p_e.jpg
+"6092 Avenida Chamnez, La Jolla, CA 92037",La Jolla,CA,92037,32.82374,-117.263145,6900000,5,6,8236,Single Family,8171300,25837,https://photos.zillowstatic.com/fp/081b7c95939c1a6533f9db5e34e5246c-p_e.jpg
+"16409 Via De Santa Fe, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.010185,-117.19816,6900000,13,8,12025,Single Family,7758500,24794,https://photos.zillowstatic.com/fp/cd7623bd3853b59cac94c7cf50b66fff-p_e.jpg
+"1119 Schuyler Rd, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.091347,-118.40431,6890000,4,4,3292,Single Family,,29057,https://photos.zillowstatic.com/fp/15c5926fa90c018e37d0362d2e30464f-p_e.jpg
+"601 N Beverly Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.074173,-118.407425,6800000,5,5,4015,Single Family,6243300,26081,https://photos.zillowstatic.com/fp/3d1b5aeff0ffee921f53fa6285274c59-p_e.jpg
+"18483 Calle Tramonto, Rancho Santa Fe, CA 92091",Rancho Santa Fe,CA,92091,33.055473,-117.19404,6800000,9,5,12316,Single Family,8466600,27092,https://photos.zillowstatic.com/fp/6fc09969619e0ca8639ad047521ff5bd-p_e.jpg
+6210 La Jolla Mesa Dr,La Jolla,CA,92037,32.826763,-117.26112,6750000.0,7.0,6.0,7225.0,Single Family,6264800.0,20838.0,https://photos.zillowstatic.com/fp/19aa1400fb467b20edff668b1847e8b1-p_e.jpg
+460 Palmitas St,Solana Beach,CA,92075,32.987057,-117.267456,6750000.0,5.0,4.0,3935.0,Single Family,,,https://photos.zillowstatic.com/fp/88d68f6b08e58f0cc4d2318ccb28f9fe-p_e.jpg
+280 Torrey Pines Ter,Del Mar,CA,92014,32.942284,-117.25845,6750000.0,4.0,4.0,3402.0,Single Family,6273300.0,23605.0,https://photos.zillowstatic.com/fp/d047e65a1e3e6dff180fffd38b9c786d-p_e.jpg
+"2069 Seaview Ave, Del Mar, CA 92014",Del Mar,CA,92014,32.96766,-117.263596,6700000,8,5,8800,Single Family,14681300,47798,https://photos.zillowstatic.com/fp/46573a4521d38009241d4125daad3c44-p_e.jpg
+442 Westbourne St,La Jolla,CA,92037,32.832752,-117.27769,6695000.0,5.0,4.0,3663.0,Single Family,6615600.0,21062.0,https://photos.zillowstatic.com/fp/abd2a3eb815478f98d725babdaba0e7a-p_e.jpg
+"6150 Via Posada Del Norte, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,33.008064,-117.179184,6593333,10,7,12409,Single Family,8308800,26852,https://photos.zillowstatic.com/fp/ef265f006300a344af7190d3771462d6-p_e.jpg
+"7726 Weirick Rd, Corona, CA 92883",Corona,CA,92883,33.80439,-117.5231,6500000,9,7,12000,Single Family,6462400,18212,https://photos.zillowstatic.com/fp/6b31dadd21debeda77a3cf88461edd49-p_e.jpg
+1624 Torrey Pines Rd,La Jolla,CA,92037,32.848385,-117.26494,6500000.0,6.0,5.0,3500.0,Single Family,6042400.0,20984.0,https://photos.zillowstatic.com/fp/a22a1c01f2d85c91dc46479058996748-p_e.jpg
+939 Coast Blvd 6BC,La Jolla,CA,92037,32.84821,-117.27597,6499000.0,3.0,4.0,3778.0,Condo,6441000.0,20484.0,https://photos.zillowstatic.com/fp/02ed5164341c770b082f7b2873414f9b-p_e.jpg
+"435 Pine Needles Dr #37, Del Mar, CA 92014",Del Mar,CA,92014,32.943947,-117.2567,6400000,7,4,4839,Single Family,7741200,25072,https://photos.zillowstatic.com/fp/0afc24f9c5ce1459e78fb1d06f8bb686-p_e.jpg
+"6397 Clubhouse Dr, Rancho Santa Fe, CA 92067",Rancho Santa Fe,CA,92067,32.974586,-117.18389,6400000,12,10,13000,Single Family,8534700,26941,https://photos.zillowstatic.com/fp/feef97625f8746fcc0e86f44cd3ac57e-p_e.jpg
+"1280 Monte Cielo Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.099304,-118.40835,6395000,7,6,5214,Single Family,6308600,23848,https://photos.zillowstatic.com/fp/c8b9d230d8285070101913da988c7503-p_e.jpg
+6151 La Pintura Dr,La Jolla,CA,92037,32.826775,-117.251175,6388000.0,7.0,6.0,5218.0,Single Family,6322700.0,20253.0,https://photos.zillowstatic.com/fp/e6f1b75cb566d61b13e0406c7a9fa78b-p_e.jpg
+3610 Bayside Walk,San Diego,CA,92109,32.780643,-117.25156,6250000.0,4.0,5.0,2762.0,Single Family,6163100.0,12227.0,https://photos.zillowstatic.com/fp/b16d1b38c4f29c8569f3a7300514add3-p_e.jpg
+"1904 Estrada Way, La Jolla, CA 92037",La Jolla,CA,92037,32.833355,-117.25637,6200000,7,6,8331,Single Family,8211200,26642,https://photos.zillowstatic.com/fp/d1613db3cb567de6b0f8a3780b520ba0-p_e.jpg
+"7213 Romero Dr, La Jolla, CA 92037",La Jolla,CA,92037,32.840042,-117.25841,6160000,7,7,8300,Single Family,7412200,24377,https://photos.zillowstatic.com/fp/6552c9449f59f3dbde28611229edbac7-p_e.jpg
+"1135 Coldwater Canyon Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.093567,-118.40778,6100000,5,5,4782,Single Family,6105400,27755,https://photos.zillowstatic.com/fp/ad8263c642626f41caff1ff8ce8405d2-p_e.jpg
+"2136 San Dieguito Dr, Del Mar, CA 92014",Del Mar,CA,92014,32.96797,-117.26158,6000000,4,6,4200,Single Family,6323300,20163,https://photos.zillowstatic.com/fp/7427ed8bb06e94408004254c560e02f7-p_e.jpg
+"2136 San Dieguito Dr LOT 787, Del Mar, CA 92014",Del Mar,CA,92014,32.96797,-117.26158,6000000,5,5,4815,Single Family,6343800,20163,https://photos.zillowstatic.com/fp/e1a6b8d490ec6397087a4001d9985b07-p_e.jpg
+2891 Gate Fifteen Pl,Chula Vista,CA,91914,32.65873,-116.94318,5999999.0,8.0,6.0,9823.0,Single Family,5654700.0,18910.0,https://photos.zillowstatic.com/fp/53299aabb1fa44a14affef964e7a67b4-p_e.jpg
+7229 Almaden Ln,Carlsbad,CA,92009,33.09575,-117.26196,5995000.0,7.0,6.0,6226.0,Single Family,5784300.0,16615.0,https://photos.zillowstatic.com/fp/a90fcde02c39c21dfc6ca31cd7d292ba-p_e.jpg
+"1150 Laurel Way, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.092255,-118.41784,5995000,5,3,2882,Single Family,5497400,21936,https://photos.zillowstatic.com/fp/cfcd715cf3a292ffd5987d11bedbc461-p_e.jpg
+"1925 Loma Vista Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.109867,-118.3945,5952000,5,4,3885,Single Family,5557500,23034,https://photos.zillowstatic.com/fp/2365c31734eb675577990b85435f629a-p_e.jpg
+18495 Calle La Serra,Rancho Santa Fe,CA,92091,33.055164,-117.18313,5950000.0,5.0,3.0,8061.0,Single Family,6638500.0,21888.0,https://photos.zillowstatic.com/fp/44c05ceab6480d3322fd040e11262be8-p_e.jpg
+1905 Santa Fe Ave,Del Mar,CA,92014,32.964924,-117.26627,5900000.0,4.0,3.0,2442.0,Single Family,5819800.0,18541.0,https://photos.zillowstatic.com/fp/e71c7b082ea1e4876d1a5d1d2735a1d3-p_e.jpg
+"1263 Lago Vista Pl, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.095955,-118.40921,5850000,4,5,,Single Family,5338700,20619,https://photos.zillowstatic.com/fp/f536a42f26f8bc391fc19879b3112ac2-p_e.jpg
+16434 La Via Feliz,Rancho Santa Fe,CA,92067,33.01273,-117.19544,5800000.0,6.0,5.0,4550.0,Single Family,5754700.0,18368.0,https://photos.zillowstatic.com/fp/941d4b848391e981ec2e0802808cd801-p_e.jpg
+576 C Ave,Coronado,CA,92118,32.691376,-117.17555,5800000.0,4.0,4.0,2882.0,Single Family,5490300.0,17584.0,https://photos.zillowstatic.com/fp/bcc73d85990cb4f04b80cc652c2f7464-p_e.jpg
+730 Alameda Blvd,Coronado,CA,92118,32.693375,-117.18698,5750000.0,5.0,5.0,4337.0,Single Family,5373900.0,19700.0,https://photos.zillowstatic.com/fp/6d31614979d9230095a4a7802b0924a8-p_e.jpg
+734 Jacinto Pl,Coronado,CA,92118,32.684708,-117.17127,5635000.0,4.0,5.0,3755.0,Single Family,5196200.0,17415.0,https://photos.zillowstatic.com/fp/59a19f55c0ef9efa86262789a42177d0-p_e.jpg
+"1346 Crest Rd, Del Mar, CA 92014",Del Mar,CA,92014,32.960026,-117.25857,5400000,4,6,4717,Single Family,6651200,21173,https://photos.zillowstatic.com/fp/2e485e55783bb4eb97223ffaa2ad7785-p_e.jpg
+"123 N Doheny Dr, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.068844,-118.390045,5395000,6,5,4446,Single Family,5434500,18446,https://photos.zillowstatic.com/fp/355e7aa9c260d3f1bc291413155d96fa-p_e.jpg
+8495 Via Rancho Cielo,Rancho Santa Fe,CA,92067,33.054356,-117.142006,5300000.0,7.0,7.0,6000.0,Single Family,5221500.0,19041.0,https://photos.zillowstatic.com/fp/ced5f20fb627307fdc146208ecfe0c91-p_e.jpg
+"1243 Beverly Green Dr, Beverly Hills, CA 90212",Beverly Hills,CA,90212,34.055107,-118.406166,5295000,4,4,3486,Single Family,5311200,17906,https://photos.zillowstatic.com/fp/38a2061712557953e15f71ff0bc43d8c-p_e.jpg
+13622 Nogales Dr,Del Mar,CA,92014,32.946,-117.25574,5295000.0,3.0,4.0,2972.0,Single Family,5261400.0,16728.0,https://photos.zillowstatic.com/fp/71c16efdadbebae714449f0ea46a2192-p_e.jpg
+366 Glorietta Blvd,Coronado,CA,92118,32.692734,-117.168816,5250000.0,7.0,6.0,3628.0,Single Family,5234400.0,16051.0,https://photos.zillowstatic.com/fp/6e7d66bfbea4b23aa1fb23eabf8a96e0-p_e.jpg
+1371 San Elijo Ave,Cardiff,CA,92007,33.032494,-117.28914,5140000.0,3.0,4.0,3603.0,Single Family,4840400.0,16182.0,https://photos.zillowstatic.com/fp/20fa21749752fc4671f8864e9e77db7b-p_e.jpg
+"1143 Coldwater Canyon Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.094,-118.40747,4995000,4,4,3322,Single Family,4634800,18073,https://photos.zillowstatic.com/fp/526d7f8568e5cfcf63fcc921ea30b15f-p_e.jpg
+14198 Caminito Vistana,San Diego,CA,92130,32.976578,-117.15885,4995000.0,7.0,5.0,6189.0,Single Family,5023000.0,15354.0,https://photos.zillowstatic.com/fp/69dc56ca89937fc690b4aadb85a67eee-p_e.jpg
+4270 Ampudia St,San Diego,CA,92103,32.754227,-117.18972,4975000.0,4.0,4.0,4100.0,Single Family,4730100.0,17235.0,https://photos.zillowstatic.com/fp/c170cf3aed3bde716a13af0ac9eb36ec-p_e.jpg
+"127 S Willaman Dr, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.065296,-118.38077,4970000,6,4,4518,Single Family,4674800,19478,https://photos.zillowstatic.com/fp/1a547b1a49e575b9f7295c2b30a5875d-p_e.jpg
+516 S The Strand,Oceanside,CA,92054,33.18799,-117.37852,4925000.0,9.0,8.0,5825.0,Condo,4541700.0,14425.0,https://photos.zillowstatic.com/fp/f3af8eaf7671dcef5124e4c92305ca17-p_e.jpg
+5058 64 Lotus St,San Diego,CA,92107,32.753635,-117.24706,4899000.0,8.0,8.0,4028.0,Multi Family,4879300.0,36320.0,https://photos.zillowstatic.com/fp/cbdfd0a4a5a541c856058ca8dd6e50aa-p_e.jpg
+"15820 The River Trl, Rancho Santa Fe, CA 92091",Rancho Santa Fe,CA,92091,33.000446,-117.20265,4850000,7,5,12209,Single Family,6957400,22351,https://photos.zillowstatic.com/fp/2fc17005bfcf957fd4d3f26f03f2466e-p_e.jpg
+3427 Via Monteverde,Encinitas,CA,92024,33.067684,-117.21929,4795000.0,6.0,5.0,5337.0,Single Family,4573200.0,15427.0,https://photos.zillowstatic.com/fp/a5eedb52942b02085871abd51c9bf0f8-p_e.jpg
+2168 San Dieguito Dr,Del Mar,CA,92014,32.96818,-117.261,4750000.0,4.0,4.0,2977.0,Single Family,4727100.0,15007.0,https://photos.zillowstatic.com/fp/67633ace006b47b17f0a9d18709ba389-p_e.jpg
+5190 Rancho Madera Bnd,San Diego,CA,92130,32.970806,-117.20989,4750000.0,7.0,5.0,6170.0,Single Family,4339600.0,14230.0,https://photos.zillowstatic.com/fp/788658ad9f131ff8120034e29feba0ed-p_e.jpg
+15445 Artesian Spring Rd,San Diego,CA,92127,33.012054,-117.14853,4700000.0,6.0,6.0,5700.0,Single Family,4451000.0,15843.0,https://photos.zillowstatic.com/fp/1b3520eadfed7815f4e968cd293e9c39-p_e.jpg
+2860 Gate Three Pl,Chula Vista,CA,91914,32.651035,-116.94073,4700000.0,9.0,8.0,7800.0,Single Family,4463300.0,14858.0,https://photos.zillowstatic.com/fp/c01e5b76aaec433e0993e76074268b6f-p_e.jpg
+16674 Liberty Rdg,San Diego,CA,92127,33.01693,-117.16946,4599000.0,5.0,5.0,3397.0,Single Family,4517100.0,14267.0,https://photos.zillowstatic.com/fp/0d5f9faffb8e40a48017500f2788f338-p_e.jpg
+3600 Paradise Valley Rd,National City,CA,91950,32.68696,-117.06803,4500000.0,5.0,5.0,5766.0,Single Family,,,https://photos.zillowstatic.com/fp/17e3988e113d14b51c3105875e6468be-p_e.jpg
+3525 Caroway Ct,El Cajon,CA,92019,32.736984,-116.91681,4500000.0,8.0,8.0,9111.0,Single Family,4110100.0,13328.0,https://photos.zillowstatic.com/fp/c1c16d7fe1457b64e9bde9f4e1ebd0e8-p_e.jpg
+17104 Camino Acampo,Rancho Santa Fe,CA,92067,33.005234,-117.18043,4495000.0,6.0,6.0,6000.0,Single Family,,13561.0,https://photos.zillowstatic.com/fp/af0ee5024939d6c1ecd65796f678524d-p_e.jpg
+4605 Yerba Santa Dr,San Diego,CA,92115,32.77623,-117.09589,4495000.0,12.0,8.0,15000.0,Single Family,,8941.0,https://photos.zillowstatic.com/fp/bdb2db7642838133804a1f9078735ae3-p_e.jpg
+18386 Via Ambiente,Rancho Santa Fe,CA,92067,33.0581,-117.15099,4300000.0,6.0,4.0,6244.0,Single Family,4058000.0,13361.0,https://photos.zillowstatic.com/fp/09debee431c0a59bb5906e205c25185e-p_e.jpg
+6142 La Pintura Dr,La Jolla,CA,92037,32.82648,-117.25165,4250000.0,5.0,4.0,4400.0,Single Family,4257600.0,13314.0,https://photos.zillowstatic.com/fp/c2dff506f788b93333b37a9a8badb264-p_e.jpg
+17155 Reflections Cir,San Diego,CA,92127,33.03467,-117.15177,4195000.0,5.0,4.0,4669.0,Single Family,3992700.0,13414.0,https://photos.zillowstatic.com/fp/60c95d7b957e7ffc91da2ddb20c9d5ef-p_e.jpg
+17412 La Brisa Ln,Rancho Santa Fe,CA,92067,33.03161,-117.169464,4125000.0,5.0,5.0,3227.0,Single Family,4035900.0,12874.0,https://photos.zillowstatic.com/fp/01741654e3cce674969074b063a3ff46-p_e.jpg
+"3536 Malibu Country Dr, Malibu, CA 90265",Malibu,CA,90265,34.038918,-118.71292,4000000,3,4,2874,Single Family,3977100,15547,https://photos.zillowstatic.com/fp/45c0c81228a8bf420fe8e4a73b0b7a9e-p_e.jpg
+1823 S Pacific St,Oceanside,CA,92054,33.172337,-117.3649,4000000.0,5.0,4.0,3543.0,Single Family,3813100.0,12688.0,https://photos.zillowstatic.com/fp/a973f212701a96df1b52181b5f73d2f9-p_e.jpg
+1101 Majestad Ln,Chula Vista,CA,91910,32.649113,-117.01903,3999999.0,11.0,7.0,7475.0,Single Family,3660700.0,11805.0,https://photos.zillowstatic.com/fp/502499c20a48e5a15151a6af864b5f14-p_e.jpg
+4584 Leon St,San Diego,CA,92107,32.73012,-117.25445,3999000.0,3.0,4.0,3271.0,Single Family,3846600.0,13025.0,https://photos.zillowstatic.com/fp/2f375ae1f16161652b1c5a0afcb20ac5-p_e.jpg
+4335 Vista De La Tierra,Del Mar,CA,92014,32.986263,-117.24028,3999000.0,3.0,5.0,4897.0,Single Family,4006300.0,13557.0,https://photos.zillowstatic.com/fp/60e3b2e07157354b30d01c1a791262d6-p_e.jpg
+1409 Opal St,San Diego,CA,92109,32.808186,-117.24724,3999000.0,5.0,5.0,3343.0,Single Family,,,https://photos.zillowstatic.com/fp/739bd9b0b40f5dc56d499b9c50f39eb7-p_e.jpg
+744 Bonair St,La Jolla,CA,92037,32.831455,-117.27283,3995000.0,4.0,4.0,2843.0,Single Family,,,https://photos.zillowstatic.com/fp/04cc60cee802a99b458c5d8729e51712-p_e.jpg
+"9990 Houston Rd, Malibu, CA 90265",Malibu,CA,90265,34.0771,-118.96907,3995000,3,5,3297,Single Family,3707000,15482,https://photos.zillowstatic.com/fp/31d4409de8dbe20a49a700ac9a839ec7-p_e.jpg
+"43300 E Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.055466,-118.96722,3995000,2,3,1075,Single Family,3089500,12052,https://photos.zillowstatic.com/fp/ae9435bc1c1e1645504347e07bd39814-p_e.jpg
+"6272 Tapia Dr, Malibu, CA 90265",Malibu,CA,90265,34.035175,-118.84401,3995000,3,4,1769,Single Family,3962200,15420,https://photos.zillowstatic.com/fp/c60b1ca6610ecb12ffdcb479916ce269-p_e.jpg
+15955 Running Deer Trl,Poway,CA,92064,32.993526,-116.98614,3978000.0,5.0,5.0,6583.0,Single Family,,10912.0,https://photos.zillowstatic.com/fp/10460fa7f3cb6cab920da28d7613e619-p_e.jpg
+725 27 San Fernando Pl,San Diego,CA,92109,32.76753,-117.25185,3950000.0,6.0,6.0,2870.0,Multi Family,3928200.0,12475.0,https://photos.zillowstatic.com/fp/14566b6c0acb2b0b1640829bb0caa0d8-p_e.jpg
+"2194 San Dieguito Dr, Del Mar, CA 92014",Del Mar,CA,92014,32.969177,-117.26236,3950000,4,5,4528,Single Family,4365100,13919,https://photos.zillowstatic.com/fp/43df514f6e33d0df256cec91346b2a44-p_e.jpg
+14949 Presilla Dr,Jamul,CA,91935,32.711098,-116.837494,3899999.0,5.0,5.0,5902.0,Single Family,3718200.0,11647.0,https://photos.zillowstatic.com/fp/32e6cdf0bb7670e3b20866df14a6630d-p_e.jpg
+"361 S Almont Dr, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.059975,-118.38799,3899000,5,4,3570,Single Family,3925300,15365,https://photos.zillowstatic.com/fp/ad11388ebd55fa463daf5100352d364c-p_e.jpg
+"713 N Doheny Dr, Beverly Hills, CA 90210",Beverly Hills,CA,90210,34.08598,-118.39008,3898000,2,3,2055,Single Family,,,https://photos.zillowstatic.com/fp/3efd75a8401d1f747632fd01e384cf7c-p_e.jpg
+"349 S La Peer Dr, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.071636,-118.38692,3895000,5,4,3626,Single Family,3936900,17704,https://photos.zillowstatic.com/fp/91a204f5928aec195b5873410961c6f0-p_e.jpg
+2111 W California St,San Diego,CA,92110,32.746944,-117.18887,3878998.0,4.0,5.0,3167.0,Single Family,,8655.0,https://photos.zillowstatic.com/fp/ab1c78e0caa10002f247feb764d4a12c-p_e.jpg
+"19046 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.039497,-118.59095,3850000,2,2,1185,Single Family,3634200,14949,https://photos.zillowstatic.com/fp/da4b6fcf75c3cb9f02f39a7af37c62f1-p_e.jpg
+9208 Fostoria Ct,San Diego,CA,92127,33.02297,-117.130325,3789999.0,6.0,5.0,4759.0,Single Family,3644800.0,12172.0,https://photos.zillowstatic.com/fp/5a952a2293c265560a86d71acdce2f78-p_e.jpg
+"31627 Sea Level Dr, Malibu, CA 90265",Malibu,CA,90265,34.03545,-118.8628,3750000,1,2,1017,Single Family,3468800,9261,https://photos.zillowstatic.com/fp/1f73d29d8b478ad1c735b3b8ab830523-p_e.jpg
+1500 Orange Ave,Coronado,CA,92118,32.681877,-117.18027,3700000.0,2.0,2.0,1145.0,Single Family,3927700.0,11693.0,https://photos.zillowstatic.com/fp/3d68056f35deef80d8cc27b632382eb8-p_e.jpg
+7210 Aviara Dr,Carlsbad,CA,92011,33.097107,-117.28867,3700000.0,5.0,4.0,5156.0,Single Family,3644700.0,11586.0,https://photos.zillowstatic.com/fp/6561e39105ac8cd98e6561ba222bdc0b-p_e.jpg
+"11770 Pacific Coast Hwy APT G, Malibu, CA 90265",Malibu,CA,90265,34.050804,-118.957634,3695000,4,3,1786,Single Family,3659700,14402,https://photos.zillowstatic.com/fp/54554ae25767498e0d7ba7d248b64bb9-p_e.jpg
+8470 Cliffridge Ln,La Jolla,CA,92037,32.860916,-117.24094,3650000.0,4.0,5.0,3582.0,Single Family,3648400.0,11706.0,https://photos.zillowstatic.com/fp/17859d732b1ac4ed7bf3d8298d4bcc7c-p_e.jpg
+13664 Mar Scenic Dr,Del Mar,CA,92014,32.94655,-117.2546,3649000.0,6.0,5.0,3010.0,Single Family,3437200.0,10972.0,https://photos.zillowstatic.com/fp/994b85c8fd2a497882d6806b547df0bc-p_e.jpg
+"19300 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.039593,-118.59584,3550000,3,2,1978,Single Family,3309200,19006,https://photos.zillowstatic.com/fp/94281ad236c1db3ab7423611cdcd5472-p_e.jpg
+3586 Wishbone Way,Encinitas,CA,92024,33.069805,-117.21929,3549000.0,7.0,6.0,7191.0,Single Family,,14757.0,https://photos.zillowstatic.com/fp/dac7465296019975b07bdf05118539e5-p_e.jpg
+2269 Tina St,El Cajon,CA,92019,32.769688,-116.90445,3500000.0,6.0,6.0,5254.0,Single Family,3496800.0,10111.0,https://photos.zillowstatic.com/fp/3e201d81231d7081c0a1579e23ac5508-p_e.jpg
+7180 Aviara Dr,Carlsbad,CA,92011,33.098923,-117.28887,3500000.0,5.0,5.0,4710.0,Single Family,3515000.0,8869.0,https://photos.zillowstatic.com/fp/e2bb8571ce6efd2c524fd5e0a38e0bb3-p_e.jpg
+1028 Balour Dr,Encinitas,CA,92024,33.03936,-117.26887,3499000.0,5.0,7.0,2894.0,Single Family,3374000.0,11042.0,https://photos.zillowstatic.com/fp/13bf3b7e1c14594cdd3ee1a781959114-p_e.jpg
+17208 Holly Leaf Ct,San Diego,CA,92127,33.02754,-117.12362,3499000.0,6.0,5.0,4790.0,Single Family,3331000.0,11137.0,https://photos.zillowstatic.com/fp/168a91ab5c274ecd3339f5773bd80728-p_e.jpg
+16829 Going My Way,San Diego,CA,92127,33.029537,-117.15584,3499000.0,4.0,5.0,3889.0,Single Family,3512700.0,11296.0,https://photos.zillowstatic.com/fp/962de1bda69fd7f6961da8709053e0a4-p_e.jpg
+17329 Avenida Peregrina,Rancho Santa Fe,CA,92067,33.030018,-117.17046,3495000.0,5.0,6.0,5500.0,Single Family,3344000.0,11214.0,https://photos.zillowstatic.com/fp/d64599141551d2d2ddfd0adbe9a8ce35-p_e.jpg
+"931 Stratford Ct, Del Mar, CA 92014",Del Mar,CA,92014,32.953655,-117.2645,3350000,6,5,4529,Single Family,3417600,10871,https://photos.zillowstatic.com/fp/e603f78c6454bbe01b2d98885b1e096b-p_e.jpg
+1597 Calle Alta,La Jolla,CA,92037,32.817177,-117.24491,3349000.0,3.0,4.0,2990.0,Single Family,3382500.0,9785.0,https://photos.zillowstatic.com/fp/333173d58a22f81ee18d377b827d0c6a-p_e.jpg
+"29855 Harvester Rd, Malibu, CA 90265",Malibu,CA,90265,34.03092,-118.82434,3300000,2,4,2143,Single Family,3124500,12580,https://photos.zillowstatic.com/fp/dadc56bbd6911bf131fcd725ea4415b5-p_e.jpg
+3758 Charles St,San Diego,CA,92106,32.718487,-117.24606,3299000.0,6.0,6.0,3778.0,Single Family,,11168.0,https://photos.zillowstatic.com/fp/bcd98d4db75b7e5a6452b4f5668e6257-p_e.jpg
+1451 San Benito Ct,Solana Beach,CA,92075,32.98822,-117.24446,3298000.0,3.0,3.0,2267.0,Single Family,3317700.0,8649.0,https://photos.zillowstatic.com/fp/0cb54423a29be9119e208bdfe03a8726-p_e.jpg
+"320 S Canon Dr, Beverly Hills, CA 90212",Beverly Hills,CA,90212,34.061348,-118.39665,3295000,5,5,3029,Single Family,3183400,11999,https://photos.zillowstatic.com/fp/d3864f13e71aec51e830e412c1f43506-p_e.jpg
+"33007 Mulholland Hwy, Malibu, CA 90265",Malibu,CA,90265,34.10411,-118.86073,3275000,3,4,2950,Single Family,3212500,7947,https://photos.zillowstatic.com/fp/8af61d29df1ee241347356ad65e073a6-p_e.jpg
+3945 Wildwood Rd,San Diego,CA,92107,32.73466,-117.238594,3245000.0,4.0,4.0,3356.0,Single Family,3217900.0,10537.0,https://photos.zillowstatic.com/fp/6ccb463c471e0b7b59df4b3f3ecda710-p_e.jpg
+"445 S Wetherly Dr, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.057934,-118.38906,3200000,2,4,1580,Single Family,3037400,6499,https://photos.zillowstatic.com/fp/75f3cfce4b303685f886b8bd5db69235-p_e.jpg
+232 9th St,Del Mar,CA,92014,32.95321,-117.26388,3200000.0,2.0,3.0,1036.0,Single Family,3161700.0,6695.0,https://photos.zillowstatic.com/fp/97ac7c2b1e873e98cf677c1da2c93e0b-p_e.jpg
+13915 Calle Cardenas,San Diego,CA,92130,32.97085,-117.206955,3195000.0,4.0,5.0,3782.0,Single Family,2655200.0,8099.0,https://photos.zillowstatic.com/fp/b9b1387aa5c77bbe94bd6a4bfd9bbd15-p_e.jpg
+"3429 Cloudcroft Dr, Malibu, CA 90265",Malibu,CA,90265,34.04841,-118.571495,3150000,3,4,2256,Single Family,2974600,11847,https://photos.zillowstatic.com/fp/7d6696d0ce87019741fb1847681a0270-p_e.jpg
+4905 El Arco Iris,Rancho Santa Fe,CA,92067,33.004417,-117.22737,3150000.0,4.0,5.0,4008.0,Single Family,3145500.0,10252.0,https://photos.zillowstatic.com/fp/ca906436a1b9e4da94ce0618b80d2d26-p_e.jpg
+"3996 Lago Di Grata Cir, San Diego, CA 92130",San Diego,CA,92130,32.92496,-117.2295,3100000,5,6,3864,Single Family,3191000,10147,https://photos.zillowstatic.com/fp/4aa3d939ec287df81ec1b38d9a74a694-p_e.jpg
+"43000 Pacific Coast Hwy, Malibu, CA 90265",Malibu,CA,90265,34.0555,-118.96708,2999999,1,1,882,Single Family,2771300,11649,https://photos.zillowstatic.com/fp/4ecd866e04cf7c477d801935152ce100-p_e.jpg
+1833 37 Fern St,San Diego,CA,92102,32.72516,-117.129005,2999999.0,6.0,7.0,3696.0,Multi Family,2874500.0,9159.0,https://photos.zillowstatic.com/fp/5b412d5109f7be99bc723a74af90139a-p_e.jpg
+431 F Ave,Coronado,CA,92118,32.695225,-117.178246,2999000.0,4.0,5.0,2587.0,Single Family,2848300.0,9108.0,https://photos.zillowstatic.com/fp/160d30a8cb7ee360449324a79f8f6da5-p_e.jpg
+160 Andrew Ave,Encinitas,CA,92024,33.081512,-117.30615,2999000.0,5.0,4.0,3631.0,Single Family,2910300.0,9871.0,https://photos.zillowstatic.com/fp/99e42ec6465f58732bded81b9fcab716-p_e.jpg
+1986 Street,Del Mar,CA,92014,32.96619,-117.261475,2995000.0,3.0,3.0,1464.0,Single Family,,,https://photos.zillowstatic.com/fp/2285f002cc22648dce082bd1d2de6f15-p_e.jpg
+464 Prospect St UNIT 504,La Jolla,CA,92037,32.842583,-117.27904,2995000.0,2.0,2.0,2585.0,Condo,2715000.0,10082.0,https://photos.zillowstatic.com/fp/3b2e045e972d85289fec683d28643a54-p_e.jpg
+16351 Sage Trails Ct,Poway,CA,92064,33.019085,-117.02981,2995000.0,5.0,5.0,3905.0,Single Family,2974400.0,9413.0,https://photos.zillowstatic.com/fp/50a6f3354ec820adaa6730fb699d5fed-p_e.jpg
+14897 Presilla Dr,Jamul,CA,91935,32.70874,-116.83679,2995000.0,7.0,6.0,7213.0,Single Family,,,https://photos.zillowstatic.com/fp/8a8ca55260ddf1f7dd4074559cc000cf-p_e.jpg
+2425 Wilbur Ave,San Diego,CA,92109,32.81039,-117.22817,2995000.0,3.0,4.0,2804.0,Single Family,3029600.0,9543.0,https://photos.zillowstatic.com/fp/c49bab4c7210f822b116d612adc31e2e-p_e.jpg
+1965 Caminito El Canario,La Jolla,CA,92037,32.836334,-117.25316,2980000.0,3.0,4.0,2916.0,Single Family,2611300.0,8513.0,https://photos.zillowstatic.com/fp/7d6ae1484478111e8caab21d73c419b0-p_e.jpg
+14648 La Plata,San Diego,CA,92127,32.989426,-117.167305,2975000.0,5.0,5.0,5481.0,Single Family,2852000.0,9717.0,https://photos.zillowstatic.com/fp/ca17cb76cf41e99db6803509d13effdc-p_e.jpg
+1410 2nd St,Coronado,CA,92118,32.695534,-117.16942,2950000.0,4.0,5.0,2462.0,Single Family,2942000.0,9708.0,https://photos.zillowstatic.com/fp/0df11e13ecc2e609432097247f404b56-p_e.jpg
+7462 La Mantanza,San Diego,CA,92127,32.986706,-117.1682,2950000.0,5.0,7.0,4390.0,Single Family,2819300.0,9473.0,https://photos.zillowstatic.com/fp/82c6043664e9bd92971d0042a1256dfd-p_e.jpg
+14476 Trailwind Rd,Poway,CA,92064,33.001232,-117.01607,2895000.0,6.0,6.0,5550.0,Single Family,2759000.0,9151.0,https://photos.zillowstatic.com/fp/4120e16f0793e7e06607e0772b3de135-p_e.jpg
+1855 1857 Frankfort St,San Diego,CA,92110,32.779488,-117.202675,2888888.0,5.0,7.0,3500.0,Single Family,2876900.0,9151.0,https://photos.zillowstatic.com/fp/9fb726768b03e27456e2fe1c23170349-p_e.jpg
+4561 Niagara Ave,San Diego,CA,92107,32.74118,-117.2444,2850000.0,4.0,3.0,2400.0,Single Family,2851000.0,9069.0,https://photos.zillowstatic.com/fp/cd2102272fc7b467d80dc3f367892d01-p_e.jpg
+"13209 Winstanley Way, San Diego, CA 92130",San Diego,CA,92130,32.959503,-117.21127,2800000,5,5,3708,Single Family,2813100,8834,https://photos.zillowstatic.com/fp/927dc47f72c9cd256c408808aa0967c8-p_e.jpg
+"10622 Hunters Glen Dr, San Diego, CA 92130",San Diego,CA,92130,32.925056,-117.19882,2800000,4,5,3094,Single Family,2881300,9162,https://photos.zillowstatic.com/fp/9f6e048457a722ed7b76e73a9533cd3a-p_e.jpg
+7279 Sitio Lima,Carlsbad,CA,92009,33.083878,-117.228035,2799000.0,5.0,4.0,3512.0,Single Family,,8813.0,https://photos.zillowstatic.com/fp/2c9944e8794d701322c69aa14ced6569-p_e.jpg
+2216 Silver Peak Pl,Encinitas,CA,92024,33.051582,-117.23761,2799000.0,4.0,4.0,3343.0,Single Family,2828100.0,8353.0,https://photos.zillowstatic.com/fp/a4a33bbc6a6cfae5dbdfede41cc9a044-p_e.jpg
+15503 Canyon View Way,Poway,CA,92064,32.9905,-116.99815,2750000.0,5.0,5.0,4404.0,Single Family,,8610.0,https://photos.zillowstatic.com/fp/325eafd8ff0982785ab2a2f7b1e999b4-p_e.jpg
+2110 Calle Guaymas,La Jolla,CA,92037,32.82602,-117.248924,2750000.0,3.0,4.0,2194.0,Single Family,2772400.0,7811.0,https://photos.zillowstatic.com/fp/497fd97a2546671e43457494aaba0c7f-p_e.jpg
+2999 Ocean Front Walk UNIT 2,San Diego,CA,92109,32.767544,-117.25238,2750000.0,2.0,2.0,1087.0,Condo,2622000.0,8717.0,https://photos.zillowstatic.com/fp/5b8d46c598866ab15d69cb60b2f0bf13-p_e.jpg
+"3338 Viewfield Ave, Hacienda Heights, CA 91745",Hacienda Heights,CA,91745,33.9794,-117.9774,2750000,9,7,10869,Single Family,2724600,20589,https://photos.zillowstatic.com/fp/974a38ac11a599602df97ca5a01d3d03-p_e.jpg
+8610 Herrington Way,San Diego,CA,92127,33.02973,-117.141685,2749900.0,5.0,5.0,4071.0,Single Family,2609500.0,8373.0,https://photos.zillowstatic.com/fp/9140a6b97c705228d95c1be054a84521-p_e.jpg
+14873 Huntington Gate Dr,Poway,CA,92064,32.983475,-117.02799,2699000.0,6.0,5.0,5275.0,Single Family,2724000.0,10089.0,https://photos.zillowstatic.com/fp/70cd7cf6c403cb065b3793c178ec4292-p_e.jpg
+303 Juniper Ave,Carlsbad,CA,92008,33.15066,-117.34432,2699000.0,4.0,3.0,2437.0,Condo,,,https://photos.zillowstatic.com/fp/a5b2d9b196fff920d05914aa876b958b-p_e.jpg
+10189 Grandview Dr,La Mesa,CA,91941,32.763577,-116.979004,2699000.0,5.0,5.0,5678.0,Single Family,,9280.0,https://photos.zillowstatic.com/fp/d15b6431fd22d58203f0d760a40eb222-p_e.jpg
+5389 La Jolla Mesa Dr,La Jolla,CA,92037,32.81254,-117.26005,2698000.0,2.0,4.0,2364.0,Single Family,2725600.0,8563.0,https://photos.zillowstatic.com/fp/26cc1fd0152a07ac1e49a47cf1725f4f-p_e.jpg
+332 Santa Helena,Solana Beach,CA,92075,32.99875,-117.25522,2695000.0,3.0,4.0,2324.0,Single Family,2738900.0,8738.0,https://photos.zillowstatic.com/fp/69e792843191cd2a9f6849a324a16674-p_e.jpg
+517 Verbena Ct,Encinitas,CA,92024,33.05479,-117.27062,2675000.0,5.0,5.0,3650.0,Single Family,2704500.0,8714.0,https://photos.zillowstatic.com/fp/bb337ee44adfe74d41f0eb0d2f2e5577-p_e.jpg
+1575 Calle Camille,La Jolla,CA,92037,32.817425,-117.24572,2629000.0,3.0,4.0,2676.0,Single Family,,8428.0,https://photos.zillowstatic.com/fp/754d114bbc69d5e903b9a3226a79c9d8-p_e.jpg
+15110 Larchmont St,Poway,CA,92064,32.987015,-117.05311,2595000.0,4.0,4.0,3501.0,Single Family,2585800.0,8198.0,https://photos.zillowstatic.com/fp/2ca004a9fed77ee850beb34cdca40a5e-p_e.jpg
+1776 Cable St,San Diego,CA,92107,32.743877,-117.251305,2595000.0,3.0,4.0,2218.0,Single Family,2511600.0,8584.0,https://photos.zillowstatic.com/fp/b89d2835417ad2107c0c3b15f0c9ae79-p_e.jpg
+2380 Jefferson St,Carlsbad,CA,92008,33.171806,-117.348404,2500000.0,5.0,5.0,3683.0,Single Family,2490900.0,7922.0,https://photos.zillowstatic.com/fp/7329ec9877581b4af246db61c632e7a3-p_e.jpg
+2103 Loquat Pl,Oceanside,CA,92054,33.189507,-117.34554,2500000.0,3.0,5.0,2398.0,Single Family,2489600.0,7939.0,https://photos.zillowstatic.com/fp/8f8f81f966f701c4c4b965ecd8e38da5-p_e.jpg
+204 Oak St,Oceanside,CA,92054,33.18758,-117.3769,2500000.0,4.0,4.0,3044.0,Single Family,2421900.0,7998.0,https://photos.zillowstatic.com/fp/f5b26fd432b8d0dab5cdec73d615b643-p_e.jpg
+2497 Darlington Row,La Jolla,CA,92037,32.831726,-117.24051,2499800.0,4.0,4.0,2939.0,Single Family,,7857.0,https://photos.zillowstatic.com/fp/8aae55ba186c66235080c8cc5539bbb6-p_e.jpg
+7477 Hillside Dr,La Jolla,CA,92037,32.844578,-117.25671,2499000.0,1.0,2.0,1176.0,Single Family,,,https://photos.zillowstatic.com/fp/515ef6b40975a22b975ef2d31a9ce781-p_e.jpg
+2855 5th Ave UNIT 601,San Diego,CA,92103,32.735203,-117.16,2474900.0,2.0,2.0,1875.0,Condo,2485700.0,7928.0,https://photos.zillowstatic.com/fp/26a46b1be7443dfabf21a33d97ae799c-p_e.jpg
+2475 Calle De Pescadores,Alpine,CA,91901,32.82253,-116.75258,2450000.0,5.0,5.0,3450.0,Single Family,2326100.0,7665.0,https://photos.zillowstatic.com/fp/33390e930dd8f19942ef6c9718eca691-p_e.jpg
+"791 Latigo Canyon Rd, Malibu, CA 90265",Malibu,CA,90265,34.089825,-118.80929,2450000,4,3,2796,Single Family,2453500,12352,https://photos.zillowstatic.com/fp/4a1a33cb24d0fcc5fa3f6fce430b2a1b-p_e.jpg
+7093 Marsh Wren St,Carlsbad,CA,92011,33.102886,-117.30028,2450000.0,5.0,6.0,3500.0,Single Family,,,https://photos.zillowstatic.com/fp/4c3a61c780ad5ef1bad86d30cbb5c489-p_e.jpg
+7195 Sitio Caballero,Carlsbad,CA,92009,33.10438,-117.229935,2450000.0,4.0,4.0,4053.0,Single Family,2419200.0,7911.0,https://photos.zillowstatic.com/fp/714631f7fdd8df88f4aca814b53dab4a-p_e.jpg
+2005 Bulrush Ln,Cardiff,CA,92007,33.021435,-117.27112,2429000.0,3.0,4.0,2384.0,Single Family,2455600.0,8348.0,https://photos.zillowstatic.com/fp/f254bb1708b60fc796a233b7ee223a3c-p_e.jpg
+165 6th Ave UNIT 2902,San Diego,CA,92101,32.70692,-117.15884,2400000.0,3.0,3.0,2000.0,Condo,2318700.0,7415.0,https://photos.zillowstatic.com/fp/fa7f94342aa62f8f3ccbd0ed2b135ea5-p_e.jpg
+7324 Circulo Papayo,Carlsbad,CA,92009,33.087822,-117.228386,2399900.0,5.0,5.0,4225.0,Single Family,2286500.0,7336.0,https://photos.zillowstatic.com/fp/51265d90ea8ba1363e82b78c7fd47f6c-p_e.jpg
+"10671 Heather Ridge Dr, San Diego, CA 92130",San Diego,CA,92130,32.92782,-117.20436,2353000,3,5,2732,Single Family,2365900,7871,https://photos.zillowstatic.com/fp/9efb1fe45ca9f4d4865c1d24d05feeb5-p_e.jpg
+"5078 Manor Ridge Ln, San Diego, CA 92130",San Diego,CA,92130,32.933342,-117.20647,2326000,3,5,2763,Single Family,2385900,7587,https://photos.zillowstatic.com/fp/5b7a586dace27253963335d952209f8d-p_e.jpg
+"140 N Carson Rd, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.067345,-118.37919,2325000,2,3,1462,Single Family,2335900,6499,https://photos.zillowstatic.com/fp/3e3ccfb4af5129546c1b526e473a90c8-p_e.jpg
+"4815 Riding Ridge Rd, San Diego, CA 92130",San Diego,CA,92130,32.946644,-117.21417,2300000,3,5,3020,Single Family,2374900,7552,https://photos.zillowstatic.com/fp/3d510bf57e796072e5989ba47e8e4efe-p_e.jpg
+1033 W Spruce St,San Diego,CA,92103,32.737957,-117.17261,2300000.0,4.0,4.0,2396.0,Single Family,2306800.0,7411.0,https://photos.zillowstatic.com/fp/42bec65f3b5c3b1517a5fd78da777f92-p_e.jpg
+3594 Canon St,San Diego,CA,92106,32.727177,-117.23798,2295000.0,4.0,4.0,2449.0,Single Family,2195400.0,8750.0,https://photos.zillowstatic.com/fp/37e47395610c2acb6dc2eb4f7e18eb2b-p_e.jpg
+2142 13th St,Encinitas,CA,92024,33.05775,-117.23449,2295000.0,2.0,3.0,2064.0,Single Family,2196000.0,6499.0,https://photos.zillowstatic.com/fp/f2d83778bf0936f28a054361508bd142-p_e.jpg
+"3595 Santoro Way, San Diego, CA 92130",San Diego,CA,92130,32.95754,-117.23924,2275000,3,4,2554,Single Family,2286500,7359,https://photos.zillowstatic.com/fp/49ff251a578de8f9f04776dd3b7b6127-p_e.jpg
+"13371 Heston Pl, San Diego, CA 92130",San Diego,CA,92130,32.96197,-117.23119,2275000,3,3,2128,Single Family,2108200,5835,https://photos.zillowstatic.com/fp/c6dd5954f0f5e0c135406469daedc1d7-p_e.jpg
+15494 Oakstand Ct,Poway,CA,92064,32.995373,-117.03073,2269000.0,5.0,5.0,3905.0,Single Family,2174800.0,7808.0,https://photos.zillowstatic.com/fp/5e25b991809867b611d9e0831f13e0f7-p_e.jpg
+7116 Sitio Caliente,Carlsbad,CA,92009,33.098038,-117.226494,2250000.0,5.0,5.0,3563.0,Single Family,2255100.0,6692.0,https://photos.zillowstatic.com/fp/66f256438ca9b5a3c30f3a529a27a77c-p_e.jpg
+6230 Rancho Bravado,Carlsbad,CA,92009,33.124,-117.24407,2249000.0,5.0,5.0,4476.0,Single Family,,,https://photos.zillowstatic.com/fp/8ed5cbe440019cbac48e5c314f390233-p_e.jpg
+"458 S Almont Dr, Beverly Hills, CA 90211",Beverly Hills,CA,90211,34.057507,-118.38777,2200000,3,3,1583,Single Family,2140400,6664,https://photos.zillowstatic.com/fp/2fbb773579372b4eb77af57def61ea08-p_e.jpg
+11358 Merritage Ct,San Diego,CA,92131,32.92287,-117.05058,2200000.0,5.0,6.0,3855.0,Single Family,2213900.0,6646.0,https://photos.zillowstatic.com/fp/7299406430189456a640e25c296fb945-p_e.jpg
+13318 Deer Canyon Pl,San Diego,CA,92129,32.961388,-117.150925,2200000.0,4.0,5.0,3300.0,Single Family,2238700.0,6140.0,https://photos.zillowstatic.com/fp/f4469d6781bc87dce28666ff06dfe64c-p_e.jpg
+4068 Sequoia St,San Diego,CA,92109,32.794548,-117.234604,2199000.0,4.0,4.0,1900.0,Single Family,,6714.0,https://photos.zillowstatic.com/fp/d121c625b15039b2865664bf61304285-p_e.jpg
+2166 Abbott St,San Diego,CA,92107,32.75252,-117.24917,2185000.0,3.0,2.0,1311.0,Single Family,2192500.0,4600.0,https://photos.zillowstatic.com/fp/4d6e59b46afd74cfa2d07f0d8812b48a-p_e.jpg
+1091 Duncan Ct,San Marcos,CA,92078,33.107967,-117.16885,2150000.0,4.0,4.0,3303.0,Single Family,2080600.0,6087.0,https://photos.zillowstatic.com/fp/78fb3e258919437f14f4c54ee3e97617-p_e.jpg
+135 Via Del Cerrito,Encinitas,CA,92024,33.039955,-117.24152,2100000.0,2.0,3.0,1830.0,Single Family,2120700.0,5400.0,https://photos.zillowstatic.com/fp/7e3c587ac994b5ef6d048e3da8c88a21-p_e.jpg
+5401 Reef Cir,Carlsbad,CA,92008,33.144493,-117.287125,2099000.0,3.0,4.0,2798.0,Single Family,2039900.0,6261.0,https://photos.zillowstatic.com/fp/6823c26a3932b3f23cb877fb66d80ade-p_e.jpg
+4398 Yuki Ln,Carlsbad,CA,92008,33.149464,-117.32455,2099000.0,5.0,4.0,2532.0,Single Family,2030200.0,7721.0,https://photos.zillowstatic.com/fp/fe3105aaad1410d05fc7db7bfec3c57b-p_e.jpg
+16055 Newton Hl,San Diego,CA,92127,33.02061,-117.14022,2095000.0,3.0,5.0,2841.0,Single Family,,,https://photos.zillowstatic.com/fp/3dd65f3db066a5bc0d8e7bd4f08bdc7d-p_e.jpg
+"5777 Mosswood Cv, San Diego, CA 92130",San Diego,CA,92130,32.927383,-117.193146,2058000,3,5,2507,Single Family,2111000,5800,https://photos.zillowstatic.com/fp/4a6519fd5032e314bcda94452e8ab164-p_e.jpg
+"16036 Oxford Hl, San Diego, CA 92127",San Diego,CA,92127,33.020176,-117.13898,2025000,3,4,2964,Single Family,2032200,5786,https://photos.zillowstatic.com/fp/513043a74de9bd1de204bbdc9ae9db2a-p_e.jpg
+3851 Centraloma Dr,San Diego,CA,92107,32.737473,-117.23222,2000000.0,4.0,6.0,2651.0,Single Family,1949000.0,8878.0,https://photos.zillowstatic.com/fp/ed37e918e9b0f88b384522b88aae38d2-p_e.jpg
+"4914 Caminito Vista Lujo, San Diego, CA 92130",San Diego,CA,92130,32.94211,-117.2111,2000000,3,4,2738,Single Family,2002300,5899,https://photos.zillowstatic.com/fp/ff36a7866df3ce9b49b2a4b86ca0d415-p_e.jpg
+1734 Avenida La Posta,Encinitas,CA,92024,33.063496,-117.24727,1999999.0,2.0,3.0,1605.0,Single Family,2049300.0,4749.0,https://photos.zillowstatic.com/fp/85747ae9847edb0179d9a59d1362032f-p_e.jpg
+1951 Cloverdale Rd,Escondido,CA,92027,33.112984,-117.0188,1999900.0,5.0,4.0,4899.0,Single Family,2014900.0,8000.0,https://photos.zillowstatic.com/fp/a37fdd75078d97cc61beed51c3070ee0-p_e.jpg
+1139 S Tremont St,Oceanside,CA,92054,33.183414,-117.370605,1999888.0,3.0,3.0,2486.0,Single Family,1916500.0,7859.0,https://photos.zillowstatic.com/fp/a6456744d0f6e7239018d6ac552a2836-p_e.jpg
+943 Georgia St,Imperial Beach,CA,91932,32.579823,-117.104164,1999000.0,6.0,8.0,2912.0,Single Family,1879300.0,3699.0,https://photos.zillowstatic.com/fp/cad36216e87ba3b914fab2708943bd79-p_e.jpg
+"2903 Valmere Dr, Malibu, CA 90265",Malibu,CA,90265,34.045437,-118.73988,1997000,2,3,1804,Single Family,1892500,8500,https://photos.zillowstatic.com/fp/4b54296144f810d74e364a5bd0b99e5d-p_e.jpg
+1751 Oriole Ct,Carlsbad,CA,92011,33.107594,-117.2724,1995290.0,5.0,5.0,3298.0,Single Family,1973100.0,7429.0,https://photos.zillowstatic.com/fp/50f18f17460873b94d021d2feb44ce1d-p_e.jpg
+3951 Atascadero Dr,San Diego,CA,92107,32.73858,-117.23453,1995000.0,4.0,4.0,2757.0,Single Family,2013700.0,8498.0,https://photos.zillowstatic.com/fp/13d0998a3544d370946ae119583e5082-p_e.jpg
+2304 Walmar Ln,San Diego,CA,92109,32.80782,-117.22971,1995000.0,3.0,3.0,2117.0,Single Family,2003000.0,7076.0,https://photos.zillowstatic.com/fp/16845ce6236ec316430de047d7474d1d-p_e.jpg
+2903 W Porter Rd,San Diego,CA,92106,32.733284,-117.22041,1995000.0,4.0,4.0,2838.0,Single Family,1945900.0,8425.0,https://photos.zillowstatic.com/fp/27a97f542b0aae38348780afd70bc7b9-p_e.jpg
+29115 Meadow Glen Way,Escondido,CA,92026,33.226906,-117.12419,1990000.0,5.0,4.0,4377.0,Single Family,1994000.0,6845.0,https://photos.zillowstatic.com/fp/a86f7b218ad48a6bb0658b9fa7c426ec-p_e.jpg
+2832 Dove Tail Dr,San Marcos,CA,92078,33.092426,-117.2111,1987500.0,5.0,4.0,3875.0,Single Family,1991200.0,7529.0,https://photos.zillowstatic.com/fp/2cee142b5c0260303043020d9b4ee240-p_e.jpg
+4209 Corte Facil,San Diego,CA,92130,32.95072,-117.22317,1980000.0,3.0,4.0,1895.0,Single Family,2003100.0,4997.0,https://photos.zillowstatic.com/fp/7c9e594a9b46475134f4a535c0757f6d-p_e.jpg
+602 N Tremont St,Oceanside,CA,92054,33.19912,-117.38306,1950000.0,3.0,4.0,2619.0,Single Family,1876200.0,7800.0,https://photos.zillowstatic.com/fp/02e0308cd1270137fb2d50eb79ff4eac-p_e.jpg
+7487 Mermaid Ln,Carlsbad,CA,92011,33.093197,-117.30544,1950000.0,3.0,3.0,1946.0,Townhouse,1952100.0,5400.0,https://photos.zillowstatic.com/fp/03211f63ac97fcd299c92957a99ab4b9-p_e.jpg
+"1636 Decker Rd, Malibu, CA 90265",Malibu,CA,90265,34.07948,-118.87888,1950000,2,2,0,Single Family,1946800,9186,https://photos.zillowstatic.com/fp/9a2193ca3a9debe6f0757800dcb40a4c-p_e.jpg
+3340 Cadencia St,Carlsbad,CA,92009,33.09006,-117.2293,1949000.0,3.0,4.0,3265.0,Single Family,1972800.0,6439.0,https://photos.zillowstatic.com/fp/ce45bb1577069abccca29cd7307311ec-p_e.jpg
+16207 Palomino Mesa Ct,San Diego,CA,92127,33.00585,-117.11489,1918000.0,3.0,5.0,2485.0,Single Family,1861900.0,5500.0,https://photos.zillowstatic.com/fp/9d98d2e420520db36e49e30e3f6b46ce-p_e.jpg
+13832 Sagewood Dr,Poway,CA,92064,33.017117,-117.03149,1900000.0,4.0,4.0,3222.0,Single Family,1913700.0,5959.0,https://photos.zillowstatic.com/fp/3605aaa8c889dba3068ef73d8c63e763-p_e.jpg
+"3798 Ruette San Raphael, San Diego, CA 92130",San Diego,CA,92130,32.925735,-117.23085,1900000,3,4,2734,Single Family,1943000,5950,https://photos.zillowstatic.com/fp/ed5916ac151a0b3be367c1aaf08131dd-p_e.jpg
+508 N Tremont St,Oceanside,CA,92054,33.19848,-117.382416,1899888.0,4.0,3.0,2301.0,Condo,1898600.0,9200.0,https://photos.zillowstatic.com/fp/d29e4d74a89533b42f6a28ab056e8da3-p_e.jpg
+2157 Corte Dorado Espuela,Alpine,CA,91901,32.80562,-116.76451,1899000.0,5.0,5.0,5216.0,Single Family,1893400.0,7964.0,https://photos.zillowstatic.com/fp/0b560f0a72d7ca65728905abfc44072f-p_e.jpg
+845 Fort Stockton Dr UNIT 105,San Diego,CA,92103,32.751038,-117.17079,1899000.0,3.0,3.0,2671.0,Condo,1869900.0,6175.0,https://photos.zillowstatic.com/fp/245e4ec97d7aadf730324da642675c68-p_e.jpg
+3028 Fairview Dr,Vista,CA,92084,33.252155,-117.222664,1899000.0,3.0,4.0,2704.0,Single Family,1834900.0,4500.0,https://photos.zillowstatic.com/fp/6eab9d6e2c43f9ed5cb61bbdc408fd64-p_e.jpg
+1898 Mountain Valley Ln,Escondido,CA,92029,33.09604,-117.105995,1899000.0,3.0,4.0,3084.0,Single Family,,4962.0,https://photos.zillowstatic.com/fp/eac48af8090902fc3b0f99a29e8cf43f-p_e.jpg
+"13384 Pantera Rd, San Diego, CA 92130",San Diego,CA,92130,32.959915,-117.24034,1893075,2,3,1620,Single Family,1909200,5558,https://photos.zillowstatic.com/fp/ea68f996f991e27d9767a55c042a6d30-p_e.jpg
+3511 Oliphant St,San Diego,CA,92106,32.73339,-117.229614,1890000.0,3.0,4.0,2024.0,Single Family,1889500.0,7883.0,https://photos.zillowstatic.com/fp/643559c9c5ed0af7d0be3e9a02219d2c-p_e.jpg
+90 N Coast Highway 101 SUITE 203,Encinitas,CA,92024,33.0496,-117.294624,1889000.0,3.0,2.0,1900.0,Condo,,,https://photos.zillowstatic.com/fp/57dc72a058dd99b6514890b1888c8c73-p_e.jpg
+2018 Pintoresco Ct,Carlsbad,CA,92009,33.084736,-117.26316,1875000.0,2.0,3.0,2124.0,Single Family,1874200.0,5998.0,https://photos.zillowstatic.com/fp/c95329d223a922857d4513c8815b2260-p_e.jpg
+884 Piovana Ct,Carlsbad,CA,92011,33.095173,-117.303,1850000.0,4.0,4.0,3300.0,Single Family,1841800.0,7881.0,https://photos.zillowstatic.com/fp/8f8f7e5ec263ecb374b6170e84fcb9a4-p_e.jpg
+11205 Monticook Ct,San Diego,CA,92127,33.043705,-117.08737,1850000.0,3.0,5.0,2760.0,Single Family,1882100.0,5550.0,https://photos.zillowstatic.com/fp/bcd094d9f63c143c45f4b96eb066c7de-p_e.jpg
+4145 Combe Way,San Diego,CA,92122,32.855125,-117.200775,1850000.0,4.0,6.0,2716.0,Single Family,1797900.0,8313.0,https://photos.zillowstatic.com/fp/c9bd983d7bd55e35db5c84e386795d93-p_e.jpg
+27903 Turner Heights Ln,Escondido,CA,92026,33.219063,-117.08386,1849000.0,3.0,3.0,2653.0,Single Family,1851300.0,4629.0,https://photos.zillowstatic.com/fp/26b0b2db96047da92446baf0e685fa3e-p_e.jpg
+14039 Arbolitos Dr,Poway,CA,92064,32.96804,-117.05515,1849000.0,4.0,3.0,2795.0,Single Family,1799900.0,5500.0,https://photos.zillowstatic.com/fp/6305754a56d78cb0c4d5eb33f8802b0d-p_e.jpg
+2850 52 E St,San Diego,CA,92102,32.71508,-117.13257,1849000.0,4.0,5.0,3083.0,Multi Family,1749800.0,5493.0,https://photos.zillowstatic.com/fp/85d48c22bb9b9c0f03098cee666adb7b-p_e.jpg
+1682 84 Cable St,San Diego,CA,92107,32.742283,-117.252655,1800000.0,2.0,3.0,,Multi Family,,4370.0,https://photos.zillowstatic.com/fp/7a42b1f301868096a3b3c0a36c02486a-p_e.jpg
+15356 Creek Hills Rd,El Cajon,CA,92021,32.8798,-116.83575,1799999.0,4.0,5.0,3633.0,Single Family,1724300.0,6740.0,https://photos.zillowstatic.com/fp/7e315fe33b71f10c5b03aa0196f4cf6a-p_e.jpg
+3325 Buena Creek Rd,Vista,CA,92084,33.188946,-117.18774,1799997.0,4.0,4.0,4113.0,Single Family,1783700.0,6801.0,https://photos.zillowstatic.com/fp/2b89b7820c639e205dd934dc43912351-p_e.jpg
+2780 Dove Tail Dr,San Marcos,CA,92078,33.09247,-117.21521,1799000.0,4.0,4.0,3556.0,Single Family,1804800.0,6394.0,https://photos.zillowstatic.com/fp/3af6ed5956041dafc4827f93c4a4d5a0-p_e.jpg
+10117 Camino Elena,Escondido,CA,92026,33.204536,-117.12403,1799000.0,4.0,4.0,3445.0,Single Family,1812200.0,4995.0,https://photos.zillowstatic.com/fp/46995abe8f000788d9aeef23f2cf0f8c-p_e.jpg
+25120 Starlight Mountain Rd,Ramona,CA,92065,33.04401,-116.78734,1799000.0,6.0,8.0,4933.0,Single Family,1714900.0,11393.0,https://photos.zillowstatic.com/fp/be3e046ba6d968eed88be510cc7db587-p_e.jpg
+1682 Kimberly Woods Dr,El Cajon,CA,92020,32.77523,-116.97358,1795000.0,6.0,4.0,5388.0,Single Family,1759100.0,15382.0,https://photos.zillowstatic.com/fp/2dbbc53b987236559a24c8c5b47afe00-p_e.jpg
+5111 13 Tipton St,San Diego,CA,92115,32.771107,-117.06253,1790000.0,4.0,9.0,2800.0,Single Family,,,https://photos.zillowstatic.com/fp/4bf2b0bb0913bec9c97d63abccb79288-p_e.jpg
+"15577 Bristol Ridge Ter, San Diego, CA 92127",San Diego,CA,92127,33.017223,-117.14438,1780000,3,4,2771,Single Family,1794800,5699,https://photos.zillowstatic.com/fp/6c6c4d34a329fdda06945c9845fa4db7-p_e.jpg
+2785 Las Palmas Ave,Escondido,CA,92025,33.086773,-117.06641,1779999.0,4.0,4.0,4353.0,Single Family,1750100.0,6542.0,https://photos.zillowstatic.com/fp/09f1790e7c127fa95bd327e26cc11b7a-p_e.jpg
+"19495 Calle Juanito, Murrieta, CA 92562",Murrieta,CA,92562,33.52085,-117.320724,1777777,4,3,3875,Single Family,1688600,8535,https://photos.zillowstatic.com/fp/18c7a5c4808f1c69fa376cc2c50c8416-p_e.jpg
+7232 Canyon Glen Ct,San Diego,CA,92129,32.9588,-117.16284,1775000.0,3.0,6.0,2858.0,Single Family,1714900.0,5597.0,https://photos.zillowstatic.com/fp/ffd7f58bf80c4459b1938e4d124b8e29-p_e.jpg
+1980 Valindo Way,Vista,CA,92084,33.176647,-117.20619,1750000.0,4.0,5.0,3883.0,Single Family,1698000.0,6350.0,https://photos.zillowstatic.com/fp/bea828a72bec7e3a04afe8e41a4c377a-p_e.jpg
+1826 Ivy Rd,Oceanside,CA,92054,33.18468,-117.34486,1750000.0,4.0,4.0,2549.0,Single Family,1680800.0,6499.0,https://photos.zillowstatic.com/fp/bfce8835099b98ec1760868386b52e14-p_e.jpg
+13286 Nolina Way,San Diego,CA,92130,32.96116,-117.18181,1750000.0,3.0,4.0,2007.0,Single Family,,,https://photos.zillowstatic.com/fp/c04c27cf53b689461dfc4457fd2185b7-p_e.jpg
+2817 Via Alta Pl,San Diego,CA,92108,32.782913,-117.145386,1749000.0,4.0,4.0,2188.0,Condo,1714300.0,6358.0,https://photos.zillowstatic.com/fp/63a59fa5045618dbde143fdf2f9b49a9-p_e.jpg
+1931 Corte Cantante,Chula Vista,CA,91914,32.67177,-116.99092,1724999.0,5.0,5.0,3789.0,Single Family,1738100.0,6139.0,https://photos.zillowstatic.com/fp/8c8d8794946422575a73ed78735437f2-p_e.jpg
+3707 Four Peaks St,Carlsbad,CA,92010,33.156567,-117.29143,1700000.0,3.0,3.0,1989.0,Single Family,1726400.0,4729.0,https://photos.zillowstatic.com/fp/0b67d40b07999f76c84bfaea81735576-p_e.jpg
+113 Solace Ct,Encinitas,CA,92024,33.04626,-117.25189,1699000.0,2.0,4.0,1830.0,Single Family,,,https://photos.zillowstatic.com/fp/00503a652134648b2f5ef05e28d6a35d-p_e.jpg
+4190 Datcho Dr,San Diego,CA,92117,32.816875,-117.202896,1699000.0,4.0,4.0,2068.0,Single Family,1658300.0,7905.0,https://photos.zillowstatic.com/fp/351364293f1602683f7898ce29762075-p_e.jpg
+2063 Grandview St,Oceanside,CA,92054,33.19119,-117.35192,1699000.0,3.0,4.0,2083.0,Single Family,1259600.0,5764.0,https://photos.zillowstatic.com/fp/88b92dfd8926649db467c181a0f62d23-p_e.jpg
+4980 Pine St,La Mesa,CA,91942,32.769547,-117.01804,1699000.0,5.0,4.0,3436.0,Single Family,1213300.0,6863.0,https://photos.zillowstatic.com/fp/a5c9eee605c86c67fd67140aa4d1ca91-p_e.jpg
+2111 Historic Decatur Rd,San Diego,CA,92106,32.731834,-117.21868,1699000.0,3.0,3.0,1931.0,Single Family,1650000.0,6399.0,https://photos.zillowstatic.com/fp/c5d8cb8a8018b0fe7cfa2dcb3435b840-p_e.jpg
+3782 Crete St,San Diego,CA,92117,32.79888,-117.20471,1699000.0,4.0,4.0,2016.0,Single Family,1707400.0,5914.0,https://photos.zillowstatic.com/fp/cb8e2e2a1cf55df38961cfa2cfb2e26f-p_e.jpg
+1934 Fernbrook Ct,El Cajon,CA,92019,32.797195,-116.90866,1699000.0,3.0,4.0,3168.0,Single Family,1654600.0,5786.0,https://photos.zillowstatic.com/fp/daf5aa7d56168ecd3aaa38cd4f13232e-p_e.jpg
+3612 3618 Herman Ave,San Diego,CA,92104,32.744076,-117.126396,1695000.0,3.0,4.0,1896.0,Multi Family,1737600.0,5056.0,https://photos.zillowstatic.com/fp/af2193b77e82f71912182c7ee57b3a4f-p_e.jpg
+4915 17 Voltaire St,San Diego,CA,92107,32.750973,-117.24535,1695000.0,2.0,2.0,1000.0,Multi Family,1598900.0,4920.0,https://photos.zillowstatic.com/fp/ecf5c0430f0d46b31e672e17fcc79ec4-p_e.jpg
+3418 Via Beltran,San Diego,CA,92117,32.802605,-117.20444,1689000.0,2.0,5.0,2258.0,Single Family,1713000.0,5500.0,https://photos.zillowstatic.com/fp/9e0df49137f6d1c79201010420b0a455-p_e.jpg
+2702 Via Alta Pl,San Diego,CA,92108,32.783176,-117.145065,1685000.0,4.0,3.0,1774.0,Townhouse,,,https://photos.zillowstatic.com/fp/2e0ccefec2719ac79dae884e33ac69c1-p_e.jpg
+923 Melba Rd,Encinitas,CA,92024,33.039642,-117.27231,1675000.0,2.0,3.0,1253.0,Single Family,1713100.0,4393.0,https://photos.zillowstatic.com/fp/37375cc39335139196b104ed10e026ae-p_e.jpg
+1838 S Tremont St S,Oceanside,CA,92054,33.173553,-117.36158,1649500.0,5.0,4.0,2716.0,Single Family,1657800.0,10250.0,https://photos.zillowstatic.com/fp/3f146118d1e31dd004eef1149bffd857-p_e.jpg
+10310 Circa Valle Verde,El Cajon,CA,92021,32.8698,-116.85991,1625000.0,5.0,5.0,3755.0,Single Family,,,https://photos.zillowstatic.com/fp/b54183ba9b5f9671db1335ae54cdd7f9-p_e.jpg
+2136 Deland Ct,Alpine,CA,91901,32.818512,-116.76769,1625000.0,3.0,4.0,3300.0,Single Family,1596400.0,6058.0,https://photos.zillowstatic.com/fp/bc2d8adcb19af30235b2b2678fe28b6a-p_e.jpg
+3419 Pleasant Vale Dr,Carlsbad,CA,92010,33.159317,-117.29457,1624900.0,3.0,5.0,2705.0,Single Family,1594400.0,5829.0,https://photos.zillowstatic.com/fp/396625436c6510b79b368b7c4b8e4077-p_e.jpg
+1601 Emerald Point Ct,El Cajon,CA,92019,32.743176,-116.92343,1599999.0,4.0,4.0,2646.0,Single Family,1611100.0,5087.0,https://photos.zillowstatic.com/fp/5b74d8ec2b42a0a870d7c25276e680b1-p_e.jpg
+2885 Torry Ct,Carlsbad,CA,92009,33.09271,-117.248085,1599990.0,3.0,3.0,2598.0,Single Family,1616600.0,5963.0,https://photos.zillowstatic.com/fp/046352195a45e5a168047a87b5b3cf65-p_e.jpg
+23315 Old Wagon Rd,Escondido,CA,92027,33.139614,-116.97961,1595000.0,4.0,6.0,3357.0,Single Family,1546200.0,5334.0,https://photos.zillowstatic.com/fp/4b46b075d3a65ee5aa02fb24196d8cda-p_e.jpg
+3466 Larga Cir,San Diego,CA,92110,32.747456,-117.217316,1595000.0,2.0,4.0,1652.0,Single Family,1570100.0,5699.0,https://photos.zillowstatic.com/fp/bbb3f3595e17d7529a8554e006a46906-p_e.jpg
+3551 Flat Rock St,Carlsbad,CA,92010,33.171566,-117.29811,1560000.0,3.0,4.0,2681.0,Single Family,1568300.0,5200.0,https://photos.zillowstatic.com/fp/ab3b9a18a2105c132e06820dbda8c502-p_e.jpg
+19304 Starvale Ln,Ramona,CA,92065,33.062965,-116.78393,1550000.0,3.0,6.0,4413.0,Single Family,1509700.0,5999.0,https://photos.zillowstatic.com/fp/3c50958f579e16fda33c7a8ca07e9f8e-p_e.jpg
+221 Ebony Ave,Imperial Beach,CA,91932,32.57723,-117.1289,1549000.0,3.0,3.0,1800.0,Single Family,1544000.0,3839.0,https://photos.zillowstatic.com/fp/38a0410cab10ff3e5c08ef2fa2293b1a-p_e.jpg
+19577 Oak Mountain Rd,Ramona,CA,92065,33.06624,-116.78206,1549000.0,5.0,5.0,3349.0,Single Family,1515800.0,5500.0,https://photos.zillowstatic.com/fp/618b4e897b786dfc4141c14811578f34-p_e.jpg
+225 Ebony Ave,Imperial Beach,CA,91932,32.577255,-117.12887,1549000.0,3.0,3.0,1800.0,Single Family,,,https://photos.zillowstatic.com/fp/665185255dd85ca29e3f602e85ab5a78-p_e.jpg
+2735 Everly Dr,San Diego,CA,92108,32.78111,-117.143234,1542000.0,5.0,4.0,2299.0,Townhouse,1486300.0,4786.0,https://photos.zillowstatic.com/fp/5d0e0c5f7fa788e9a793869aac968f8d-p_e.jpg
+4137 Rueda Dr,San Diego,CA,92124,32.819656,-117.091805,1529000.0,3.0,5.0,2422.0,Single Family,1483600.0,6499.0,https://photos.zillowstatic.com/fp/efca3de29d20c82fdd47e94734510416-p_e.jpg
+1535 Mount Gln,Escondido,CA,92025,33.109436,-117.067055,1525000.0,5.0,5.0,2998.0,Single Family,,,https://photos.zillowstatic.com/fp/0cef74047a8cb3851bae4bce1291b651-p_e.jpg
+1525 Mount Gln,Escondido,CA,92025,33.109726,-117.06711,1525000.0,4.0,5.0,3102.0,Single Family,,,https://photos.zillowstatic.com/fp/1951d418495b3ec3af3df00a67c47212-p_e.jpg
+3018 Calle Mesquite,Jamul,CA,91935,32.70796,-116.87488,1525000.0,5.0,4.0,3300.0,Single Family,1535200.0,5776.0,https://photos.zillowstatic.com/fp/3a9918cad50113a2866571a781132898-p_e.jpg
+20 Gingertree Ln,Coronado,CA,92118,32.6272,-117.13713,1500000.0,2.0,2.0,1542.0,Single Family,1509900.0,4054.0,https://photos.zillowstatic.com/fp/546f7a24a6775615c478fd52b710c297-p_e.jpg
+1140 Gary Ln,Escondido,CA,92026,33.160263,-117.11012,1500000.0,4.0,6.0,3300.0,Single Family,1448000.0,5352.0,https://photos.zillowstatic.com/fp/cb5f37b156530b614dfc94bf1fd9bb42-p_e.jpg
+3920 Madison Ave,San Diego,CA,92116,32.76069,-117.11041,1499000.0,3.0,3.0,1969.0,Single Family,1536300.0,4704.0,https://photos.zillowstatic.com/fp/dcbb0071991471d0d33d0f061eb96d29-p_e.jpg
+3002 Naugatuck Ave,San Diego,CA,92117,32.834404,-117.218605,1495000.0,3.0,6.0,2869.0,Multi Family,1458900.0,6999.0,https://photos.zillowstatic.com/fp/0c36059dd4b0be312793c1d55ae0045d-p_e.jpg
+1830 Vista De La Montana,El Cajon,CA,92019,32.795902,-116.84064,1495000.0,5.0,5.0,3551.0,Single Family,1422200.0,6499.0,https://photos.zillowstatic.com/fp/2680baa660b1eeb2aeff597e89746146-p_e.jpg
+3776 32nd St,San Diego,CA,92104,32.746998,-117.125244,1495000.0,4.0,4.0,2155.0,Townhouse,1493800.0,4735.0,https://photos.zillowstatic.com/fp/80245a073f120243b3481150603adbe0-p_e.jpg
+1333 Nashville St,San Diego,CA,92110,32.774616,-117.204735,1495000.0,3.0,5.0,1793.0,Single Family,1511800.0,5820.0,https://photos.zillowstatic.com/fp/d0361ba9f97816ed5b0e44737e87d745-p_e.jpg
+928 Edwina Way,Cardiff,CA,92007,33.028267,-117.27161,1493000.0,2.0,3.0,1549.0,Single Family,1500000.0,4353.0,https://photos.zillowstatic.com/fp/ffee7aaac0a4daf5f0cc1f04d2d390b4-p_e.jpg
+14382 Ridge Ranch Rd,Valley Center,CA,92082,33.19611,-117.018166,1488000.0,4.0,3.0,3427.0,Single Family,1489500.0,5076.0,https://photos.zillowstatic.com/fp/58643f105e950f3ad80079f543db9e81-p_e.jpg
+1716 Foxbury Gln,Escondido,CA,92026,33.179058,-117.12158,1479900.0,5.0,5.0,4049.0,Single Family,1449100.0,7204.0,https://photos.zillowstatic.com/fp/bbe7f003104fad1d559451916e01bb25-p_e.jpg
+16244 Avenida Suavidad,San Diego,CA,92128,33.00753,-117.07463,1475000.0,3.0,5.0,2984.0,Single Family,1490500.0,5699.0,https://photos.zillowstatic.com/fp/2ad293c96f7636f4ae98effd379457b0-p_e.jpg
+3402 Santa Clara Way,Carlsbad,CA,92010,33.170395,-117.31608,1474000.0,2.0,4.0,1927.0,Single Family,1435200.0,4605.0,https://photos.zillowstatic.com/fp/01bb1061c435020d6295078670be651d-p_e.jpg
+"15703 Concord Ridge Ter, San Diego, CA 92127",San Diego,CA,92127,33.019585,-117.142426,1450000,3,3,1930,Single Family,1456000,4469,https://photos.zillowstatic.com/fp/18bd1fdadbc72f30531f588d248a1d17-p_e.jpg
+1101 California St,Imperial Beach,CA,91932,32.57639,-117.12133,1450000.0,3.0,4.0,1907.0,Single Family,1459100.0,4099.0,https://photos.zillowstatic.com/fp/241c905b9ad7f05ffb47bea8f74d1652-p_e.jpg
+14710 Carmel Ridge Rd,San Diego,CA,92128,32.981743,-117.06761,1450000.0,3.0,4.0,1843.0,Single Family,1447600.0,3995.0,https://photos.zillowstatic.com/fp/ab639961f48065e5ece779cca0ff763e-p_e.jpg
+1562 Vista Del Mar Way,Oceanside,CA,92054,33.17941,-117.364746,1450000.0,4.0,3.0,1951.0,Townhouse,1326100.0,,https://photos.zillowstatic.com/fp/e0cd2b90c1078cbaea45158bc8c1f1d2-p_e.jpg
+3945 Foothill Ave,Carlsbad,CA,92010,33.175053,-117.28676,1450000.0,3.0,3.0,2050.0,Single Family,1435200.0,4500.0,https://photos.zillowstatic.com/fp/f1102b7df1d967945dcb26cba12d3846-p_e.jpg
+1120 Santa Delphina Ave,Chula Vista,CA,91913,32.635452,-116.99065,1449000.0,3.0,5.0,3206.0,Single Family,1464300.0,5500.0,https://photos.zillowstatic.com/fp/3d50ad35745cd3e4969ee02bbd72bcfc-p_e.jpg
+1521 Leonis Pl,Vista,CA,92083,33.224403,-117.25727,1429000.0,3.0,4.0,3547.0,Single Family,1443500.0,5889.0,https://photos.zillowstatic.com/fp/0843d6b37154d8c24644976f93a427bd-p_e.jpg
+20227 Ash Ln,Escondido,CA,92029,33.079082,-117.11628,1420000.0,3.0,3.0,2446.0,Single Family,1437300.0,4814.0,https://photos.zillowstatic.com/fp/5b89d6582878a7dbc70e5093e434e61f-p_e.jpg
+1575 Wishing Star Dr,Chula Vista,CA,91915,32.628376,-116.95149,1420000.0,5.0,7.0,3817.0,Single Family,1383200.0,6265.0,https://photos.zillowstatic.com/fp/91cc2ad4ac43ff24e86b5a2d6ea7a484-p_e.jpg
+11261 Carmel Creek Rd,San Diego,CA,92130,32.922333,-117.226295,1400000.0,3.0,2.0,1410.0,Single Family,1423900.0,4013.0,https://photos.zillowstatic.com/fp/489b27fa27f9ec2ab6729075c82dabc9-p_e.jpg
+10794 Glendover Ln,San Diego,CA,92126,32.9134,-117.17132,1400000.0,3.0,3.0,1753.0,Single Family,1426300.0,4352.0,https://photos.zillowstatic.com/fp/6ffbde1ec4bee48dd778edf569161c48-p_e.jpg
+1390 Orpheus Ave,Encinitas,CA,92024,33.07416,-117.29589,1399999.0,3.0,4.0,1600.0,Single Family,1441300.0,5323.0,https://photos.zillowstatic.com/fp/007a323994187c776263f412f00394bd-p_e.jpg
+518 San Andres Dr,Solana Beach,CA,92075,32.993107,-117.249725,1399999.0,3.0,2.0,1656.0,Townhouse,1314800.0,5786.0,https://photos.zillowstatic.com/fp/ab75b53a19395a93662503834bc7d189-p_e.jpg
+2685 Montclair St,San Diego,CA,92104,32.73465,-117.117035,1399999.0,3.0,5.0,2262.0,Single Family,1427600.0,5496.0,https://photos.zillowstatic.com/fp/cbe61e8c3f9724f8e43efbf0b484d783-p_e.jpg
+16201 Camden Cir,San Diego,CA,92127,33.01766,-117.12512,1399900.0,4.0,3.0,2280.0,Single Family,1380100.0,5140.0,https://photos.zillowstatic.com/fp/d0ebe307c43bf3aece4e91d10f74e400-p_e.jpg
+8664 Washington Ave,La Mesa,CA,91942,32.77107,-117.01046,1399000.0,1.0,4.0,2499.0,Single Family,1421700.0,4067.0,https://photos.zillowstatic.com/fp/3237ccdca7f6e1ffe76c76f1b0f13afe-p_e.jpg
+5161 Gardena Ave,San Diego,CA,92110,32.774982,-117.19183,1399000.0,2.0,4.0,1586.0,Single Family,1424800.0,3999.0,https://photos.zillowstatic.com/fp/6e53acc13b0c60b303867133daf75294-p_e.jpg
+1087 Camino Cantera,Chula Vista,CA,91913,32.595554,-116.99864,1399000.0,5.0,6.0,3704.0,Single Family,820600.0,3352.0,https://photos.zillowstatic.com/fp/b2da7b343989187af6f18857e6e08ec7-p_e.jpg
+301 Mission Ave UNIT 401,Oceanside,CA,92054,33.194687,-117.380516,1398000.0,3.0,2.0,2191.0,Condo,1350400.0,11200.0,https://photos.zillowstatic.com/fp/a10bef166e1a714bec833aa214c73504-p_e.jpg
+13436 San Pasqual Rd,Escondido,CA,92025,33.07337,-117.04041,1390000.0,3.0,3.0,2659.0,Single Family,1366600.0,4700.0,https://photos.zillowstatic.com/fp/3e888d1e84c05ffae055a4dcbd449a86-p_e.jpg
+9230 Tropico Dr,La Mesa,CA,91941,32.75867,-116.99816,1390000.0,3.0,4.0,2318.0,Single Family,1367900.0,4994.0,https://photos.zillowstatic.com/fp/dcbbe872687a9bf78f62876763020617-p_e.jpg
+1457 Trailwood Ave,Chula Vista,CA,91913,32.624283,-116.981125,1375000.0,4.0,6.0,3358.0,Single Family,1340800.0,5500.0,https://photos.zillowstatic.com/fp/531732b915c1c3c00bc86b5a0d5bc6ed-p_e.jpg
+13660 Lindamere Ln,San Diego,CA,92128,32.968166,-117.07182,1375000.0,3.0,4.0,2118.0,Single Family,1393200.0,4624.0,https://photos.zillowstatic.com/fp/cb77ac2cd2ec6f63d7e020b64fa66750-p_e.jpg
+5060 Lotus St,San Diego,CA,92107,32.753532,-117.24715,1375000.0,2.0,2.0,1040.0,Single Family,1374400.0,,https://photos.zillowstatic.com/fp/d31c5dfe4723afa39ad4fbd6c9604f00-p_e.jpg
+3451 Ottawa Ave,San Diego,CA,92117,32.803764,-117.20155,1369000.0,2.0,4.0,1433.0,Single Family,1337500.0,4800.0,https://photos.zillowstatic.com/fp/f8deaf345003c4eddebf29bb905f95d6-p_e.jpg
+3346 Par Dr,Oceanside,CA,92056,33.190327,-117.311035,1360000.0,3.0,4.0,2019.0,Single Family,1320700.0,4500.0,https://photos.zillowstatic.com/fp/7a84b0317f65d523872b348521b09173-p_e.jpg
+"31001 Pauma Heights Rd, Valley Center, CA 92082",Valley Center,CA,92082,33.28104,-116.99749,1359000,3,2,2678,Single Family,1364700,4500,https://photos.zillowstatic.com/fp/a6e9f3fd1f57257677b73d7e547ccce4-p_e.jpg
+600 Redlands Pl,Bonita,CA,91902,32.65223,-116.99989,1350000.0,3.0,4.0,1943.0,Single Family,1365300.0,4470.0,https://photos.zillowstatic.com/fp/6943631e54d3d1015374aa3681a326b2-p_e.jpg
+929 Woodhaven Rd,San Marcos,CA,92069,33.171234,-117.18228,1328718.0,4.0,5.0,2926.0,Single Family,1328500.0,4994.0,https://photos.zillowstatic.com/fp/23c85fee3a95587bdd935d08a4a1268a-p_e.jpg
+10646 Kemerton Rd,San Diego,CA,92126,32.910908,-117.168724,1325000.0,3.0,4.0,2231.0,Single Family,1345000.0,4999.0,https://photos.zillowstatic.com/fp/c84f44e06b48bebc091f6ae828ee7806-p_e.jpg
+3448 Larga Cir,San Diego,CA,92110,32.747272,-117.21783,1324900.0,2.0,4.0,1652.0,Single Family,1324200.0,5566.0,https://photos.zillowstatic.com/fp/a6496d29310f14246fab9f705b68e41b-p_e.jpg
+"10534 Clasico Ct, San Diego, CA 92127",San Diego,CA,92127,33.015377,-117.10879,1315000,3,4,2142,Single Family,1322300,4749,https://photos.zillowstatic.com/fp/8988b58e02116ff57c07d026e9edad7c-p_e.jpg
+1123 Felspar St,San Diego,CA,92109,32.798573,-117.2497,1313000.0,3.0,2.0,1364.0,Townhouse,1262900.0,5244.0,https://photos.zillowstatic.com/fp/978465a0c5bc3141637bd1ac0fbc32c1-p_e.jpg
+2708 Valleycreek Cir,Chula Vista,CA,91914,32.664974,-116.954285,1309999.0,3.0,5.0,3190.0,Single Family,1278200.0,5699.0,https://photos.zillowstatic.com/fp/c49fea4be84914706064cc779404b47e-p_e.jpg
+1735 Foxbury Gln,Escondido,CA,92026,33.1785,-117.12203,1300900.0,4.0,3.0,2726.0,Single Family,1300700.0,4649.0,https://photos.zillowstatic.com/fp/685d6409309ec9595e21df6403b421cb-p_e.jpg
+2725 Glasgow Dr,Carlsbad,CA,92010,33.16018,-117.30188,1300000.0,2.0,2.0,1252.0,Single Family,1246900.0,3366.0,https://photos.zillowstatic.com/fp/e682998929f737f1d117183479b261b4-p_e.jpg
+5015 Mansfield St,San Diego,CA,92116,32.76948,-117.11802,1300000.0,2.0,2.0,1475.0,Single Family,,4571.0,https://photos.zillowstatic.com/fp/e9da0a00a2a69a2f398e92be250c0be3-p_e.jpg
+4442 Upland St,La Mesa,CA,91941,32.75989,-117.01302,1299000.0,3.0,4.0,1864.0,Single Family,1329200.0,4500.0,https://photos.zillowstatic.com/fp/4768c2a619cbedbae97c1e3ee9acbc7b-p_e.jpg
+2404 Monroe Ave,San Diego,CA,92116,32.759357,-117.13861,1299000.0,2.0,3.0,1270.0,Single Family,1337200.0,4078.0,https://photos.zillowstatic.com/fp/563ca83bf2240642deca229a6d155256-p_e.jpg
+3990 Foothill Ave,Carlsbad,CA,92010,33.175545,-117.28495,1299000.0,3.0,3.0,2050.0,Single Family,1309700.0,4500.0,https://photos.zillowstatic.com/fp/8e06d1eb339b251087e20f63070e24a3-p_e.jpg
+1706 N Willowspring Dr,Encinitas,CA,92024,33.05837,-117.2484,1299000.0,3.0,3.0,1745.0,Single Family,1231600.0,4670.0,https://photos.zillowstatic.com/fp/dc25f9a385a007e82c87897703485379-p_e.jpg
+20202 Deerhorn Valley Rd,Jamul,CA,91935,32.67663,-116.71487,1295000.0,4.0,4.0,3375.0,Single Family,1209200.0,6147.0,https://photos.zillowstatic.com/fp/7b9a10aaa84e3ff19057554f668be098-p_e.jpg
+3746 Old Cobble Rd,San Diego,CA,92111,32.80532,-117.17744,1295000.0,3.0,3.0,1839.0,Single Family,1245100.0,4814.0,https://photos.zillowstatic.com/fp/bd3abd5353be3f846b11d073eaf8f99d-p_e.jpg
+5067 Sunmeadow Rd,Oceanside,CA,92056,33.22892,-117.259186,1295000.0,2.0,3.0,2002.0,Single Family,1296700.0,3763.0,https://photos.zillowstatic.com/fp/e7d504b04d1bd97ca688355060d93863-p_e.jpg
+11368 Florindo Rd,San Diego,CA,92127,33.027023,-117.08717,1288000.0,3.0,5.0,2252.0,Single Family,,,https://photos.zillowstatic.com/fp/8ec46673b905ad1fb23d0a1ae1c45723-p_e.jpg
+2496 Newgrove,Escondido,CA,92027,33.153694,-117.05032,1280000.0,3.0,3.0,2759.0,Single Family,,,https://photos.zillowstatic.com/fp/e1bb9a8205ecc5379c6002b0da8ce5ce-p_e.jpg
+16750 Coyote Bush Dr 84,San Diego,CA,92127,33.019367,-117.12944,1279000.0,2.0,3.0,1787.0,Townhouse,1250200.0,3972.0,https://photos.zillowstatic.com/fp/d6b4b71e81c2a1580995fe77458dddd5-p_e.jpg
+3433 Royal Rd,Vista,CA,92084,33.19364,-117.18461,1279000.0,3.0,4.0,2755.0,Single Family,1264000.0,4500.0,https://photos.zillowstatic.com/fp/dc68d8c6b4e59ecd202bbffd61f30782-p_e.jpg
+1879 Da Gama Ct,Escondido,CA,92026,33.15105,-117.1111,1250500.0,3.0,5.0,3466.0,Single Family,1262700.0,4969.0,https://photos.zillowstatic.com/fp/c42941a10f8df4a45bed128f426bda0f-p_e.jpg
+4326 Avon Dr,La Mesa,CA,91941,32.757698,-117.02582,1250000.0,4.0,6.0,4282.0,Single Family,1396400.0,6410.0,https://photos.zillowstatic.com/fp/a2ce65283a70af10a07b08b0cb45a3b6-p_e.jpg
+1088 Deer Springs Rd,San Marcos,CA,92069,33.19534,-117.13311,1250000.0,2.0,1.0,1191.0,Single Family,1190900.0,2700.0,https://photos.zillowstatic.com/fp/c4c92e18c537cca7433560696c145d2b-p_e.jpg
+"1921 Dentro De Lomas, Bonsall, CA 92003",Bonsall,CA,92003,33.26579,-117.2075,1250000,3,4,2400,Single Family,1261600,2628,https://photos.zillowstatic.com/fp/d40370a0b46eb1121ec5cb8efe646e24-p_e.jpg
+466 12 Calla Ave,Imperial Beach,CA,91932,32.586006,-117.123276,1250000.0,2.0,5.0,2000.0,Multi Family,1197200.0,3630.0,https://photos.zillowstatic.com/fp/f6e7772a720c7b60957a428412554b5b-p_e.jpg
+243 Vista Del Escuela,El Cajon,CA,92019,32.79629,-116.90084,1250000.0,3.0,5.0,3293.0,Single Family,1219500.0,5578.0,https://photos.zillowstatic.com/fp/fb9245ff903896483e74aa3acdda3b4f-p_e.jpg
+1986 Greenfield Dr,El Cajon,CA,92019,32.805176,-116.90817,1249000.0,4.0,5.0,2169.0,Single Family,1303300.0,4700.0,https://photos.zillowstatic.com/fp/a3c704f5ec0f54248a3b393661760986-p_e.jpg
+3536 Sydney Pl,San Diego,CA,92116,32.770515,-117.11509,1235000.0,2.0,3.0,1005.0,Single Family,1258600.0,3353.0,https://photos.zillowstatic.com/fp/6e3b62ce889a3bb4bbc1d180cb7af119-p_e.jpg
+"3620 Caminito Cielo Del Mar, San Diego, CA 92130",San Diego,CA,92130,32.941284,-117.23575,1230000,3,3,1333,Single Family,1235700,4395,https://photos.zillowstatic.com/fp/02b0ab8cf6b4b3f0ed82decccb3c73ca-p_e.jpg
+"11344 Florindo Rd, San Diego, CA 92127",San Diego,CA,92127,33.026817,-117.08756,1225000,3,5,2160,Single Family,1225900,4885,https://photos.zillowstatic.com/fp/507e233d3380c3a22a4652b1d4412e78-p_e.jpg
+507 7th St,Coronado,CA,92118,32.693027,-117.18367,1225000.0,1.0,1.0,608.0,Single Family,,,https://photos.zillowstatic.com/fp/a43ec82b028a7eb0253d88de69e3c8c5-p_e.jpg
+3994 Texas St,San Diego,CA,92104,32.750153,-117.13907,1200000.0,2.0,3.0,1519.0,Single Family,1232200.0,4644.0,https://photos.zillowstatic.com/fp/3bb5c3bc2a9f8b7eac2b6c866340a6e9-p_e.jpg
+1110 Beverly Dr,Vista,CA,92084,33.213802,-117.21463,1200000.0,2.0,3.0,1690.0,Single Family,1214600.0,3499.0,https://photos.zillowstatic.com/fp/68d0062ba6ece25db999d9b00b6a968b-p_e.jpg
+432 S Citrus Ave,Escondido,CA,92027,33.135128,-117.03935,1200000.0,3.0,4.0,2906.0,Single Family,1178700.0,4729.0,https://photos.zillowstatic.com/fp/9b8e49d388508fc7b7f78c33066c35fb-p_e.jpg
+4681 Parks Ave,La Mesa,CA,91942,32.764603,-117.03326,1200000.0,3.0,3.0,1896.0,Single Family,1214500.0,3999.0,https://photos.zillowstatic.com/fp/ac6f5d7ec34a990f3b36a90b581453c2-p_e.jpg
+1718 Horseshoe Way,Oceanside,CA,92057,33.24527,-117.263435,1200000.0,3.0,5.0,2453.0,Single Family,1207200.0,4200.0,https://photos.zillowstatic.com/fp/f32a33404ca65aeda713dbcb769ea976-p_e.jpg
+2342 Edgehill Rd,Vista,CA,92084,33.212326,-117.20043,1199990.0,2.0,4.0,2252.0,Single Family,1207800.0,3998.0,https://photos.zillowstatic.com/fp/a6d5b0d04847c76e400e6f6c82fdb5de-p_e.jpg
+4082 Chamoune Ave,San Diego,CA,92105,32.751133,-117.0968,1199900.0,3.0,6.0,2208.0,Multi Family,1186800.0,6999.0,https://photos.zillowstatic.com/fp/68ed77c143e78039380a2541edcdb329-p_e.jpg
+11271 Avenida Del Gato,San Diego,CA,92126,32.926594,-117.14793,1199900.0,2.0,4.0,1627.0,Single Family,1220300.0,4200.0,https://photos.zillowstatic.com/fp/f954ab3a6eb5c023140fd442f446eaf9-p_e.jpg
+"1131 Rainbow Valley Blvd, Fallbrook, CA 92028",Fallbrook,CA,92028,33.404106,-117.16231,1199000,3,3,2708,Single Family,,,https://photos.zillowstatic.com/fp/6669b00e4caa0cf0bf2e826a50a40aa6-p_e.jpg
+1745 Lone Tree Rd,Chula Vista,CA,91913,32.63742,-116.985466,1199000.0,4.0,4.0,2944.0,Single Family,1181700.0,5500.0,https://photos.zillowstatic.com/fp/90fa7bf62c8a1fee312fc161244fd344-p_e.jpg
+4260 Calle Del Vis,Oceanside,CA,92057,33.23388,-117.31262,1199000.0,3.0,4.0,2395.0,Single Family,1171900.0,4099.0,https://photos.zillowstatic.com/fp/92e04f785c71ad4178cbf8fd0ef48f4d-p_e.jpg
+1062 11th St,Imperial Beach,CA,91932,32.577065,-117.11088,1195000.0,4.0,5.0,1950.0,Single Family,1192500.0,3069.0,https://photos.zillowstatic.com/fp/356bd55f3faf173382a3081a623bf1a5-p_e.jpg
+3832 8th Ave,San Diego,CA,92103,32.747524,-117.157524,1195000.0,3.0,3.0,1535.0,Single Family,1210600.0,4400.0,https://photos.zillowstatic.com/fp/496d9a5b4cef27d83897dd9750dfabe8-p_e.jpg
+1055 S 36th St,San Diego,CA,92113,32.6951,-117.11652,1195000.0,3.0,5.0,1950.0,Multi Family,,2784.0,https://photos.zillowstatic.com/fp/9abdb3c1b831e760478d6847e67f8b5d-p_e.jpg
+5409 Lodi St,San Diego,CA,92117,32.84361,-117.20118,1195000.0,1.0,3.0,1372.0,Single Family,1057000.0,4500.0,https://photos.zillowstatic.com/fp/bb22c18da23dad3653aa70f86b07239f-p_e.jpg
+861 Midway Dr,Alpine,CA,91901,32.838646,-116.797104,1195000.0,3.0,6.0,3086.0,Single Family,1206500.0,6287.0,https://photos.zillowstatic.com/fp/d0bebdccfe73073928cb3986b97936cf-p_e.jpg
+9968 Del Dios Hwy,Escondido,CA,92029,33.085697,-117.11803,1189000.0,2.0,3.0,2230.0,Single Family,1153500.0,4796.0,https://photos.zillowstatic.com/fp/2b842d5926e7cda789bbcf283f9164df-p_e.jpg
+1912 San Pablo Dr,San Marcos,CA,92078,33.126698,-117.202255,1189000.0,2.0,3.0,1475.0,Single Family,,3800.0,https://photos.zillowstatic.com/fp/66edb47729eb079cf86d59d9ed9a2da6-p_e.jpg
+4358 Acacia Ave,Bonita,CA,91902,32.656857,-117.01293,1150000.0,3.0,4.0,2569.0,Single Family,1178200.0,4495.0,https://photos.zillowstatic.com/fp/0be539416f5f6a11da858969080c224e-p_e.jpg
+1619 Vista Del Valle Blvd,El Cajon,CA,92019,32.778553,-116.92461,1150000.0,2.0,3.0,2053.0,Single Family,1166100.0,4207.0,https://photos.zillowstatic.com/fp/46d3bf845f2c90a4df8498a8253c245e-p_e.jpg
+4487 71st St,La Mesa,CA,91942,32.76091,-117.04511,1150000.0,2.0,4.0,2014.0,Single Family,1172200.0,4615.0,https://photos.zillowstatic.com/fp/9c9befd1c029493c56b316a338ba549b-p_e.jpg
+7165 Calabria Ct UNIT D,San Diego,CA,92122,32.864964,-117.20335,1150000.0,3.0,2.0,1655.0,Townhouse,1159300.0,4300.0,https://photos.zillowstatic.com/fp/b2a93beed0a6dd41c316b4800219ffb2-p_e.jpg
+22510 Tombill Rd,Ramona,CA,92065,32.995308,-116.8421,1150000.0,2.0,3.0,2944.0,Single Family,,,https://photos.zillowstatic.com/fp/ba7c91a30db5ad0525d1c208e01de385-p_e.jpg
+13310 Via Fortezza UNIT 6,San Diego,CA,92129,32.962563,-117.153435,1150000.0,3.0,3.0,1682.0,Single Family,1163200.0,3999.0,https://photos.zillowstatic.com/fp/fd2aa2cf2c42c046fb46868771b7ef2c-p_e.jpg
+2495 Melissa Ct,Vista,CA,92081,33.15979,-117.21635,1149900.0,2.0,4.0,1906.0,Single Family,1163600.0,3991.0,https://photos.zillowstatic.com/fp/e139d61d495189a0204a298d54253e8d-p_e.jpg
+3830 Cornell Dr,Oceanside,CA,92056,33.19819,-117.30129,1149000.0,3.0,4.0,2398.0,Single Family,1157700.0,4300.0,https://photos.zillowstatic.com/fp/4d7f8da06c6f7756b8eed32f59ebb03e-p_e.jpg
+4071 Datcho Dr,San Diego,CA,92117,32.81498,-117.201775,1149000.0,2.0,2.0,1430.0,Single Family,1165300.0,4440.0,https://photos.zillowstatic.com/fp/6e40b5f871d3ed76c1efd08cdc38e645-p_e.jpg
+10431 Westchester Ave,San Diego,CA,92126,32.90763,-117.12696,1149000.0,2.0,4.0,1711.0,Single Family,1159200.0,3999.0,https://photos.zillowstatic.com/fp/bfc236ef9238c3fef052eb2a8228fcab-p_e.jpg
+2086 Balboa Cir,Vista,CA,92081,33.164528,-117.23443,1149000.0,3.0,3.0,2419.0,Single Family,1161100.0,4379.0,https://photos.zillowstatic.com/fp/e816b831f948bb7bded03497b8e972a2-p_e.jpg
+16416 Felice Dr,San Diego,CA,92128,33.011414,-117.06319,1149000.0,2.0,3.0,2046.0,Single Family,1152700.0,4796.0,https://photos.zillowstatic.com/fp/ebedcd897813e98f7f9e80032f6241cd-p_e.jpg
+27967 Evergreen Way,Valley Center,CA,92082,33.211613,-117.04127,1148744.0,3.0,4.0,2384.0,Single Family,1128400.0,4099.0,https://photos.zillowstatic.com/fp/900cbc5a01e62dcac05cb6cc07e9db90-p_e.jpg
+8518 Old Stonefield Chase,San Diego,CA,92127,33.017204,-117.13725,1145000.0,3.0,3.0,1821.0,Condo,1154900.0,4398.0,https://photos.zillowstatic.com/fp/4b487b393643e918d4665c2082c269a7-p_e.jpg
+1120 Sea Glass Way,Oceanside,CA,92054,33.19023,-117.36533,1137000.0,3.0,3.0,1775.0,Condo,1135000.0,3592.0,https://photos.zillowstatic.com/fp/575c10470324ad491c071e77b7334284-p_e.jpg
+2249 Historic Decatur Rd UNIT 82,San Diego,CA,92106,32.733273,-117.21737,1132000.0,3.0,3.0,1093.0,Townhouse,1114400.0,3925.0,https://photos.zillowstatic.com/fp/5e3419dbb7c15ffaa30f283e2e207dd2-p_e.jpg
+3630 Bonita Glen Ter,Bonita,CA,91902,32.6681,-117.0221,1130000.0,2.0,4.0,1932.0,Single Family,1117000.0,4195.0,https://photos.zillowstatic.com/fp/89c412942ab4f86a6fb06e1766ddb86c-p_e.jpg
+"662 Grant Ct, Vista, CA 92083",Vista,CA,92083,33.200237,-117.278564,1129900,3,5,2718,Single Family,1137600,4221,https://photos.zillowstatic.com/fp/86833cd03dc99ab94d7b2d618d244c8e-p_e.jpg
+1143 9th St 1 2,Imperial Beach,CA,91932,32.575703,-117.114075,1125000.0,3.0,5.0,2100.0,Single Family,,,https://photos.zillowstatic.com/fp/417b78c3d6e27cd16ad9a9ca5d030c9d-p_e.jpg
+"13521 Jadestone Way, San Diego, CA 92130",San Diego,CA,92130,32.96253,-117.232285,1120000,3,2,1231,Single Family,1150400,3665,https://photos.zillowstatic.com/fp/bde1bbdffd0ce669cc09fc8ecb6e88d9-p_e.jpg
+2325 Aperture Cir,San Diego,CA,92108,32.78147,-117.14887,1112000.0,3.0,3.0,1585.0,Townhouse,1115600.0,4235.0,https://photos.zillowstatic.com/fp/89c94e106d1e44933a4bbf7a0a9bee65-p_e.jpg
+7070 Colony Rd,San Diego,CA,92115,32.766216,-117.04591,1100000.0,4.0,5.0,2636.0,Single Family,1124300.0,5500.0,https://photos.zillowstatic.com/fp/4f48826efbd6d430809a6904a0d6717f-p_e.jpg
+931 Sol Vista Gln,Escondido,CA,92025,33.1175,-117.06598,1100000.0,2.0,4.0,2436.0,Single Family,1120900.0,4359.0,https://photos.zillowstatic.com/fp/65acdf67e7bebd24b56487aa75385c7d-p_e.jpg
+27959 Evergreen Way,Valley Center,CA,92082,33.21179,-117.04166,1100000.0,3.0,4.0,2620.0,Single Family,1085800.0,4844.0,https://photos.zillowstatic.com/fp/6711d22c31f15b1c5307328536a2002c-p_e.jpg
+2281 Mira Sol Dr,Vista,CA,92084,33.16807,-117.19743,1100000.0,3.0,4.0,1970.0,Single Family,1091100.0,3800.0,https://photos.zillowstatic.com/fp/6de5c6b6ab87a3ef3bfeb8595e4050b0-p_e.jpg
+578 Golf Glen Dr,San Marcos,CA,92069,33.158108,-117.15824,1100000.0,3.0,5.0,2546.0,Single Family,1091600.0,4393.0,https://photos.zillowstatic.com/fp/9e8058fdf0bd7e4ecc0a79eb5e811368-p_e.jpg
+6241 Mount Adelbert Dr,San Diego,CA,92111,32.817596,-117.17479,1099900.0,2.0,4.0,1216.0,Single Family,1109000.0,4294.0,https://photos.zillowstatic.com/fp/1cc7f70a7ff633ee110aeb52b2ca1b39-p_e.jpg
+2508 Ocean Cove Dr,Cardiff,CA,92007,33.011234,-117.26813,1099000.0,2.0,2.0,1258.0,Condo,,,https://photos.zillowstatic.com/fp/ade1fc360a0dbe5b3e2cf0c8db563e0b-p_e.jpg
+1344 Ortega St,Chula Vista,CA,91913,32.612797,-116.992096,1099000.0,4.0,7.0,3016.0,Single Family,1104700.0,5500.0,https://photos.zillowstatic.com/fp/b2e3a5502578f464de1f21b5c6b17b7c-p_e.jpg
+16550 Via Penasco,Ramona,CA,92065,33.009163,-116.93458,1099000.0,2.0,4.0,2195.0,Single Family,1109200.0,4559.0,https://photos.zillowstatic.com/fp/c86e6cb5b970b317580497aaf122383d-p_e.jpg
+3438 Rancho Diego Cir,El Cajon,CA,92019,32.735466,-116.910866,1099000.0,3.0,4.0,2260.0,Single Family,1114000.0,4700.0,https://photos.zillowstatic.com/fp/ce555a5c9d3c20d1dc33e9d39e6cc24b-p_e.jpg
+10295 Thanksgiving Ln,San Diego,CA,92126,32.90372,-117.126335,1089000.0,2.0,3.0,1420.0,Single Family,,,https://photos.zillowstatic.com/fp/118c2d6310d03584f47bba8e8872c0d6-p_e.jpg
+7403 Northrup Dr,San Diego,CA,92126,32.900253,-117.1637,1079000.0,2.0,3.0,1008.0,Single Family,1094500.0,3246.0,https://photos.zillowstatic.com/fp/463264088031f4a2587a0e9f6448c2ab-p_e.jpg
+1385 Oak Hill Dr 1,Escondido,CA,92027,33.125484,-117.05917,1075000.0,3.0,5.0,2054.0,Single Family,1093700.0,3499.0,https://photos.zillowstatic.com/fp/14ce9aebdc4e51ece0c75048ff77625d-p_e.jpg
+4532 Palm Ave,La Mesa,CA,91941,32.761227,-117.01711,1075000.0,2.0,2.0,1171.0,Single Family,1099700.0,2949.0,https://photos.zillowstatic.com/fp/6c9c3dacd2d92b3f4305fffdc03f3280-p_e.jpg
+3747 Carmel View Rd UNIT 3,San Diego,CA,92130,32.94094,-117.23244,1075000.0,3.0,2.0,1360.0,Townhouse,1072000.0,3995.0,https://photos.zillowstatic.com/fp/8a33558be9b642f8094b0fa6e10e9639-p_e.jpg
+878 Brookdale Dr,Vista,CA,92081,33.160652,-117.22082,1075000.0,3.0,4.0,2042.0,Single Family,1082300.0,4300.0,https://photos.zillowstatic.com/fp/bed861ef6b98679c56e69f1262b4dd04-p_e.jpg
+10159 Arrow Rock Ave,San Diego,CA,92126,32.90254,-117.140045,1069900.0,2.0,4.0,1320.0,Single Family,898300.0,3834.0,https://photos.zillowstatic.com/fp/673a3917d1f8f08b05fe4b89c5eb4242-p_e.jpg
+15758 Rosemont Ln,Ramona,CA,92065,32.999416,-116.92421,1050000.0,3.0,4.0,2455.0,Single Family,,4314.0,https://photos.zillowstatic.com/fp/7e4aba80885399ee1fe65512d552f53c-p_e.jpg
+"42748 Portraits Ln, Temecula, CA 92592",Temecula,CA,92592,33.49827,-117.141556,1050000,6,5,4219,Single Family,1022700,4056,https://photos.zillowstatic.com/fp/db6df741db05f3f4f3aa1bee68be4da3-p_e.jpg
+8612 Pinecrest Ave,San Diego,CA,92123,32.798393,-117.14368,1049900.0,2.0,3.0,1234.0,Single Family,,,https://photos.zillowstatic.com/fp/707fb755a6d4e46d43ff1b45911d7f06-p_e.jpg
+4025 Canario St UNIT 146,Carlsbad,CA,92008,33.14656,-117.337776,1049000.0,3.0,3.0,1718.0,Condo,1024200.0,4994.0,https://photos.zillowstatic.com/fp/0f70741e967e20ebc56ce094a07a36b0-p_e.jpg
+2068 Avenue Of The Trees,Carlsbad,CA,92008,33.171093,-117.332344,1049000.0,3.0,4.0,2088.0,Townhouse,1029600.0,5859.0,https://photos.zillowstatic.com/fp/3e7913218251c9a02c83e791ca425100-p_e.jpg
+1032 10th St,Imperial Beach,CA,91932,32.578033,-117.11233,1049000.0,3.0,4.0,2234.0,Single Family,1039300.0,4500.0,https://photos.zillowstatic.com/fp/a79cb4d0564f6ff0c1275474b62b2b22-p_e.jpg
+2926 Kellogg St APT B11,San Diego,CA,92106,32.708717,-117.23824,1049000.0,3.0,2.0,1401.0,Single Family,1053800.0,4439.0,https://photos.zillowstatic.com/fp/aafa53fe2f7dfc8c67e0685840259fea-p_e.jpg
+575 6th Ave UNIT 1804,San Diego,CA,92101,32.71116,-117.15875,1049000.0,2.0,2.0,1144.0,Condo,1017200.0,4087.0,https://photos.zillowstatic.com/fp/cf9168040c7953769542727f6b6a0590-p_e.jpg
+623 625 19th St,San Diego,CA,92102,32.71195,-117.14649,1045000.0,4.0,4.0,,Multi Family,,,https://photos.zillowstatic.com/fp/7d7600402b197cb629fc9a8ae5b0ad91-p_e.jpg
+27435 Cougar Pass Rd,Escondido,CA,92026,33.21179,-117.08628,1025000.0,3.0,4.0,2808.0,Single Family,1000400.0,4964.0,https://photos.zillowstatic.com/fp/40a8f8f2c152b01c6726d3559789ea9b-p_e.jpg
+4215 Avocado Blvd,La Mesa,CA,91941,32.756058,-116.96142,1025000.0,3.0,4.0,1824.0,Single Family,1033200.0,4411.0,https://photos.zillowstatic.com/fp/544dff8a339199aaef7a2e789a71d716-p_e.jpg
+1139 Sparrow Lake Rd,Chula Vista,CA,91913,32.61727,-117.00549,1025000.0,3.0,5.0,2462.0,Condo,1037800.0,4800.0,https://photos.zillowstatic.com/fp/e06bb9db0356c8f03e2123d4910e28f1-p_e.jpg
+"15281 Amalia St, San Diego, CA 92129",San Diego,CA,92129,32.990417,-117.08774,1020000,2,3,1398,Single Family,1020700,3895,https://photos.zillowstatic.com/fp/da8b9936a5583b90982f8d0eaba2d44d-p_e.jpg
+2147 Guizot St,San Diego,CA,92107,32.74565,-117.238686,1000000.0,1.0,2.0,788.0,Single Family,1008900.0,2571.0,https://photos.zillowstatic.com/fp/5ee963ca8509f80b84895b5611bae2e2-p_e.jpg
+434 Bear Valley Pkwy,Escondido,CA,92025,33.08964,-117.05883,999995.0,3.0,4.0,2075.0,Single Family,999600.0,3495.0,https://photos.zillowstatic.com/fp/1e3e96fcd46975a65350d688b9e005b3-p_e.jpg
+3712 Florida St,San Diego,CA,92104,32.745403,-117.14397,999900.0,1.0,2.0,620.0,Single Family,1005700.0,2705.0,https://photos.zillowstatic.com/fp/469cd2e97e78c0b7713afc2cace65b86-p_e.jpg
+8572 Onalaska Ave,San Diego,CA,92123,32.799114,-117.14388,999000.0,2.0,3.0,1134.0,Single Family,,3999.0,https://photos.zillowstatic.com/fp/68f9938398529ede501a4346fb0d569a-p_e.jpg
+1122 La Mesa Ave,Spring Valley,CA,91977,32.71629,-116.98764,999000.0,3.0,6.0,2899.0,Single Family,995100.0,5600.0,https://photos.zillowstatic.com/fp/733a3883ac886b3638983e0f41aff269-p_e.jpg
+1828 Pine View Rd,Alpine,CA,91901,32.827568,-116.749084,999000.0,3.0,3.0,2786.0,Single Family,1004100.0,5491.0,https://photos.zillowstatic.com/fp/fb717bdfb7589ac3a3a2512a6e708a32-p_e.jpg
+502 Surfbird Ln,Imperial Beach,CA,91932,32.587418,-117.11894,998500.0,3.0,3.0,1646.0,Townhouse,998300.0,3900.0,https://photos.zillowstatic.com/fp/b22396523dfa70b8b0f732eecaa1bb57-p_e.jpg
+4690 Clairemont Dr,San Diego,CA,92117,32.830673,-117.20638,995000.0,2.0,3.0,1110.0,Single Family,1020500.0,3781.0,https://photos.zillowstatic.com/fp/0bc532068338c355b35aa331f354b146-p_e.jpg
+9228 Piantino Way,San Diego,CA,92108,32.78557,-117.132996,995000.0,2.0,3.0,1589.0,Condo,1010400.0,4300.0,https://photos.zillowstatic.com/fp/24468a04c159b84075e53bf24c13ccd9-p_e.jpg
+1518 San Jose St,Oceanside,CA,92058,33.21287,-117.38038,995000.0,2.0,4.0,,Multi Family,,,https://photos.zillowstatic.com/fp/686a1765596118b1a046f9f155f577c8-p_e.jpg
+1512 Yanonali Ave,Chula Vista,CA,91913,32.616653,-116.996796,990000.0,3.0,5.0,2618.0,Single Family,979200.0,4749.0,https://photos.zillowstatic.com/fp/5abbcf8a668d5132fa8307405285a13c-p_e.jpg
+2749 Piantino Cir,San Diego,CA,92108,32.783936,-117.13211,989000.0,2.0,3.0,1735.0,Condo,976300.0,4400.0,https://photos.zillowstatic.com/fp/e750f081cc4d35d97074cb66ac8ece0d-p_e.jpg
+8687 Robles Dr,San Diego,CA,92119,32.812477,-117.00993,985000.0,2.0,3.0,1374.0,Single Family,983600.0,3896.0,https://photos.zillowstatic.com/fp/952af6d9609394a105a284d97d7144b3-p_e.jpg
+"922 Niguel St, Oceanside, CA 92057",Oceanside,CA,92057,33.26607,-117.29863,979000,3,3,2660,Single Family,976700,4294,https://photos.zillowstatic.com/fp/18f9710ff07b608f1c45871aed06b810-p_e.jpg
+1340 La Cresta Blvd,El Cajon,CA,92021,32.810642,-116.863365,979000.0,3.0,4.0,2880.0,Single Family,971200.0,5558.0,https://photos.zillowstatic.com/fp/bbdb62c8dad288a5626f1e4a81cd6348-p_e.jpg
+28345 Glenmeade Way,Escondido,CA,92026,33.218685,-117.11311,975000.0,3.0,4.0,2627.0,Single Family,972000.0,4535.0,https://photos.zillowstatic.com/fp/d418df81c5377d1c04260cbbcc6f2d60-p_e.jpg
+10247 Spruce Woodlands Way,Escondido,CA,92026,33.212967,-117.11097,970000.0,3.0,4.0,2601.0,Single Family,954400.0,4375.0,https://photos.zillowstatic.com/fp/a917d32bf939a19ffd714e8567539e3d-p_e.jpg
+4386 33rd Pl,San Diego,CA,92104,32.756855,-117.123405,960000.0,2.0,2.0,1096.0,Single Family,955600.0,3800.0,https://photos.zillowstatic.com/fp/5bf68ef9b570deb0b37b65001b6fd664-p_e.jpg
+4586 Wilson Ave,San Diego,CA,92116,32.760693,-117.11649,950000.0,1.0,2.0,936.0,Single Family,991300.0,3499.0,https://photos.zillowstatic.com/fp/2489175bfd48a8928fbee2c12d64f47e-p_e.jpg
+1022 24 Ramona Ave,Spring Valley,CA,91977,32.71547,-116.99556,950000.0,3.0,4.0,2270.0,Single Family,950900.0,4500.0,https://photos.zillowstatic.com/fp/d748ef9f76cb7794fa7f5e9817724b1a-p_e.jpg
+1920 Wheatville St,Chula Vista,CA,91913,32.636116,-116.97778,949998.0,3.0,4.0,1873.0,Single Family,957700.0,4400.0,https://photos.zillowstatic.com/fp/688f09c3b80eee9a5ce2e8e805228c4a-p_e.jpg
+2340 Gatling Ct,San Diego,CA,92111,32.78671,-117.165855,949900.0,2.0,3.0,1090.0,Single Family,959500.0,3849.0,https://photos.zillowstatic.com/fp/208e02dee6960f23d335889d94159352-p_e.jpg
+29603 Nandina Dr,Escondido,CA,92026,33.252785,-117.14072,949900.0,3.0,3.0,2413.0,Single Family,821300.0,4214.0,https://photos.zillowstatic.com/fp/5dae930471c29ed0721d840d6fb570d1-p_e.jpg
+2970 Via Viejas,Alpine,CA,91901,32.817795,-116.749,949900.0,3.0,3.0,2546.0,Single Family,958000.0,4770.0,https://photos.zillowstatic.com/fp/bc7da8929b91ec63119c1c6a914f145d-p_e.jpg
+9249 Overton Ave,San Diego,CA,92123,32.79441,-117.127266,949000.0,2.0,3.0,1200.0,Single Family,909400.0,4034.0,https://photos.zillowstatic.com/fp/516ba93992bf4675890fb10a8565e4eb-p_e.jpg
+2494 Mackenzie Creek Rd,Chula Vista,CA,91914,32.656857,-116.96523,935999.0,3.0,3.0,1523.0,Single Family,925600.0,3900.0,https://photos.zillowstatic.com/fp/bfff1b5597167c4c3f96fc45ae41e9ab-p_e.jpg
+1638 Kurtz St,Oceanside,CA,92054,33.184147,-117.35333,924999.0,1.0,3.0,954.0,Single Family,936800.0,3499.0,https://photos.zillowstatic.com/fp/f10164a9b670ef3fc4807abeb762ef5f-p_e.jpg
+855 Warmlands Ave,Vista,CA,92084,33.209953,-117.21093,924900.0,2.0,4.0,1584.0,Single Family,,3569.0,https://photos.zillowstatic.com/fp/08437994671dff9eeb799db7fabf405c-p_e.jpg
+27836 Evergreen Way,Valley Center,CA,92082,33.215668,-117.040695,920000.0,2.0,3.0,2061.0,Single Family,908000.0,3900.0,https://photos.zillowstatic.com/fp/69f75823f0acd3bad784a4a8163b6402-p_e.jpg
+"4518 Coronado Dr, Oceanside, CA 92057",Oceanside,CA,92057,33.25646,-117.31831,919000,3,4,2522,Single Family,902000,4300,https://photos.zillowstatic.com/fp/73e722683b2bf8fb12c342fb824b80ea-p_e.jpg
+520 S Barnwell St,Oceanside,CA,92054,33.201786,-117.34572,915000.0,2.0,3.0,1422.0,Single Family,929000.0,3914.0,https://photos.zillowstatic.com/fp/521a6c454eaa612013b4117b23342a88-p_e.jpg
+1482 Autumn Woods Pl,Escondido,CA,92029,33.10166,-117.10652,899950.0,2.0,3.0,1366.0,Single Family,,,https://photos.zillowstatic.com/fp/00b4af1f5a0e2b12db427513641d7983-p_e.jpg
+1859 Spyglass Cir,Vista,CA,92081,33.164692,-117.22935,899900.0,3.0,4.0,2224.0,Single Family,,4300.0,https://photos.zillowstatic.com/fp/37268c7e6853f05f22192f195bfbd5b2-p_e.jpg
+8903 Platanus Pl,Escondido,CA,92026,33.255527,-117.141815,899900.0,5.0,4.0,2346.0,Single Family,907900.0,4250.0,https://photos.zillowstatic.com/fp/d53b53d383a21b125f616a2b7a430fc1-p_e.jpg
+7037 La Sena Ave,San Diego,CA,92114,32.706882,-117.04512,899000.0,3.0,6.0,3233.0,Single Family,904700.0,5500.0,https://photos.zillowstatic.com/fp/1a1c13344c8b1e40e1037ebcea15069d-p_e.jpg
+2133 Madiera Dr,Oceanside,CA,92056,33.195732,-117.30825,899000.0,3.0,4.0,1913.0,Single Family,912700.0,3951.0,https://photos.zillowstatic.com/fp/1d69ef1166188d373edf8cf57e71b3a3-p_e.jpg
+2231 Mountain Ridge Rd,Chula Vista,CA,91914,32.663612,-116.97433,899000.0,2.0,3.0,1794.0,Single Family,908700.0,3994.0,https://photos.zillowstatic.com/fp/1d7696a8ba0182129a3334f0949c12cd-p_e.jpg
+736 Paseo Del Rey,Chula Vista,CA,91910,32.630497,-117.02954,899000.0,3.0,4.0,2119.0,Single Family,927300.0,4500.0,https://photos.zillowstatic.com/fp/a5c87cdc296dceb7616d7fb60fb9c71a-p_e.jpg
+1040 W Country Club Ln,Escondido,CA,92026,33.157574,-117.10871,899000.0,2.0,3.0,1724.0,Single Family,910400.0,3714.0,https://photos.zillowstatic.com/fp/cff06cda19357425cc7d8bc8ffa2f930-p_e.jpg
+4051 Clairemont Dr,San Diego,CA,92117,32.814476,-117.20072,899000.0,1.0,3.0,1152.0,Single Family,933400.0,3900.0,https://photos.zillowstatic.com/fp/fb42ca18c7ad65fa480fcbef95d61d94-p_e.jpg
+4878 Pescadero Ave UNIT 101,San Diego,CA,92107,32.739124,-117.25475,895000.0,1.0,1.0,700.0,Condo,768400.0,3214.0,https://photos.zillowstatic.com/fp/f4a947cc043f9d352d8b428f305577bd-p_e.jpg
+"33068 Regina Dr, Temecula, CA 92592",Temecula,CA,92592,33.473038,-117.08228,894000,3,4,2754,Single Family,894700,3497,https://photos.zillowstatic.com/fp/f22148febce46f47d8d699d9f593a10e-p_e.jpg
+1136 Melrose Way,Vista,CA,92081,33.18376,-117.25537,890000.0,2.0,3.0,1566.0,Single Family,894600.0,3687.0,https://photos.zillowstatic.com/fp/55ad533253df48158ffa4c23549030b8-p_e.jpg
+714 Fredricks Ave,Oceanside,CA,92058,33.237026,-117.335396,884000.0,2.0,4.0,1563.0,Single Family,889700.0,3734.0,https://photos.zillowstatic.com/fp/35a4d6caac992c28b1991318b078dc0f-p_e.jpg
+8766 Tommy Dr,San Diego,CA,92119,32.80587,-117.00884,880000.0,2.0,3.0,1326.0,Single Family,898800.0,3800.0,https://photos.zillowstatic.com/fp/c6070085e38c3f4569bfe1c9b80e6bd2-p_e.jpg
+2466 Myrtle Beach Way,Chula Vista,CA,91915,32.63201,-116.95109,880000.0,3.0,4.0,1743.0,Single Family,,,https://photos.zillowstatic.com/fp/caeaab942db12fb5474430ceb3639f82-p_e.jpg
+1862 Tavern Ct,Alpine,CA,91901,32.833637,-116.77662,879900.0,2.0,4.0,1836.0,Single Family,873000.0,3998.0,https://photos.zillowstatic.com/fp/ab1a81e3556ec4c87be5d594fdf35e9c-p_e.jpg
+718 Hilltop Dr,Chula Vista,CA,91910,32.63025,-117.06236,879000.0,3.0,4.0,2052.0,Single Family,883800.0,4200.0,https://photos.zillowstatic.com/fp/f242b7999b08f5b287086e42a82ceb6f-p_e.jpg
+361 E James Ct,Chula Vista,CA,91910,32.633747,-117.0486,875000.0,2.0,3.0,1381.0,Single Family,878000.0,3699.0,https://photos.zillowstatic.com/fp/2b76ca823dbbf1534d36ab6299a1624a-p_e.jpg
+1858 Ballina Dr,San Diego,CA,92114,32.723194,-117.07242,875000.0,3.0,4.0,2129.0,Single Family,889200.0,4440.0,https://photos.zillowstatic.com/fp/6170b145b380d028f4c012236298fe94-p_e.jpg
+1859 Crandall Dr,San Diego,CA,92111,32.77897,-117.165726,874950.0,2.0,3.0,1075.0,Single Family,802000.0,3699.0,https://photos.zillowstatic.com/fp/b0f2691c37f81162c0625f8eb8a44b88-p_e.jpg
+9928 Sadie St,Santee,CA,92071,32.85747,-116.96471,874900.0,2.0,5.0,1316.0,Single Family,867700.0,4396.0,https://photos.zillowstatic.com/fp/7307692781c8caf9d121ee1cb74f591a-p_e.jpg
+2069 Boulders Rd,Alpine,CA,91901,32.83859,-116.77124,870000.0,3.0,4.0,2116.0,Single Family,,,https://photos.zillowstatic.com/fp/132bc06d612bc4081aeded30254f48a7-p_e.jpg
+"15130 Jenell St, Poway, CA 92064",Poway,CA,92064,32.9884,-117.05622,870000,2,3,1234,Single Family,883900,3884,https://photos.zillowstatic.com/fp/47c250c359206ea30eebde047a58b7f6-p_e.jpg
+6145 Samuel St,La Mesa,CA,91942,32.79009,-117.02318,870000.0,2.0,3.0,1248.0,Single Family,874100.0,3634.0,https://photos.zillowstatic.com/fp/b5606f01c2dbdf4ce521109f24309baf-p_e.jpg
+9030 Redfield St,Spring Valley,CA,91977,32.71105,-117.00507,869000.0,3.0,5.0,2008.0,Single Family,885000.0,4319.0,https://photos.zillowstatic.com/fp/fb542565880b8de0136027db3c22384f-p_e.jpg
+"44699 Mumm St, Temecula, CA 92592",Temecula,CA,92592,33.476807,-117.06983,859000,3,4,2056,Single Family,,3200,https://photos.zillowstatic.com/fp/07e320e9ce96c9ab94a3bd6e36e5931a-p_e.jpg
+10897 Buckhurst Ave,San Diego,CA,92126,32.916348,-117.13463,859000.0,2.0,3.0,1134.0,Single Family,872200.0,3697.0,https://photos.zillowstatic.com/fp/24e1e1e55231c4315fad04e1588e5844-p_e.jpg
+613 Myrtlewood Ct,Oceanside,CA,92058,33.235523,-117.333626,859000.0,2.0,3.0,1631.0,Single Family,869300.0,3714.0,https://photos.zillowstatic.com/fp/a6e463c34c90a21efda6b6eeb58386d8-p_e.jpg
+9319 Lakeview Rd,Lakeside,CA,92040,32.846245,-116.90337,850000.0,2.0,3.0,1794.0,Single Family,854900.0,3999.0,https://photos.zillowstatic.com/fp/0f5be061fc3fa095b574718441e41981-p_e.jpg
+1965 Pinewood Rd,Vista,CA,92081,33.158836,-117.25747,850000.0,3.0,3.0,1665.0,Single Family,859900.0,3895.0,https://photos.zillowstatic.com/fp/517ae5b254e55fa10d1e88879d0a73b1-p_e.jpg
+19602 Santee Ln,Valley Center,CA,92082,33.216396,-116.9271,850000.0,2.0,3.0,1436.0,Single Family,824900.0,3194.0,https://photos.zillowstatic.com/fp/835b462779747881adfe207f6f2358d1-p_e.jpg
+2119 Vintage Pl,Escondido,CA,92027,33.15727,-117.06061,850000.0,3.0,4.0,2059.0,Single Family,863800.0,4359.0,https://photos.zillowstatic.com/fp/f6308b192c29531a073e5803d49b08b4-p_e.jpg
+458 E Oxford St,Chula Vista,CA,91911,32.61914,-117.03699,849999.0,3.0,5.0,1482.0,Single Family,862500.0,3569.0,https://photos.zillowstatic.com/fp/cfd52a795121c35f7d4bb1b701503cca-p_e.jpg
+103 Mangano Cir,Encinitas,CA,92024,33.050045,-117.28594,849900.0,2.0,2.0,900.0,Townhouse,825600.0,3226.0,https://photos.zillowstatic.com/fp/12b78f9cdea261aa06d1bb1098bcf621-p_e.jpg
+8840 Helen James Ave,San Diego,CA,92126,32.905003,-117.134125,849900.0,1.0,3.0,1073.0,Single Family,871700.0,3405.0,https://photos.zillowstatic.com/fp/9c4860572f175904ee2d8a9ad12ca562-p_e.jpg
+4030 Daves Way,San Diego,CA,92154,32.580395,-117.047516,849000.0,2.0,4.0,1735.0,Single Family,854200.0,3999.0,https://photos.zillowstatic.com/fp/64f429fbdb2fbf3824ba90bfef5fcec0-p_e.jpg
+1708 Birdsong Pl,El Cajon,CA,92021,32.81964,-116.92796,849000.0,3.0,4.0,1600.0,Single Family,858100.0,3936.0,https://photos.zillowstatic.com/fp/69483a2992afae0ca865d6b503ebdd57-p_e.jpg
+4588 Chinook Ct,San Diego,CA,92117,32.829437,-117.19625,849000.0,1.0,3.0,1006.0,Single Family,862400.0,3499.0,https://photos.zillowstatic.com/fp/fed0b2cdabaabda23c23eb10377a4086-p_e.jpg
+2988 Hires Way,San Diego,CA,92173,32.550198,-117.05494,839900.0,2.0,4.0,2017.0,Single Family,783000.0,4398.0,https://photos.zillowstatic.com/fp/5d018f60dd951b0980d404ab9bb4c4d8-p_e.jpg
+926 Park Villa Pl,Escondido,CA,92025,33.11813,-117.06822,839000.0,2.0,3.0,1598.0,Single Family,855100.0,3499.0,https://photos.zillowstatic.com/fp/61253c0a045829da42587adc58805443-p_e.jpg
+424 Corte Maria Ave,Chula Vista,CA,91910,32.63971,-117.06861,829000.0,2.0,4.0,1452.0,Single Family,832500.0,3796.0,https://photos.zillowstatic.com/fp/212d07afd577e2ea3cc07a0b26a597ca-p_e.jpg
+2505 Fieldcrest Pl,Spring Valley,CA,91977,32.732174,-116.976494,825000.0,3.0,4.0,1949.0,Single Family,818500.0,4396.0,https://photos.zillowstatic.com/fp/a7fed3880e3d4c834d345b6f9c8b35cc-p_e.jpg
+2016 Badger Gln,Escondido,CA,92029,33.097984,-117.116165,825000.0,3.0,3.0,1345.0,Single Family,842900.0,3789.0,https://photos.zillowstatic.com/fp/dbdc45c069496863b377499a5ec97083-p_e.jpg
+4380 Cartagena Dr,San Diego,CA,92115,32.757088,-117.06314,820000.0,1.0,2.0,1197.0,Single Family,809200.0,3099.0,https://photos.zillowstatic.com/fp/866041dcd835b5630e9a48a9f7a9860f-p_e.jpg
+1634 Oakforest Rd,Santa Ysabel,CA,92070,33.09604,-116.65815,820000.0,3.0,3.0,1780.0,Single Family,804700.0,3499.0,https://photos.zillowstatic.com/fp/e50b76ad01ed6c3a7ec987f6c521aa30-p_e.jpg
+270 Paseo Marguerita,Vista,CA,92084,33.23022,-117.24507,809900.0,2.0,3.0,1495.0,Single Family,811800.0,3462.0,https://photos.zillowstatic.com/fp/70642227eed538e28a3cea9818259ac8-p_e.jpg
+2191 Torrey Gln,Escondido,CA,92026,33.16646,-117.12532,800000.0,2.0,3.0,1603.0,Single Family,797100.0,3499.0,https://photos.zillowstatic.com/fp/28f9a9759b6292c7df33216528d4884f-p_e.jpg
+3432 Descanso Ave,San Marcos,CA,92078,33.15055,-117.20204,800000.0,2.0,3.0,1198.0,Single Family,791300.0,3499.0,https://photos.zillowstatic.com/fp/80a43934de55e1424f0ee8d35059c853-p_e.jpg
+"16495 Bernardo Oaks Dr, San Diego, CA 92128",San Diego,CA,92128,33.01276,-117.0638,800000,2,2,1197,Single Family,803700,3099,https://photos.zillowstatic.com/fp/90e70ac871cec3ce750fd679036f1686-p_e.jpg
+4355 Serena Ave,Oceanside,CA,92056,33.175983,-117.278,800000.0,2.0,4.0,1578.0,Single Family,804700.0,3775.0,https://photos.zillowstatic.com/fp/a04f6229ab847fc4462ee3ebc6b928cd-p_e.jpg
+1416 Phillips St,Vista,CA,92083,33.183743,-117.22666,799990.0,2.0,3.0,1481.0,Single Family,815000.0,3599.0,https://photos.zillowstatic.com/fp/8a2e5ff811b27936a94b38ba3abd6208-p_e.jpg
+270 Manzanita Dr,Oceanside,CA,92057,33.244976,-117.29532,799900.0,2.0,4.0,1411.0,Single Family,,3462.0,https://photos.zillowstatic.com/fp/010e3f55748f5f985f8c709f694dd247-p_e.jpg
+213 Los Soneto Dr,San Diego,CA,92114,32.705215,-117.04327,799900.0,2.0,3.0,1113.0,Single Family,,3395.0,https://photos.zillowstatic.com/fp/4e6c1baf143a62f3dc2c9a5851316096-p_e.jpg
+164 J St,Chula Vista,CA,91910,32.62889,-117.06868,799900.0,2.0,4.0,1600.0,Single Family,810600.0,3898.0,https://photos.zillowstatic.com/fp/b4701036df616a1c62e3dc3e3ee5767b-p_e.jpg
+"31664 Dane Ct, Temecula, CA 92591",Temecula,CA,92591,33.53117,-117.10684,799900,3,4,2293,Single Family,785000,3569,https://photos.zillowstatic.com/fp/bf4a608a077b864a9860b8e39f303d49-p_e.jpg
+8703 Valencia St,Spring Valley,CA,91977,32.73438,-117.01204,799900.0,3.0,4.0,1856.0,Single Family,794900.0,4366.0,https://photos.zillowstatic.com/fp/f42fa4e94bae025b23bac54802e73cd7-p_e.jpg
+1125 Mona Pl,El Cajon,CA,92020,32.780132,-116.97456,799000.0,2.0,4.0,1770.0,Single Family,781500.0,4199.0,https://photos.zillowstatic.com/fp/0e1d20b4082391962dd972170f59c403-p_e.jpg
+2157 Via Corte,Escondido,CA,92029,33.094208,-117.08714,799000.0,2.0,3.0,1261.0,Single Family,804100.0,3680.0,https://photos.zillowstatic.com/fp/68a48ae13b7beba25c670c9d3493e2c3-p_e.jpg
+5059 Niagara Ave UNIT 5,San Diego,CA,92107,32.7464,-117.25304,799000.0,1.0,1.0,560.0,Condo,788700.0,2764.0,https://photos.zillowstatic.com/fp/c7875854647d9256160d35cded4d1acb-p_e.jpg
+2512 Baily Ave,San Diego,CA,92105,32.732452,-117.09247,799000.0,2.0,3.0,1102.0,Single Family,791800.0,3428.0,https://photos.zillowstatic.com/fp/d7548ae90a1dc27bacef6a27d3e441aa-p_e.jpg
+16485 Sarape Dr,San Diego,CA,92128,33.01292,-117.06099,799000.0,2.0,2.0,1197.0,Single Family,808500.0,3187.0,https://photos.zillowstatic.com/fp/e0611133c93bad9639058a3e9ffe3013-p_e.jpg
+"3433 Lake Park Ave, Fallbrook, CA 92028",Fallbrook,CA,92028,33.325882,-117.14999,799000,3,4,2149,Single Family,790800,3929,https://photos.zillowstatic.com/fp/e9242abaac383ed4268d0f5d06fc6645-p_e.jpg
+3816 Marcwade Ct,San Diego,CA,92154,32.573334,-117.05203,795000.0,2.0,4.0,1960.0,Single Family,811400.0,4097.0,https://photos.zillowstatic.com/fp/292facfac053283fe8680599ae8648b5-p_e.jpg
+"31967 Aurora Ct, Temecula, CA 92591",Temecula,CA,92591,33.532696,-117.10219,795000,3,4,2986,Single Family,798300,3499,https://photos.zillowstatic.com/fp/8117afdf23335c020147e3ab535a2fdf-p_e.jpg
+2508 Meadowlark Ln,Escondido,CA,92027,33.13779,-117.03957,795000.0,2.0,3.0,1100.0,Single Family,812500.0,2700.0,https://photos.zillowstatic.com/fp/c83aef3996b95b191118d559f58589a6-p_e.jpg
+3386 Wittman Way,San Diego,CA,92173,32.54404,-117.04977,789900.0,3.0,4.0,1560.0,Single Family,797700.0,3800.0,https://photos.zillowstatic.com/fp/6ebf31d384c40c850e53bd17943ae3d1-p_e.jpg
+8503 Villa La Jolla Dr APT B,La Jolla,CA,92037,32.86399,-117.23512,789000.0,2.0,2.0,978.0,Condo,797600.0,3310.0,https://photos.zillowstatic.com/fp/6f982db1a04f8903a5e654eddca5d387-p_e.jpg
+8806 Olive Dr,Spring Valley,CA,91977,32.7421,-117.007774,787500.0,3.0,4.0,1878.0,Single Family,777900.0,4421.0,https://photos.zillowstatic.com/fp/4b571b2093bd15ed2888ad9359195a58-p_e.jpg
+1023 W Renette Ave,El Cajon,CA,92020,32.78384,-116.97446,779900.0,2.0,3.0,1856.0,Single Family,792600.0,3994.0,https://photos.zillowstatic.com/fp/66356153781143596298cd5119cbdeeb-p_e.jpg
+8771 Gracilior Pl,Escondido,CA,92026,33.25211,-117.14233,779900.0,2.0,4.0,1794.0,Single Family,789500.0,3694.0,https://photos.zillowstatic.com/fp/94b9364236c330ab882c4c63200af54d-p_e.jpg
+2253 Via Blanca,Oceanside,CA,92054,33.18552,-117.33336,779000.0,3.0,2.0,1712.0,Single Family,,3867.0,https://photos.zillowstatic.com/fp/5bc2d50b106840f70c5c82ea1041ec26-p_e.jpg
+2986 Luciernaga St UNIT 9,Carlsbad,CA,92009,33.107044,-117.239624,779000.0,3.0,2.0,1508.0,Condo,783600.0,3819.0,https://photos.zillowstatic.com/fp/dc130c3b94da9468c626a159804543e4-p_e.jpg
+4243 46th St,San Diego,CA,92115,32.7543,-117.09523,778000.0,1.0,3.0,917.0,Single Family,797300.0,3399.0,https://photos.zillowstatic.com/fp/385520a5ce5adcc5398f54e283f2f01e-p_e.jpg
+10022 Knollview Dr,Spring Valley,CA,91977,32.7302,-116.980736,774000.0,2.0,3.0,1602.0,Single Family,770800.0,3829.0,https://photos.zillowstatic.com/fp/acad3a6bb5f4092ad02f46f3c823a000-p_e.jpg
+2956 Ulric St,San Diego,CA,92111,32.796352,-117.17401,770000.0,1.0,2.0,750.0,Single Family,688500.0,3214.0,https://photos.zillowstatic.com/fp/2f2e295c04a4245ae0e53a7b6e2ee655-p_e.jpg
+2201 E Lincoln Ave,Escondido,CA,92027,33.14966,-117.05597,769000.0,2.0,3.0,1478.0,Single Family,781100.0,3499.0,https://photos.zillowstatic.com/fp/b61361014c4bcf13aaf0b8c5ac959f16-p_e.jpg
+"3605 Bernwood Pl UNIT 77, San Diego, CA 92130",San Diego,CA,92130,32.95561,-117.23577,765000,2,2,950,Single Family,782300,3262,https://photos.zillowstatic.com/fp/dd9dc31cc4e566ca20233ab5d5eaea41-p_e.jpg
+931 McLain St,Escondido,CA,92027,33.122658,-117.056305,765000.0,2.0,4.0,1330.0,Single Family,697900.0,3495.0,https://photos.zillowstatic.com/fp/f05cf19692cee11f2037bd636fafe404-p_e.jpg
+2446 Eagle Crest Ln,Vista,CA,92081,33.162815,-117.23147,759900.0,2.0,2.0,1411.0,Single Family,767800.0,3043.0,https://photos.zillowstatic.com/fp/854d8db43967c45bba5d7bc19d1b0a65-p_e.jpg
+1550 Bridgeview Dr,San Diego,CA,92105,32.721966,-117.11542,759000.0,2.0,3.0,1357.0,Townhouse,772300.0,3565.0,https://photos.zillowstatic.com/fp/1c45c5654bdacf213d92b166248d2178-p_e.jpg
+208 River Rock Ct,Santee,CA,92071,32.8458,-116.9889,759000.0,2.0,3.0,1369.0,Single Family,776900.0,3496.0,https://photos.zillowstatic.com/fp/5ce791e2be1dbdfed56aef8d0728515d-p_e.jpg
+9 L St,Chula Vista,CA,91911,32.624157,-117.06016,750000.0,2.0,3.0,1513.0,Single Family,762400.0,3800.0,https://photos.zillowstatic.com/fp/08e292a3f69de04074bd698b3c993d94-p_e.jpg
+8548 Rancho Canada Rd,El Cajon,CA,92021,32.831223,-116.89509,750000.0,2.0,3.0,1377.0,Single Family,757200.0,3750.0,https://photos.zillowstatic.com/fp/f3dff981cd229e4d2bb401c97e6887bb-p_e.jpg
+2720 L Ave,National City,CA,91950,32.662468,-117.08837,749999.0,1.0,2.0,988.0,Single Family,755400.0,2949.0,https://photos.zillowstatic.com/fp/283e1815b5e2d666b92cfea4fe407bd1-p_e.jpg
+10018 Tamil Rd,Lakeside,CA,92040,32.8615,-116.914375,749999.0,2.0,3.0,1285.0,Single Family,775800.0,3562.0,https://photos.zillowstatic.com/fp/2e4b924a9f23bacd9f615b64bc4e4382-p_e.jpg
+10350 Caminito Cuervo UNIT 76,San Diego,CA,92108,32.787132,-117.11103,749999.0,2.0,3.0,1352.0,Single Family,748900.0,3796.0,https://photos.zillowstatic.com/fp/30dbc5a0392d64d58074ddcc10aaae03-p_e.jpg
+919 Wellpott Pl,Vista,CA,92084,33.21284,-117.24031,749900.0,4.0,4.0,1498.0,Single Family,762800.0,3667.0,https://photos.zillowstatic.com/fp/5946bee496e8e0603019ad1867c1347b-p_e.jpg
+"28410 Sunset Rd, Valley Center, CA 92082",Valley Center,CA,92082,33.23035,-116.98028,749000,1,3,1120,Single Family,,3214,https://photos.zillowstatic.com/fp/a40f79060579d156f7dd1c8e44960c9d-p_e.jpg
+421 Hightree Pl,San Diego,CA,92114,32.693665,-117.03609,745000.0,2.0,3.0,1065.0,Single Family,752500.0,3421.0,https://photos.zillowstatic.com/fp/4b5b3eb391dd8826cf2e3b62565d30ac-p_e.jpg
+7489 Guthrie Way,San Diego,CA,92114,32.709507,-117.03704,740000.0,2.0,4.0,1176.0,Single Family,755700.0,3934.0,https://photos.zillowstatic.com/fp/5be1725e8883dfae2a9569a745aa0809-p_e.jpg
+1091 Jennifer Cir,Vista,CA,92083,33.21464,-117.25077,739000.0,2.0,3.0,1499.0,Single Family,775700.0,3525.0,https://photos.zillowstatic.com/fp/2ea3c79046803ad73c4d8b1ec9c1ddad-p_e.jpg
+2141 Jefferson Ave,Escondido,CA,92027,33.14382,-117.052,730000.0,2.0,3.0,1420.0,Single Family,646500.0,3597.0,https://photos.zillowstatic.com/fp/81b8eea725dba21a86670d48a184b46c-p_e.jpg
+6090 Rock St,San Diego,CA,92115,32.751842,-117.0647,729000.0,2.0,3.0,1044.0,Single Family,734100.0,6503.0,https://photos.zillowstatic.com/fp/5a7bb22bb3ee62765148d6ab49f448e9-p_e.jpg
+"16319 Gabarda Rd, San Diego, CA 92128",San Diego,CA,92128,33.00967,-117.05664,725000,2,2,1384,Single Family,729800,3280,https://photos.zillowstatic.com/fp/685715fa6959564ec3a9a22677d892ef-p_e.jpg
+"16967 Hierba Dr, San Diego, CA 92128",San Diego,CA,92128,33.02034,-117.07023,725000,2,2,1197,Single Family,738100,3200,https://photos.zillowstatic.com/fp/86e051d84c3fa2be3345c2e231f3a196-p_e.jpg
+3747 Hemlock St,San Diego,CA,92113,32.699543,-117.11358,725000.0,3.0,5.0,2150.0,Single Family,,5528.0,https://photos.zillowstatic.com/fp/b47cd1d9cdb12d07a6982cb5961de6ac-p_e.jpg
+1711 Kenora Dr,Escondido,CA,92027,33.12632,-117.050255,725000.0,2.0,4.0,1617.0,Single Family,728900.0,3789.0,https://photos.zillowstatic.com/fp/cbab378ccf2b012fc9e7b848b9d95e3f-p_e.jpg
+2510 Clairemont Dr UNIT 301,San Diego,CA,92117,32.791264,-117.20482,724900.0,2.0,2.0,1200.0,Condo,,,https://photos.zillowstatic.com/fp/73a26e1332020382fe3f332f2cffa000-p_e.jpg
+13732 Midland Rd,Poway,CA,92064,32.96388,-117.03661,720000.0,2.0,3.0,1216.0,Condo,733600.0,3314.0,https://photos.zillowstatic.com/fp/07b69b2b7c6cee737f08bd81c5d6f5f1-p_e.jpg
+27303 Center Loop,Santa Ysabel,CA,92070,33.212425,-116.738914,715000.0,3.0,3.0,1580.0,Single Family,698400.0,3350.0,https://photos.zillowstatic.com/fp/b25c4f785efee6f5f69414743780006e-p_e.jpg
+2909 Keats St APT 12,San Diego,CA,92106,32.72742,-117.225815,709900.0,2.0,2.0,669.0,Condo,532700.0,3030.0,https://photos.zillowstatic.com/fp/06a00b22740be74abbcc45f78938ef8d-p_e.jpg
+443 Maria Ave,Spring Valley,CA,91977,32.705257,-116.99397,699999.0,2.0,4.0,1200.0,Single Family,709900.0,3699.0,https://photos.zillowstatic.com/fp/4ec2e70abe0754cecad7c6d4582d04d0-p_e.jpg
+1514 7th Ave UNIT 903,San Diego,CA,92101,32.721294,-117.15866,699900.0,2.0,2.0,1069.0,Condo,,,https://photos.zillowstatic.com/fp/10f1b18d807aef6cddb669a489b167dd-p_e.jpg
+858 Rutgers Ave,Chula Vista,CA,91913,32.64624,-116.98468,699900.0,2.0,3.0,1509.0,Single Family,702600.0,3699.0,https://photos.zillowstatic.com/fp/3cab8ff4d1c6dfceb02c9a8a1cda3a51-p_e.jpg
+1960 Buena Creek Rd,Vista,CA,92084,33.174423,-117.20607,699000.0,1.0,3.0,1312.0,Single Family,690900.0,3469.0,https://photos.zillowstatic.com/fp/213029b85be6b4f411d8a2c2167fc769-p_e.jpg
+6059 Rancho Mission Rd UNIT 206,San Diego,CA,92108,32.783688,-117.1099,699000.0,2.0,3.0,1039.0,Condo,637300.0,3183.0,https://photos.zillowstatic.com/fp/7551fb9dbdf9f1a26f471f31fbb8e58e-p_e.jpg
+2266 Grand Ave UNIT 23,San Diego,CA,92109,32.800922,-117.228,699000.0,2.0,2.0,886.0,Condo,704900.0,3198.0,https://photos.zillowstatic.com/fp/8d2f30e8739ba855c4abf03af009c97f-p_e.jpg
+8622 Sunridge Dr,Santee,CA,92071,32.83288,-117.0236,697000.0,3.0,4.0,1110.0,Single Family,688000.0,3900.0,https://photos.zillowstatic.com/fp/bdd5b4527d9f2315b6a068e662df2178-p_e.jpg
+28390 Lilac Rd,Valley Center,CA,92082,33.2252,-117.04286,695000.0,1.0,2.0,964.0,Single Family,,,https://photos.zillowstatic.com/fp/4befb931108d46ef554d99affe3703ab-p_e.jpg
+"1168 N Crescent Ridge Rd, Fallbrook, CA 92028",Fallbrook,CA,92028,33.3726,-117.233986,695000,3,3,1896,Single Family,687600,3763,https://photos.zillowstatic.com/fp/e7c7500a67f288abebdbe5259f416f1c-p_e.jpg
+471 Adams Ave,Escondido,CA,92026,33.133987,-117.08073,695000.0,1.0,3.0,1234.0,Single Family,705000.0,3314.0,https://photos.zillowstatic.com/fp/f0b3fa703ce1efbcb5fcb56a057d5c58-p_e.jpg
+23826 Vista Ramona Rd,Ramona,CA,92065,33.025978,-116.81091,694990.0,2.0,3.0,1488.0,Single Family,689100.0,3294.0,https://photos.zillowstatic.com/fp/00961559e260a05d3c0d5e3df54c9c93-p_e.jpg
+"0 Willow Glen Rd, Fallbrook, CA 92028",Fallbrook,CA,92028,33.398933,-117.200134,685900,1,2,1200,Single Family,597300,2889,https://photos.zillowstatic.com/fp/d01edc2938c681d436d85b3589d143f7-p_e.jpg
+3950 Oregon St UNIT 4,San Diego,CA,92104,32.749462,-117.13549,685000.0,2.0,2.0,833.0,Condo,716700.0,3058.0,https://photos.zillowstatic.com/fp/469b180e799d890d388d3fa96d08babe-p_e.jpg
+1328 Carnell Ct,San Diego,CA,92154,32.572693,-117.06335,685000.0,2.0,3.0,1248.0,Single Family,697300.0,3399.0,https://photos.zillowstatic.com/fp/b45841d7aec079ecb2704ad38ec75962-p_e.jpg
+1031 Susana Ct,San Marcos,CA,92078,33.1255,-117.20942,678800.0,2.0,2.0,1200.0,Single Family,679500.0,3069.0,https://photos.zillowstatic.com/fp/0ac2488816394e95fa7f9467b2d93e18-p_e.jpg
+9930 Scripps Vista Way UNIT 145,San Diego,CA,92131,32.92457,-117.11246,675000.0,3.0,2.0,1116.0,Townhouse,693000.0,3200.0,https://photos.zillowstatic.com/fp/31e317b88bc146de708dc4c37fd22fd2-p_e.jpg
+9268 Hightop Ter,Lakeside,CA,92040,32.847042,-116.94041,675000.0,2.0,3.0,1234.0,Single Family,697800.0,2714.0,https://photos.zillowstatic.com/fp/74a63b0b43cddca35b31f86413f4c55d-p_e.jpg
+738 Carlsbad St,Spring Valley,CA,91977,32.70714,-117.0184,675000.0,2.0,3.0,1056.0,Single Family,696500.0,3294.0,https://photos.zillowstatic.com/fp/8c62b2eb345c594ebd320681b72011a1-p_e.jpg
+1689 Raynell Way,El Cajon,CA,92019,32.78351,-116.91862,675000.0,2.0,4.0,1232.0,Single Family,669800.0,4089.0,https://photos.zillowstatic.com/fp/b6aeddc88b29d27238e722aedd8efef8-p_e.jpg
+3507 Caminito Sier,Carlsbad,CA,92009,33.078667,-117.23138,674000.0,2.0,2.0,1022.0,Condo,677500.0,3214.0,https://photos.zillowstatic.com/fp/f3acc9050be116f281132a0402f836a7-p_e.jpg
+989 Caminito Estrella,Chula Vista,CA,91910,32.63916,-117.03126,655000.0,2.0,3.0,1100.0,Single Family,652900.0,3413.0,https://photos.zillowstatic.com/fp/9445d088bee2f8ab9755280b5fc0f5e5-p_e.jpg
+7200 Melody Ln UNIT 76,La Mesa,CA,91942,32.77798,-117.041565,650000.0,2.0,2.0,1194.0,Townhouse,658200.0,2995.0,https://photos.zillowstatic.com/fp/233ac2a82009aecd18035c14262e5cbd-p_e.jpg
+9921 Rockgate Way,Spring Valley,CA,91977,32.73521,-116.98258,650000.0,2.0,3.0,1296.0,Condo,632800.0,3234.0,https://photos.zillowstatic.com/fp/3989b785ced1d868af826548d53f210e-p_e.jpg
+11355 Affinity Ct UNIT 187,San Diego,CA,92131,32.92522,-117.11074,650000.0,2.0,2.0,1032.0,Single Family,659000.0,2995.0,https://photos.zillowstatic.com/fp/cc5b7fe2f7052ded20dc51704f930f97-p_e.jpg
+612 Via Del Mar,Vista,CA,92081,33.188972,-117.26509,649999.0,2.0,3.0,1840.0,Manufactured,652900.0,1783.0,https://photos.zillowstatic.com/fp/42509dbdab2b5864aa2bf8e216af45d4-p_e.jpg
+14955 Avenida Venusto UNIT 69,San Diego,CA,92128,32.98951,-117.067696,649900.0,2.0,3.0,1248.0,Single Family,,3528.0,https://photos.zillowstatic.com/fp/f6db5a196350542a8c2074e2aca0e109-p_e.jpg
+212 Montgomery St,Chula Vista,CA,91911,32.59705,-117.06075,649000.0,1.0,2.0,700.0,Single Family,652300.0,2014.0,https://photos.zillowstatic.com/fp/19724b3c9a840746ad9dabd1321ae085-p_e.jpg
+4221 Bonita Rd UNIT 10,Bonita,CA,91902,32.661057,-117.03659,649000.0,3.0,3.0,1647.0,Condo,659000.0,3449.0,https://photos.zillowstatic.com/fp/fa69470333b92abfcd60877fd052ec8a-p_e.jpg
+8505 Palm Pl,Lemon Grove,CA,91945,32.73439,-117.01728,630000.0,2.0,3.0,1359.0,Single Family,640100.0,3549.0,https://photos.zillowstatic.com/fp/7915b6adcbe92292b10506ad4f614369-p_e.jpg
+2802 Hopkins St,San Diego,CA,92139,32.66787,-117.06633,629900.0,2.0,3.0,1520.0,Single Family,,3762.0,https://photos.zillowstatic.com/fp/0e7eddef79fb540cab5a0fb917185bc3-p_e.jpg
+1825 Lodi Gln,Escondido,CA,92026,33.149532,-117.10765,625000.0,2.0,2.0,1666.0,Single Family,618500.0,3499.0,https://photos.zillowstatic.com/fp/abe670f482e66b8de791c40e1d3492f6-p_e.jpg
+10644 Dabney Dr APT 150,San Diego,CA,92126,32.91021,-117.15939,625000.0,2.0,2.0,920.0,Condo,644000.0,2900.0,https://photos.zillowstatic.com/fp/d45a159c3cf49ae99fbff853e6861db5-p_e.jpg
+4444 W Point Loma Blvd UNIT 106,San Diego,CA,92107,32.752655,-117.23205,599900.0,2.0,2.0,986.0,Single Family,596200.0,3195.0,https://photos.zillowstatic.com/fp/51f622fef2cbc3f36c7f97599a218234-p_e.jpg
+518 S Orange Ave,El Cajon,CA,92020,32.79001,-116.96383,599900.0,2.0,3.0,1242.0,Single Family,610800.0,3499.0,https://photos.zillowstatic.com/fp/ee23ec053559136ad4e0f161fd930f38-p_e.jpg
+2033 E Washington Ave,Escondido,CA,92027,33.14191,-117.053024,599000.0,2.0,3.0,912.0,Single Family,549600.0,2555.0,https://photos.zillowstatic.com/fp/552d150e8817408cc61fd8e01e07448a-p_e.jpg
+3988 60th St UNIT 23,San Diego,CA,92115,32.750103,-117.067245,574999.0,3.0,3.0,1147.0,Townhouse,579500.0,3025.0,https://photos.zillowstatic.com/fp/b5111385f86d67ce10c30c9bf7417aa3-p_e.jpg
+7358 Park View Ct UNIT 145,Santee,CA,92071,32.83462,-117.036835,569900.0,2.0,2.0,990.0,Condo,523700.0,2895.0,https://photos.zillowstatic.com/fp/908248ae138f6af900cee5eddb49464f-p_e.jpg
+8521 Villa La Jolla Dr APT H,La Jolla,CA,92037,32.863052,-117.23559,569000.0,1.0,1.0,504.0,Condo,513800.0,2400.0,https://photos.zillowstatic.com/fp/e5f058b323bb23aed10adcd65b8583be-p_e.jpg
+8765 Spring Canyon Dr,Spring Valley,CA,91977,32.69563,-117.01014,565000.0,3.0,3.0,1226.0,Townhouse,556100.0,3234.0,https://photos.zillowstatic.com/fp/5b695fba7a9bfcad80934b37325bd16b-p_e.jpg
+1365 Seacoast Dr UNIT N,Imperial Beach,CA,91932,32.57188,-117.1318,559000.0,1.0,2.0,650.0,Single Family,561300.0,2870.0,https://photos.zillowstatic.com/fp/2378944bae4805569588aa01dc602a64-p_e.jpg
+1454 15th St,Imperial Beach,CA,91932,32.56992,-117.10181,559000.0,2.0,2.0,952.0,Townhouse,530800.0,2595.0,https://photos.zillowstatic.com/fp/83464cb30e86a48eae4a767b0a5e7019-p_e.jpg
+3569 Coconut Way,Oceanside,CA,92058,33.233673,-117.336426,550000.0,2.0,2.0,1017.0,Condo,488400.0,2864.0,https://photos.zillowstatic.com/fp/9c5a208bdaf39a2a0f9924647eed29b8-p_e.jpg
+595 Beverly Pl,San Marcos,CA,92078,33.134125,-117.20316,550000.0,2.0,2.0,1068.0,Townhouse,,2995.0,https://photos.zillowstatic.com/fp/bf81082fed7c6dbe958c92c5f44d8b3d-p_e.jpg
+350 N El Camino Real SPACE 48,Encinitas,CA,92024,33.05479,-117.26355,549900.0,3.0,2.0,1740.0,Manufactured,548900.0,1654.0,https://photos.zillowstatic.com/fp/1d362b8f8fad7cf50f249a10f605b181-p_e.jpg
+1434 Hilltop Dr 1,Chula Vista,CA,91911,32.604057,-117.05291,549000.0,2.0,3.0,1296.0,Townhouse,535200.0,3284.0,https://photos.zillowstatic.com/fp/0cb062035090b977bbada159e86f22a2-p_e.jpg
+3866 San Pablo Ave,Oceanside,CA,92057,33.220127,-117.32338,549000.0,2.0,2.0,977.0,Single Family,553400.0,2695.0,https://photos.zillowstatic.com/fp/17149650eee10b3bc28e171e18ab882b-p_e.jpg
+4322 Dowitcher Way,Oceanside,CA,92057,33.224567,-117.303444,549000.0,2.0,2.0,1056.0,Single Family,540400.0,2800.0,https://photos.zillowstatic.com/fp/35b24a800fb431e3260328b750b659a3-p_e.jpg
+5760 Riley St UNIT 2,San Diego,CA,92110,32.767498,-117.18934,549000.0,2.0,2.0,866.0,Condo,,,https://photos.zillowstatic.com/fp/8242e2ff45baff4cfdf998be63ce9b85-p_e.jpg
+13806 Pinkard Way UNIT 41,El Cajon,CA,92021,32.84246,-116.88828,549000.0,3.0,2.0,1191.0,Townhouse,542700.0,2995.0,https://photos.zillowstatic.com/fp/f4132bf07b52de26cfa21fdd9b42197d-p_e.jpg
+7029 San Bartolo St 44,Carlsbad,CA,92011,33.10141,-117.31329,537000.0,2.0,2.0,1600.0,Manufactured,,,https://photos.zillowstatic.com/fp/b30dab943fd6c0e6cfb1b52766c8b3ea-p_e.jpg
+6025 Estelle St APT 7,San Diego,CA,92115,32.758347,-117.06766,529999.0,2.0,2.0,953.0,Condo,543000.0,2719.0,https://photos.zillowstatic.com/fp/a331d3ad3a07454fefb34d2a53b664ae-p_e.jpg
+1930 W San Marcos Blvd SPACE 168A,San Marcos,CA,92078,33.13864,-117.214806,520000.0,2.0,2.0,2160.0,Manufactured,502000.0,1656.0,https://photos.zillowstatic.com/fp/26339a5270722d21eeb1bc255053a63e-p_e.jpg
+903 Jamacha Rd,El Cajon,CA,92019,32.783974,-116.92772,519900.0,2.0,3.0,1014.0,Condo,529800.0,3194.0,https://photos.zillowstatic.com/fp/7eac20af95f82e58c7d8fa4b5fe2cf5d-p_e.jpg
+2112 E Vista Way APT 16,Vista,CA,92084,33.232975,-117.226875,515000.0,3.0,3.0,1452.0,Condo,523200.0,3234.0,https://photos.zillowstatic.com/fp/c416764f86f34cb98409b127ee0c5948-p_e.jpg
+1384 Temple Heights Dr,Oceanside,CA,92056,33.22394,-117.272995,510000.0,1.0,2.0,873.0,Single Family,,2450.0,https://photos.zillowstatic.com/fp/aa66ad9c70dedc412a860e7c37dcf7eb-p_e.jpg
+1651 S Juniper St UNIT 1,Escondido,CA,92025,33.107574,-117.070946,500000.0,2.0,2.0,988.0,Condo,446700.0,2527.0,https://photos.zillowstatic.com/fp/971e09fdb475ff24cc901f602824b0e6-p_e.jpg
+3660 Vista Campana N UNIT 34,Oceanside,CA,92057,33.2182,-117.32945,499999.0,2.0,2.0,1004.0,Single Family,487200.0,2665.0,https://photos.zillowstatic.com/fp/629a598669dbc2581582564e0c6529fe-p_e.jpg
+4722 Westridge Dr,Oceanside,CA,92056,33.21541,-117.2734,499900.0,1.0,2.0,873.0,Single Family,508800.0,2500.0,https://photos.zillowstatic.com/fp/f1ffaab5dfa2dcbde5da0dff92a05425-p_e.jpg
+1410 El Norte Pkwy 165,San Marcos,CA,92069,33.1552,-117.1559,499000.0,2.0,2.0,1440.0,Manufactured,,,https://photos.zillowstatic.com/fp/5da3cb25195a3efb2bd6f11e18098a5a-p_e.jpg
+238 Washington St B,Vista,CA,92084,33.20461,-117.24256,499000.0,1.0,2.0,896.0,Townhouse,493700.0,2450.0,https://photos.zillowstatic.com/fp/fbb6832b7e97cd982449cd5823113349-p_e.jpg
+8475 Avenida Angulia UNIT 39,Spring Valley,CA,91977,32.69625,-117.01483,490000.0,2.0,2.0,862.0,Townhouse,440500.0,2322.0,https://photos.zillowstatic.com/fp/5bda2501901605f4a72d7f9a5f5f7170-p_e.jpg
+1041 Turnstone Way,Oceanside,CA,92057,33.224167,-117.29734,489900.0,2.0,2.0,1064.0,Single Family,481200.0,2852.0,https://photos.zillowstatic.com/fp/60bdcbdd90dc34b24042ca977613f621-p_e.jpg
+1333 8th Ave UNIT 303,San Diego,CA,92101,32.719246,-117.15716,485900.0,1.0,1.0,673.0,Single Family,484300.0,2475.0,https://photos.zillowstatic.com/fp/adfce76052bfdcc4a34f8d5fdd46074d-p_e.jpg
+2316 Tocayo Ave UNIT 55,San Diego,CA,92154,32.56424,-117.082756,480000.0,1.0,2.0,840.0,Condo,456300.0,2570.0,https://photos.zillowstatic.com/fp/7a5a09b93b1ac0c60a42291d48849195-p_e.jpg
+4205 45th St APT 4,San Diego,CA,92115,32.753345,-117.09733,475000.0,2.0,2.0,930.0,Condo,482400.0,2629.0,https://photos.zillowstatic.com/fp/740722e4964bb3a6498c044037ca578c-p_e.jpg
+5980 Dandridge Ln UNIT 207,San Diego,CA,92115,32.74853,-117.0677,475000.0,2.0,2.0,1134.0,Condo,479200.0,2595.0,https://photos.zillowstatic.com/fp/8abfcdbf155c4d10717a24bd246050cb-p_e.jpg
+18650 Caminito Cantilena UNIT 282,San Diego,CA,92128,33.04826,-117.07202,464900.0,1.0,1.0,814.0,Condo,482200.0,2350.0,https://photos.zillowstatic.com/fp/9d6af0b22d105ff1c283a27abd932189-p_e.jpg
+4787 Castle Ave,San Diego,CA,92105,32.745007,-117.09185,461700.0,1.0,2.0,744.0,Single Family,588700.0,2835.0,https://photos.zillowstatic.com/fp/136f4eb62e40b6a822d1662abc8d9482-p_e.jpg
+1385 Caminito Gabaldon UNIT F,San Diego,CA,92108,32.77237,-117.15132,459500.0,1.0,1.0,726.0,Condo,399200.0,2250.0,https://photos.zillowstatic.com/fp/dd0d7494a8b5dff602b35ebdfbb2e999-p_e.jpg
+27725 Highway 79,Santa Ysabel,CA,92070,33.201607,-116.70123,439000.0,2.0,2.0,723.0,Single Family,,,https://photos.zillowstatic.com/fp/0c17cc4e04b85f1927e046fd12d2caba-p_e.jpg
+"3522 Pear Blossom Dr, Oceanside, CA 92057",Oceanside,CA,92057,33.209682,-117.332466,430000,2,2,1046,Single Family,419900,2800,https://photos.zillowstatic.com/fp/b6d86ea667737116b2fbcff788bab14d-p_e.jpg
+3684 Bartlett Ave,Oceanside,CA,92057,33.21163,-117.328156,429000.0,2.0,2.0,1050.0,Condo,450500.0,2800.0,https://photos.zillowstatic.com/fp/1a18b0d14405242e3b98f3349299f998-p_e.jpg
+1627 Lotus Gln,Escondido,CA,92026,33.14949,-117.11877,425000.0,2.0,2.0,1440.0,Manufactured,423700.0,1395.0,https://photos.zillowstatic.com/fp/db420176807c4b2173aa62ee089213f4-p_e.jpg
+3606 Vista Rey UNIT 36,Oceanside,CA,92057,33.21918,-117.33138,419999.0,2.0,2.0,1177.0,Condo,420800.0,2808.0,https://photos.zillowstatic.com/fp/eec3bf7b702743a9ea4af27fef49fe45-p_e.jpg
+4424 Estrella Ave APT 5,San Diego,CA,92115,32.757027,-117.09036,399000.0,1.0,1.0,580.0,Condo,334400.0,1852.0,https://photos.zillowstatic.com/fp/02f53fcdbb364489076052f11d123cda-p_e.jpg
+101 S Spruce St UNIT 228,Escondido,CA,92025,33.116028,-117.09123,398000.0,2.0,2.0,857.0,Condo,397000.0,2633.0,https://photos.zillowstatic.com/fp/ed9fa3fa0c1542bcc8980e396f684a81-p_e.jpg
+155 Las Flores Dr SPACE 77,San Marcos,CA,92069,33.155384,-117.20246,380000.0,2.0,3.0,1356.0,Manufactured,373200.0,1219.0,https://photos.zillowstatic.com/fp/42be31e44d1cecc7fd706c7bc9e71030-p_e.jpg
+15935 Spring Oaks Rd SPACE 169,El Cajon,CA,92021,32.860497,-116.825165,375000.0,2.0,3.0,1440.0,Manufactured,381400.0,928.0,https://photos.zillowstatic.com/fp/9d1938813e35fa70e934aa25fa6c4d98-p_e.jpg
+4050 46th St UNIT 18,San Diego,CA,92105,32.750538,-117.09595,365000.0,1.0,1.0,540.0,Condo,363300.0,1700.0,https://photos.zillowstatic.com/fp/4b1b3247137c2d21db37c2f6f6e750e4-p_e.jpg
+1677 Pentecost Way UNIT 4,San Diego,CA,92105,32.723278,-117.08125,345000.0,1.0,1.0,668.0,Townhouse,353800.0,2034.0,https://photos.zillowstatic.com/fp/29e8bf2fb4b6d81c01fd2cbc861d4ef4-p_e.jpg
+999 N Pacific St UNIT F13,Oceanside,CA,92054,33.2006,-117.38896,345000.0,2.0,2.0,1041.0,Single Family,,4196.0,https://photos.zillowstatic.com/fp/bec312154da76a2269421c6eccced27b-p_e.jpg
+276 N El Camino Real SPACE 56,Oceanside,CA,92058,33.234184,-117.32829,339900.0,2.0,2.0,1440.0,Manufactured,,,https://photos.zillowstatic.com/fp/15b1ebece5efbe5cee2dab2675727bd9-p_e.jpg
+200 N El Camino Real SPACE 163,Oceanside,CA,92058,33.232033,-117.33218,319000.0,2.0,3.0,1344.0,Manufactured,318300.0,965.0,https://photos.zillowstatic.com/fp/1b8bbceeddd9446acc10e858238d5482-p_e.jpg
+90 Blue Sky Ln,Oceanside,CA,92056,33.179306,-117.27857,304888.0,2.0,2.0,1440.0,Manufactured,319300.0,936.0,https://photos.zillowstatic.com/fp/d1d92dba8fddee684c5ef0c0839ad4e1-p_e.jpg
+2750 Wheatstone St SPACE 68,San Diego,CA,92111,32.79301,-117.1808,299000.0,2.0,2.0,1000.0,Manufactured,307100.0,1106.0,https://photos.zillowstatic.com/fp/d719cf3ca631332d08d18bd7789d396f-p_e.jpg
+9255 N Magnolia Ave SPACE 161,Santee,CA,92071,32.845737,-116.96876,295000.0,2.0,2.0,1152.0,Manufactured,,,https://photos.zillowstatic.com/fp/be26fc1b04bd70ca694ff3788e216901-p_e.jpg
+1010 E Bobier Dr SPACE 31,Vista,CA,92084,33.221004,-117.227745,249000.0,2.0,3.0,1440.0,Manufactured,242000.0,791.0,https://photos.zillowstatic.com/fp/975fef14c4d7cbffeddb78a1c90df025-p_e.jpg
+14215 Pecan Park Ln SPACE 91,El Cajon,CA,92021,32.843693,-116.87695,245000.0,2.0,4.0,1440.0,Manufactured,210100.0,703.0,https://photos.zillowstatic.com/fp/8b4f96fe1a90d7f083d0723949a82fcc-p_e.jpg
+900 Howard Ave SPACE 29,Escondido,CA,92029,33.112392,-117.109695,229000.0,2.0,2.0,672.0,Manufactured,,,https://photos.zillowstatic.com/fp/b2bef321bc7000acb846456dc31345a5-p_e.jpg
+7467 Mission Gorge Rd SPACE 13,Santee,CA,92071,32.834618,-117.03284,199000.0,2.0,2.0,1344.0,Manufactured,485300.0,1316.0,https://photos.zillowstatic.com/fp/85e5e3354459a74c02fb7942204b1815-p_e.jpg
+400 Greenfield Dr SPACE 147,El Cajon,CA,92021,32.814392,-116.95801,189900.0,2.0,3.0,1512.0,Manufactured,,2629.0,https://photos.zillowstatic.com/fp/b37b8044f4e807b77b2a144b09910c5a-p_e.jpg
+2750 Wheatstone St SPACE 219,San Diego,CA,92111,32.795437,-117.18293,185000.0,2.0,2.0,1080.0,Manufactured,185500.0,1077.0,https://photos.zillowstatic.com/fp/db2a89f7b5ad63a9b949f20b30eb317d-p_e.jpg
+275 S Worthington St S 123,Spring Valley,CA,91977,32.69119,-117.020035,175000.0,2.0,2.0,1464.0,Manufactured,,,https://photos.zillowstatic.com/fp/f6a9ae3881a1ca9697f6b823aa6fc3f2-p_e.jpg
+900 Howard Ave SPACE 67,Escondido,CA,92029,33.113667,-117.108025,155000.0,2.0,2.0,732.0,Manufactured,,,https://photos.zillowstatic.com/fp/2b0a3b42a048b64608d152a2d78a3ee2-p_e.jpg
+450 E Bradley Ave SPACE 48,El Cajon,CA,92021,32.81943,-116.95289,100000.0,2.0,2.0,1071.0,Manufactured,122600.0,393.0,https://photos.zillowstatic.com/fp/7238587c8d4f400984f7d23c0736458d-p_e.jpg
+28890 Lilac Rd SPACE 97,Valley Center,CA,92082,33.234432,-117.05792,45000.0,2.0,2.0,1344.0,Manufactured,,648.0,https://photos.zillowstatic.com/fp/7a8700eff1de82753ad1cac669232444-p_e.jpg
