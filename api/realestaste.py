@@ -77,7 +77,7 @@ class houses:
         def get(self):
             job_salary = int(request.args.get("salary"))
             predictedhouseprice = int(self.model.predictPrice(job_salary))
-            houses = db.session.query(House).filter(House.price >= predictedhouseprice - 1000000, House.price <= predictedhouseprice + 1000000).all()
+            houses = db.session.query(House).filter(House.price >= predictedhouseprice - (predictedhouseprice*0.2), House.price <= predictedhouseprice + (predictedhouseprice*0.2)).all()
             if houses == []:
                 return jsonify("No houses found")
             return jsonify([house.few_details() for house in houses])
