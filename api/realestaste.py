@@ -9,6 +9,7 @@ from ai.OpenAIEngine import HouseAIEngine
 import os
 from cryptography.fernet import Fernet
 from ml.realestatemlmodel import RecEngine
+from ml.jobsalaryhousemodel import SalaryRecEngine
 
 realestate_api = Blueprint('house', __name__, url_prefix='/api/house')
 
@@ -69,6 +70,17 @@ class houses:
             area = int(request.args.get("area"))
             rentestimate = int(request.args.get("rent"))
             return int(self.model.predictPrice(bath, bed, area, rentestimate))
+        
+    class _MLSalaryModel(Resource):
+        model = SalaryRecEngine()
+
+        def get(self):
+            job_salary = int(request.args.get("salary"))
+            predictedhouseprice = int(self.model.predictPrice(job_salary))
+            houses = db.session.query(House).filter(House.price >= predictedhouseprice - 1000000, House.price <= predictedhouseprice + 1000000).all()
+            if houses == []:
+                return jsonify("No houses found")
+            return jsonify([house.few_details() for house in houses])
                 
     api.add_resource(_getHouses, "/houses")
     api.add_resource(_gethousedetails, "/housedetails")
@@ -76,3 +88,4 @@ class houses:
     api.add_resource(_addToFavorites, "/addtofavorites")
     api.add_resource(_getFavorites, "/getfavorites")
     api.add_resource(_MLPriceModel, "/mlpricemodel")
+    api.add_resource(_MLSalaryModel, "/mlsalarymodel")
