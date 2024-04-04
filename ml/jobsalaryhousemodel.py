@@ -51,11 +51,11 @@ class SalaryRecEngine:
         # print('MAE is {}'.format(mae))
         # print('R2 score is {}'.format(r2))
 
-    def predictSalary(self, experience_level, employment_type, job_title, work_setting):
-        predicion = self.regressor.predict([[experience_level, employment_type, job_title, work_setting]])
+    def predictPrice(self, JobSalary):
+        predicion = self.regressor.predict([[JobSalary]])
         return predicion[0]
 
 
 # Instantiate the RecEngine class
 rec_engine = SalaryRecEngine()
-print(rec_engine.predictSalary(1800000))
+print(rec_engine.predictPrice(1800000))

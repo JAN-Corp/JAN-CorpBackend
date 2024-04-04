@@ -17,10 +17,16 @@ from api.realestaste import realestate_api
 from api.user import user_api  # Blueprint import api definition
 from api.player import player_api
 from api.titanic import titanic_api
+from api.jobuser import jobuser_api
+from api.job import job_api
+from api.aidanuser import aidanuser_api
 # database migrations
 from model.users import initUsers
 from model.players import initPlayers
-
+from model.aidanuser import initAidanUsers
+from model.jobs import initJobs
+from model.jobuser import initJobsUsers
+from model.applications import initApplications
 # setup App pages
 # Blueprint directory import projects definition
 from projects.projects import app_projects
@@ -29,6 +35,9 @@ from projects.projects import app_projects
 db.init_app(app)
 
 # register URIs
+app.register_blueprint(jobuser_api)
+app.register_blueprint(job_api)
+app.register_blueprint(aidanuser_api)
 app.register_blueprint(user_api)  # register api routes
 app.register_blueprint(player_api)
 app.register_blueprint(app_projects)  # register app pages
@@ -89,6 +98,10 @@ custom_cli = AppGroup('custom', help='Custom commands')
 def generate_data():
     initUsers()
     initPlayers()
+    initAidanUsers()
+    initJobs()
+    initJobsUsers()
+    initApplications()
 
 
 # Register the custom command group with the Flask application
