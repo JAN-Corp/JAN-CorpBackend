@@ -70,9 +70,7 @@ class House(db.Model, UserMixin):
             'livingarea': self.livingarea,
             'bathrooms': self.bathrooms,
             'bedrooms': self.bedrooms,
-            'imgSRC': self.imgSRC,
-            'lat': self.latitude,
-            'long': self.longitude
+            'imgSRC': self.imgSRC
         }
 
 
